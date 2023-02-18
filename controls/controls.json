@@ -1,0 +1,5018 @@
+[
+    {
+      "Hash": "0x3D23549A",
+      "HashName": "INPUT_FRONTEND_RIGHT_AXIS_X",
+      "Key": "[",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x430593AA",
+      "HashName": "INPUT_SNIPER_ZOOM_OUT_ONLY",
+      "Key": "[",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7ABC6A66",
+      "HashName": "INPUT_SNIPER_ZOOM",
+      "Key": "[",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA5BDCD3C",
+      "HashName": "INPUT_SNIPER_ZOOM_IN_ONLY",
+      "Key": "]",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x52D29063",
+      "HashName": "INPUT_EMOTE_TWIRL_GUN_VAR_B",
+      "Key": "BUTTON 1",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xE6F612E4",
+      "HashName": "INPUT_SELECT_QUICKSELECT_SIDEARMS_LEFT",
+      "Key": "BUTTON 1",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xF311100C",
+      "HashName": "INPUT_EMOTE_DANCE",
+      "Key": "BUTTON 1 (when actions menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x1CE6D9EB",
+      "HashName": "INPUT_SELECT_QUICKSELECT_DUALWIELD",
+      "Key": "BUTTON 2",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x6990BDDF",
+      "HashName": "INPUT_EMOTE_TWIRL_GUN_VAR_A",
+      "Key": "BUTTON 2",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x72BAD5AA",
+      "HashName": "INPUT_EMOTE_GREET",
+      "Key": "BUTTON 2 (when actions menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x4F49CC4C",
+      "HashName": "INPUT_SELECT_QUICKSELECT_SIDEARMS_RIGHT",
+      "Key": "BUTTON 3",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xAE69478F",
+      "HashName": "INPUT_EMOTE_TWIRL_GUN_VAR_D",
+      "Key": "BUTTON 3",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x661857B3",
+      "HashName": "INPUT_EMOTE_COMM",
+      "Key": "BUTTON 3 (when actions menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8F9F9E58",
+      "HashName": "INPUT_SELECT_QUICKSELECT_UNARMED",
+      "Key": "BUTTON 4",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x470DC190",
+      "HashName": "INPUT_EMOTE_TAUNT",
+      "Key": "BUTTON 4 (when actions menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xAB62E997",
+      "HashName": "INPUT_SELECT_QUICKSELECT_MELEE_NO_UNARMED",
+      "Key": "BUTTON 5",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xA1FDE2A6",
+      "HashName": "INPUT_SELECT_QUICKSELECT_SECONDARY_LONGARM",
+      "Key": "BUTTON 6",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xB03A913B",
+      "HashName": "INPUT_SELECT_QUICKSELECT_THROWN",
+      "Key": "BUTTON 7",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x42385422",
+      "HashName": "INPUT_SELECT_QUICKSELECT_PRIMARY_LONGARM",
+      "Key": "BUTTON 8",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x7065027D",
+      "HashName": "INPUT_MOVE_LEFT_ONLY",
+      "Key": "A",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x877F1027",
+      "HashName": "INPUT_FRONTEND_NAV_LEFT",
+      "Key": "A",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x86D773F6",
+      "HashName": "INPUT_HORSE_MOVE_LEFT_ONLY",
+      "Key": "A (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x07D1654C",
+      "HashName": "INPUT_VEH_CAR_TURN_LEFT_ONLY",
+      "Key": "A (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x198AFC64",
+      "HashName": "INPUT_VEH_DRAFT_TURN_LEFT_ONLY",
+      "Key": "A (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5BED7C91",
+      "HashName": "INPUT_VEH_BOAT_TURN_LEFT_ONLY",
+      "Key": "A (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9DF54706",
+      "HashName": "INPUT_VEH_MOVE_LEFT_ONLY",
+      "Key": "A (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x4CC0E2FE",
+      "HashName": "INPUT_OPEN_SATCHEL_MENU",
+      "Key": "B",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5966D52A",
+      "HashName": "INPUT_OPEN_SATCHEL_HORSE_MENU",
+      "Key": "B",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD3ECF82F",
+      "HashName": "INPUT_SHOP_BOUNTY",
+      "Key": "B",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xEED15F18",
+      "HashName": "INPUT_SWITCH_FIRING_MODE",
+      "Key": "B",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x156F7119",
+      "HashName": "INPUT_FRONTEND_CANCEL",
+      "Key": "BACKSPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x308588E6",
+      "HashName": "INPUT_GAME_MENU_CANCEL",
+      "Key": "BACKSPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5B48F938",
+      "HashName": "INPUT_FRONTEND_RRIGHT",
+      "Key": "BACKSPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8E90C7BB",
+      "HashName": "INPUT_QUIT",
+      "Key": "BACKSPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE9094BA0",
+      "HashName": "INPUT_MINIGAME_QUIT",
+      "Key": "BACKSPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9959A6F0",
+      "HashName": "INPUT_LOOK_BEHIND",
+      "Key": "C",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x81280569",
+      "HashName": "INPUT_HORSE_LOOK_BEHIND (while driving horse)",
+      "Key": "C",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA6C67243",
+      "HashName": "INPUT_CINEMATIC_CAM_CHANGE_SHOT",
+      "Key": "C",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xD8CF0C95",
+      "HashName": "INPUT_CREATOR_RS",
+      "Key": "C",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xCAE9B017",
+      "HashName": "INPUT_VEH_LOOK_BEHIND",
+      "Key": "C (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA6C67243",
+      "HashName": "INPUT_CINEMATIC_CAM_CHANGE_SHOT",
+      "Key": "C (when in cinematic mode camera)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD8CF0C95",
+      "HashName": "INPUT_CREATOR_RS",
+      "Key": "C (when in cinematic mode camera)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x811F4A1A",
+      "HashName": "INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY",
+      "Key": "CAPS LOCK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCEE12B50",
+      "HashName": "INPUT_SPECIAL_ABILITY",
+      "Key": "CAPS LOCK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x08BD758C",
+      "HashName": "INPUT_FRONTEND_NAV_RIGHT",
+      "Key": "D",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x4D8FB4C1",
+      "HashName": "INPUT_MOVE_LR",
+      "Key": "D",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB4E465B4",
+      "HashName": "INPUT_MOVE_RIGHT_ONLY",
+      "Key": "D",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF1111E4A",
+      "HashName": "INPUT_SCRIPTED_FLY_LR",
+      "Key": "D",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFB56DD5B",
+      "HashName": "INPUT_FRONTEND_AXIS_X",
+      "Key": "D",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3224BC55",
+      "HashName": "INPUT_FRONTEND_SCROLL_AXIS_X",
+      "Key": "D",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x3F4DC0EF",
+      "HashName": "INPUT_CREATOR_DELETE",
+      "Key": "DELETE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x4AF4D473",
+      "HashName": "INPUT_FRONTEND_DELETE",
+      "Key": "DELETE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x05CA7C52",
+      "HashName": "INPUT_FRONTEND_DOWN",
+      "Key": "DOWN ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x4403F97F",
+      "HashName": "INPUT_GAME_MENU_DOWN",
+      "Key": "DOWN ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x78114AB3",
+      "HashName": "INPUT_FRONTEND_NAV_DOWN",
+      "Key": "DOWN ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x21651AD6",
+      "HashName": "INPUT_FRONTEND_SCROLL_AXIS_Y",
+      "Key": "DOWN ARROW",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x126796EB",
+      "HashName": "INPUT_HORSE_MOVE_LR",
+      "Key": "D (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7E6B8612",
+      "HashName": "INPUT_HORSE_MOVE_RIGHT_ONLY",
+      "Key": "D (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3BD38D43",
+      "HashName": "INPUT_VEH_CAR_TURN_LR",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5E371EA7",
+      "HashName": "INPUT_VEH_DRAFT_TURN_RIGHT_ONLY",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6E3C3649",
+      "HashName": "INPUT_VEH_CAR_TURN_RIGHT_ONLY",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x97A8FD98",
+      "HashName": "INPUT_VEH_MOVE_RIGHT_ONLY",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA7DFAE8A",
+      "HashName": "INPUT_VEH_DRAFT_TURN_LR",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD8DFCAB3",
+      "HashName": "INPUT_VEH_BOAT_TURN_LR",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF1E2852C",
+      "HashName": "INPUT_VEH_MOVE_LR",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF9780DFB",
+      "HashName": "INPUT_VEH_BOAT_TURN_RIGHT_ONLY",
+      "Key": "D (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x018C47CF",
+      "HashName": "INPUT_MELEE_GRAPPLE_CHOKE",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x110AD1D2",
+      "HashName": "INPUT_GAME_MENU_TAB_RIGHT",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x14DB6C5E",
+      "HashName": "INPUT_LOOT_VEHICLE",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x17BEC168",
+      "HashName": "INPUT_FRONTEND_RB",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x17D3BFF5",
+      "HashName": "INPUT_INTERACT_LEAD_ANIMAL",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x2277FAE9",
+      "HashName": "INPUT_MELEE_GRAPPLE",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x2EAB0795",
+      "HashName": "INPUT_DYNAMIC_SCENARIO",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x399C6619",
+      "HashName": "INPUT_LOOT2",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x41AC83D1",
+      "HashName": "INPUT_LOOT",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x43F2959C",
+      "HashName": "INPUT_REVIVE",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5E723D8C",
+      "HashName": "INPUT_SHOP_INSPECT",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x91C9A817",
+      "HashName": "INPUT_MELEE_GRAPPLE_REVERSAL",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x97C71B28",
+      "HashName": "INPUT_BREAK_VEHICLE_LOCK",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9BEE9213",
+      "HashName": "INPUT_MAP_POI",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9FA5AD07",
+      "HashName": "INPUT_INTERACT_LOCKON_ROB",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA4F1006B",
+      "HashName": "INPUT_ARREST",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA95E1468",
+      "HashName": "INPUT_HITCH_ANIMAL",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC75C27B0",
+      "HashName": "INPUT_IGNITE",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCEFD9220",
+      "HashName": "INPUT_ENTER",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD51B784F",
+      "HashName": "INPUT_CONTEXT_Y",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xDB8D69B8",
+      "HashName": "INPUT_SURRENDER",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xDFF812F9",
+      "HashName": "INPUT_SHOP_BUY",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE2473BF0",
+      "HashName": "INPUT_INTERACT_LOCKON_TRACK_ANIMAL",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF5C4701B",
+      "HashName": "INPUT_INTERACT_LOCKON_DETACH_HORSE",
+      "Key": "E",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB99A9CAD",
+      "HashName": "INPUT_CRAFTING_EAT",
+      "Key": "E",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xCBDB82A8",
+      "HashName": "INPUT_HORSE_EXIT",
+      "Key": "E (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFEFAB9B4",
+      "HashName": "INPUT_VEH_EXIT",
+      "Key": "E (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE71F89B8",
+      "HashName": "INPUT_RADIAL_MENU_SLOT_NAV_NEXT",
+      "Key": "E (when radial menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x2CD5343E",
+      "HashName": "INPUT_CREATOR_ACCEPT",
+      "Key": "ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x43DBF61F",
+      "HashName": "INPUT_GAME_MENU_ACCEPT",
+      "Key": "ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5734A944",
+      "HashName": "INPUT_FRONTEND_RDOWN",
+      "Key": "ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC7B5340A",
+      "HashName": "INPUT_FRONTEND_ACCEPT",
+      "Key": "ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCDC4E4E9",
+      "HashName": "INPUT_SKIP_CUTSCENE",
+      "Key": "ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x156F7119",
+      "HashName": "INPUT_FRONTEND_CANCEL",
+      "Key": "ESC",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x308588E6",
+      "HashName": "INPUT_GAME_MENU_CANCEL",
+      "Key": "ESC",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x4A903C11",
+      "HashName": "INPUT_FRONTEND_PAUSE_ALTERNATE",
+      "Key": "ESC",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5B48F938",
+      "HashName": "INPUT_FRONTEND_RRIGHT",
+      "Key": "ESC",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8E90C7BB",
+      "HashName": "INPUT_QUIT",
+      "Key": "ESC",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE9094BA0",
+      "HashName": "INPUT_MINIGAME_QUIT",
+      "Key": "ESC",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3E89055A",
+      "HashName": "INPUT_FRONTEND_KEYMAPPING_CANCEL",
+      "Key": "ESC (returning from main menu)",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x0522B243",
+      "HashName": "INPUT_INTERACT_HIT_CARRIABLE",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x26A18F47",
+      "HashName": "INPUT_INTERACT_LOCKON_NEG",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3B24C470",
+      "HashName": "INPUT_CONTEXT_B",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x424BD2D2",
+      "HashName": "INPUT_INTERACT_NEG",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6E9734E8",
+      "HashName": "INPUT_CARRIABLE_SUICIDE",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7914A3DD",
+      "HashName": "INPUT_STOP_LEADING_ANIMAL",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xADEAF48C",
+      "HashName": "INPUT_MELEE_GRAPPLE_ATTACK",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB2F377E8",
+      "HashName": "INPUT_MELEE_ATTACK",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD2CC4644",
+      "HashName": "INPUT_CUT_FREE",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD596CFB0",
+      "HashName": "INPUT_GAME_MENU_EXTRA_OPTION",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD9C50532",
+      "HashName": "INPUT_HOGTIE",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xEA150E72",
+      "HashName": "INPUT_SHOP_SPECIAL",
+      "Key": "F",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC67E13BB",
+      "HashName": "INPUT_CAMP_BED_INSPECT",
+      "Key": "F",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x4216AF06",
+      "HashName": "INPUT_HORSE_COMMAND_FLEE (when horse menu is active)",
+      "Key": "F",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1A3EABBB",
+      "HashName": "INPUT_HORSE_MELEE",
+      "Key": "F (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x1F6D95E5",
+      "HashName": "INPUT_SELECT_ITEM_WHEEL",
+      "Key": "F4",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x35957F6C",
+      "HashName": "INPUT_PHOTO_MODE_PC",
+      "Key": "F6",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x3C0A40F2",
+      "HashName": "INPUT_PHOTO_MODE",
+      "Key": "F6",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x5415BE48",
+      "HashName": "INPUT_INTERACT_LOCKON_ANIMAL",
+      "Key": "G",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x760A9C6F",
+      "HashName": "INPUT_INTERACT_OPTION1",
+      "Key": "G",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA1ABB953",
+      "HashName": "INPUT_INTERACT_ANIMAL",
+      "Key": "G",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x63A0D258",
+      "HashName": "INPUT_VEH_HORN",
+      "Key": "G (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x24978A28",
+      "HashName": "INPUT_WHISTLE",
+      "Key": "H",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x73A8FD83",
+      "HashName": "INPUT_SADDLE_TRANSFER",
+      "Key": "H",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x84543902",
+      "HashName": "INPUT_INTERACT_OPTION2",
+      "Key": "H",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC5CF41B2",
+      "HashName": "INPUT_MULTIPLAYER_PREDATOR_ABILITY",
+      "Key": "H",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE7EB9185",
+      "HashName": "INPUT_WHISTLE_HORSEBACK",
+      "Key": "H (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x064D1698",
+      "HashName": "INPUT_FRONTEND_SOCIAL_CLUB",
+      "Key": "HOME",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC1989F95",
+      "HashName": "INPUT_QUICK_USE_ITEM",
+      "Key": "I",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF3830D8E",
+      "HashName": "INPUT_OPEN_JOURNAL",
+      "Key": "J",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x80F28E95",
+      "HashName": "INPUT_PLAYER_MENU",
+      "Key": "L",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x580C4473",
+      "HashName": "INPUT_HUD_SPECIAL",
+      "Key": "LEFT ALT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8AAA0AD4",
+      "HashName": "INPUT_PC_FREE_LOOK",
+      "Key": "LEFT ALT",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xCF8A4ECA",
+      "HashName": "INPUT_REVEAL_HUD",
+      "Key": "LEFT ALT (fast tapping)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x0F39B3D4",
+      "HashName": "INPUT_SELECT_RADAR_MODE",
+      "Key": "LEFT ALT (while holding)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE8342FF2",
+      "HashName": "INPUT_MULTIPLAYER_INFO",
+      "Key": "LEFT ALT (while holding)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x20190AB4",
+      "HashName": "INPUT_DOCUMENT_PAGE_PREV",
+      "Key": "LEFT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x877F1027",
+      "HashName": "INPUT_FRONTEND_NAV_LEFT",
+      "Key": "LEFT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA65EBAB4",
+      "HashName": "INPUT_FRONTEND_LEFT",
+      "Key": "LEFT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xAD7FCC5B",
+      "HashName": "INPUT_GAME_MENU_LEFT",
+      "Key": "LEFT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x339F3730",
+      "HashName": "INPUT_CREATOR_LS",
+      "Key": "LEFT CONTROL",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x67ED272E",
+      "HashName": "INPUT_MELEE_GRAPPLE_MOUNT_SWITCH",
+      "Key": "LEFT CONTROL",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9C5E030C",
+      "HashName": "INPUT_SCRIPTED_FLY_ZDOWN",
+      "Key": "LEFT CONTROL",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD7DE6B1E",
+      "HashName": "INPUT_FRONTEND_RUP",
+      "Key": "LEFT CONTROL",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xDB096B85",
+      "HashName": "INPUT_DUCK",
+      "Key": "LEFT CONTROL",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x0B1BE2E8",
+      "HashName": "INPUT_CAMP_SETUP_TENT",
+      "Key": "LEFT CONTROL",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xE16B9AAD",
+      "HashName": "INPUT_HORSE_STOP",
+      "Key": "LEFT CONTROL (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x2D79D80A",
+      "HashName": "INPUT_VEH_HANDCART_BRAKE",
+      "Key": "LEFT CONTROL (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x428D5F39",
+      "HashName": "INPUT_VEH_BOAT_BRAKE",
+      "Key": "LEFT CONTROL (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x65D24C98",
+      "HashName": "INPUT_VEH_HANDBRAKE",
+      "Key": "LEFT CONTROL (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6E1F639B",
+      "HashName": "INPUT_VEH_BRAKE",
+      "Key": "LEFT CONTROL (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD1887B3F",
+      "HashName": "INPUT_VEH_CAR_BRAKE",
+      "Key": "LEFT CONTROL (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD648E48D",
+      "HashName": "INPUT_VEH_DRAFT_BRAKE",
+      "Key": "LEFT CONTROL (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7C0162C0",
+      "HashName": "INPUT_FRONTEND_Y",
+      "Key": "LEFT SHIFT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8FFC75D6",
+      "HashName": "INPUT_SPRINT",
+      "Key": "LEFT SHIFT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x639B9FC9",
+      "HashName": "INPUT_SCRIPTED_FLY_ZUP",
+      "Key": "LEFT SHIFT",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x5AA007D7",
+      "HashName": "INPUT_HORSE_SPRINT",
+      "Key": "LEFT SHIFT (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5B9FD4E2",
+      "HashName": "INPUT_VEH_ACCELERATE",
+      "Key": "LEFT SHIFT (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7232BAB3",
+      "HashName": "INPUT_VEH_FLY_THROTTLE_UP",
+      "Key": "LEFT SHIFT (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB341E812",
+      "HashName": "INPUT_VEH_BOAT_ACCELERATE",
+      "Key": "LEFT SHIFT (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB9F544B0",
+      "HashName": "INPUT_VEH_CAR_ACCELERATE",
+      "Key": "LEFT SHIFT (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE99D2B05",
+      "HashName": "INPUT_VEH_DRAFT_ACCELERATE",
+      "Key": "LEFT SHIFT (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFF3626FC",
+      "HashName": "INPUT_VEH_HANDCART_ACCELERATE",
+      "Key": "LEFT SHIFT (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE31C6A41",
+      "HashName": "INPUT_MAP",
+      "Key": "M",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x07B8BEAF",
+      "HashName": "INPUT_CONTEXT_RT",
+      "Key": "MOUSE LEFT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x07CE1E61",
+      "HashName": "INPUT_ATTACK",
+      "Key": "MOUSE LEFT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9D2AEA88",
+      "HashName": "INPUT_CURSOR_ACCEPT",
+      "Key": "MOUSE LEFT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB28318C0",
+      "HashName": "INPUT_CONTEXT_ACTION",
+      "Key": "MOUSE LEFT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCDC4E4E9",
+      "HashName": "INPUT_SKIP_CUTSCENE",
+      "Key": "MOUSE LEFT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x13C42BB2",
+      "HashName": "INPUT_EMOTE_ACTION",
+      "Key": "MOUSE LEFT CLICK",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x1C559F2E",
+      "HashName": "INPUT_CURSOR_ACCEPT_DOUBLE_CLICK",
+      "Key": "MOUSE LEFT CLICK (when double clicked)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x60C81CDE",
+      "HashName": "INPUT_HORSE_ATTACK",
+      "Key": "MOUSE LEFT CLICK (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x27AD4433",
+      "HashName": "INPUT_VEH_PASSENGER_ATTACK",
+      "Key": "MOUSE LEFT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5572F386",
+      "HashName": "INPUT_VEH_CAR_ATTACK",
+      "Key": "MOUSE LEFT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6866FA3A",
+      "HashName": "INPUT_VEH_BOAT_ATTACK",
+      "Key": "MOUSE LEFT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF40AB198",
+      "HashName": "INPUT_VEH_DRAFT_ATTACK",
+      "Key": "MOUSE LEFT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF4330038",
+      "HashName": "INPUT_VEH_ATTACK",
+      "Key": "MOUSE LEFT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE474F150",
+      "HashName": "INPUT_CURSOR_ACCEPT_HOLD",
+      "Key": "MOUSE LEFT CLICK (when holding)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x84574AE8",
+      "HashName": "INPUT_CINEMATIC_CAM_UD",
+      "Key": "MOUSE MOVE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8ED92E16",
+      "HashName": "INPUT_LOOK_DOWN_ONLY",
+      "Key": "MOUSE MOVE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xBA60039F",
+      "HashName": "INPUT_RADIAL_MENU_NAV_UD",
+      "Key": "MOUSE MOVE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD2047988",
+      "HashName": "INPUT_LOOK_UD",
+      "Key": "MOUSE MOVE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE4130778",
+      "HashName": "INPUT_CURSOR_Y",
+      "Key": "MOUSE MOVE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xBFF476F9",
+      "HashName": "INPUT_HORSE_GUN_UD",
+      "Key": "MOUSE MOVE DOWN (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x482560EE",
+      "HashName": "INPUT_VEH_GUN_UD",
+      "Key": "MOUSE MOVE DOWN (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x4AA1560E",
+      "HashName": "INPUT_VEH_STUNT_UD",
+      "Key": "MOUSE MOVE DOWN (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x390948DC",
+      "HashName": "INPUT_RADIAL_MENU_NAV_LR",
+      "Key": "MOUSE MOVE RIGHT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6BC904FC",
+      "HashName": "INPUT_CINEMATIC_CAM_LR",
+      "Key": "MOUSE MOVE RIGHT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA1EB1353",
+      "HashName": "INPUT_LOOK_RIGHT_ONLY",
+      "Key": "MOUSE MOVE RIGHT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA987235F",
+      "HashName": "INPUT_LOOK_LR",
+      "Key": "MOUSE MOVE RIGHT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD6C4ECDC",
+      "HashName": "INPUT_CURSOR_X",
+      "Key": "MOUSE MOVE RIGHT",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3D99EEC6",
+      "HashName": "INPUT_HORSE_GUN_LR",
+      "Key": "MOUSE MOVE RIGHT (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB6F3E4FE",
+      "HashName": "INPUT_VEH_GUN_LR",
+      "Key": "MOUSE MOVE RIGHT (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x53296B75",
+      "HashName": "INPUT_INSPECT_ZOOM",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6328239B",
+      "HashName": "INPUT_SPECIAL_ABILITY_SECONDARY",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xBE1F4699",
+      "HashName": "INPUT_MELEE_GRAPPLE_STAND_SWITCH",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC13A6564",
+      "HashName": "INPUT_CONTEXT_LT",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF84FA74F",
+      "HashName": "INPUT_AIM",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF8982F00",
+      "HashName": "INPUT_INTERACT_LOCKON",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x04FB8191",
+      "HashName": "INPUT_EMOTE_TWIRL_GUN_HOLD",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x1E7D7275",
+      "HashName": "INPUT_MELEE_MODIFIER",
+      "Key": "MOUSE RIGHT CLICK",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x27568539",
+      "HashName": "INPUT_CURSOR_CANCEL",
+      "Key": "MOUSE RIGHT CLICK (fast, not holding)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x61470051",
+      "HashName": "INPUT_HORSE_AIM",
+      "Key": "MOUSE RIGHT CLICK (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6777B840",
+      "HashName": "INPUT_VEH_CAR_AIM",
+      "Key": "MOUSE RIGHT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x92F5F01E",
+      "HashName": "INPUT_VEH_BOAT_AIM",
+      "Key": "MOUSE RIGHT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xBDD5830D",
+      "HashName": "INPUT_VEH_DRAFT_AIM",
+      "Key": "MOUSE RIGHT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD7CAFCEF",
+      "HashName": "INPUT_VEH_AIM",
+      "Key": "MOUSE RIGHT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xEE2804D0",
+      "HashName": "INPUT_VEH_PASSENGER_AIM",
+      "Key": "MOUSE RIGHT CLICK (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD45EC04F",
+      "HashName": "INPUT_QUICK_SELECT_SET_FOR_SWAP",
+      "Key": "MOUSE RIGHT CLICK (when wheel menu is active)",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x811F4A1A",
+      "HashName": "INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY",
+      "Key": "MOUSE SCROLL CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCEE12B50",
+      "HashName": "INPUT_SPECIAL_ABILITY",
+      "Key": "MOUSE SCROLL CLICK",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8AAA0AD4",
+      "HashName": "INPUT_PC_FREE_LOOK",
+      "Key": "MOUSE SCROLL CLICK",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x430593AA",
+      "HashName": "INPUT_SNIPER_ZOOM_OUT_ONLY",
+      "Key": "MOUSE SCROLL DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7ABC6A66",
+      "HashName": "INPUT_SNIPER_ZOOM",
+      "Key": "MOUSE SCROLL DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8BDE7443",
+      "HashName": "INPUT_CURSOR_SCROLL_DOWN",
+      "Key": "MOUSE SCROLL DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9DA42644",
+      "HashName": "INPUT_GAME_MENU_SCROLL_BACKWARD",
+      "Key": "MOUSE SCROLL DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD0842EDF",
+      "HashName": "INPUT_SELECT_NEXT_WEAPON",
+      "Key": "MOUSE SCROLL DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFD0F0C2C",
+      "HashName": "INPUT_NEXT_WEAPON",
+      "Key": "MOUSE SCROLL DOWN",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x3076E97C",
+      "HashName": "INPUT_TOGGLE_WEAPON_SCOPE",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x406ADFAE",
+      "HashName": "INPUT_ACCURATE_AIM",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x62800C92",
+      "HashName": "INPUT_CURSOR_SCROLL_UP",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x81457A1A",
+      "HashName": "INPUT_GAME_MENU_SCROLL_FORWARD",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x841240A9",
+      "HashName": "INPUT_IRON_SIGHT",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA5BDCD3C",
+      "HashName": "INPUT_SNIPER_ZOOM_IN_ONLY",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xEB4130DF",
+      "HashName": "INPUT_FRONTEND_RIGHT_AXIS_Y",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF78D7337",
+      "HashName": "INPUT_SELECT_PREV_WEAPON",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCC1075A7",
+      "HashName": "INPUT_PREV_WEAPON",
+      "Key": "MOUSE SCROLL UP",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x4BC9DABB",
+      "HashName": "INPUT_PUSH_TO_TALK",
+      "Key": "N",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x2CD5343E",
+      "HashName": "INPUT_CREATOR_ACCEPT",
+      "Key": "NUM ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x43DBF61F",
+      "HashName": "INPUT_GAME_MENU_ACCEPT",
+      "Key": "NUM ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC7B5340A",
+      "HashName": "INPUT_FRONTEND_ACCEPT",
+      "Key": "NUM ENTER",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF1301666",
+      "HashName": "INPUT_VEH_HEADLIGHT",
+      "Key": "O (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD82E0BD2",
+      "HashName": "INPUT_FRONTEND_PAUSE",
+      "Key": "P",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x110AD1D2",
+      "HashName": "INPUT_GAME_MENU_TAB_RIGHT",
+      "Key": "PAGE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3C3DD371",
+      "HashName": "INPUT_CREATOR_RT",
+      "Key": "PAGE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x51104035",
+      "HashName": "INPUT_FRONTEND_LT",
+      "Key": "PAGE DOWN",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x446258B6",
+      "HashName": "INPUT_CREATOR_LT",
+      "Key": "PAGE UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6FED71BC",
+      "HashName": "INPUT_FRONTEND_RT",
+      "Key": "PAGE UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCBD5B26E",
+      "HashName": "INPUT_GAME_MENU_TAB_LEFT",
+      "Key": "PAGE UP",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x06052D11",
+      "HashName": "INPUT_DIVE",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x1ECA87D4",
+      "HashName": "INPUT_SPECIAL_ABILITY_ACTION",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x31219490",
+      "HashName": "INPUT_INTERACT_LOCKON_TARGET_INFO",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8CF90A9D",
+      "HashName": "INPUT_PROMPT_PAGE_NEXT",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB3F388BC",
+      "HashName": "INPUT_INTERACT_LOCKON_STUDY_BINOCULARS",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xCBD5B26E",
+      "HashName": "INPUT_GAME_MENU_TAB_LEFT",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xDE794E3E",
+      "HashName": "INPUT_COVER",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE885EF16",
+      "HashName": "INPUT_FRONTEND_LB",
+      "Key": "Q",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x93D6723F",
+      "HashName": "INPUT_RADIAL_MENU_SLOT_NAV_PREV",
+      "Key": "Q (when radial menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x27D1C284",
+      "HashName": "INPUT_LOOT3",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x295175BF",
+      "HashName": "INPUT_CARRIABLE_BREAK_FREE",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6D1319BE",
+      "HashName": "INPUT_SHOP_SELL",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x71F89BBC",
+      "HashName": "INPUT_INTERACT_LOCKON_CALL_ANIMAL",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7D326951",
+      "HashName": "INPUT_PLACE_CARRIABLE_ONTO_PARENT",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x956C2A0E",
+      "HashName": "INPUT_MERCY_KILL",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xA1202C7B",
+      "HashName": "INPUT_PICKUP_CARRIABLE_FROM_PARENT",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB5EEEFB7",
+      "HashName": "INPUT_MELEE_BLOCK",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xBE8593AF",
+      "HashName": "INPUT_PICKUP_CARRIABLE2",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD0C1FEFF",
+      "HashName": "INPUT_MELEE_GRAPPLE_BREAKOUT",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD2928083",
+      "HashName": "INPUT_DROP",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE30CD707",
+      "HashName": "INPUT_RELOAD",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE3BF959B",
+      "HashName": "INPUT_CONTEXT_X",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xEB2AC491",
+      "HashName": "INPUT_PICKUP_CARRIABLE",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x77110B0A",
+      "HashName": "INPUT_BREAK_DOOR_LOCK",
+      "Key": "R",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF63A17F9",
+      "HashName": "INPUT_INTERACT_LOCKON_POS",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xF6BB7378",
+      "HashName": "INPUT_INTERACT_POS",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFF8109D8",
+      "HashName": "INPUT_LOOT_ALIVE_COMPONENT",
+      "Key": "R",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x08BD758C",
+      "HashName": "INPUT_FRONTEND_NAV_RIGHT",
+      "Key": "RIGHT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x65F9EC5B",
+      "HashName": "INPUT_GAME_MENU_RIGHT",
+      "Key": "RIGHT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC97792B7",
+      "HashName": "INPUT_DOCUMENT_PAGE_NEXT",
+      "Key": "RIGHT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xDEB34313",
+      "HashName": "INPUT_FRONTEND_RIGHT",
+      "Key": "RIGHT ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3224BC55",
+      "HashName": "INPUT_FRONTEND_SCROLL_AXIS_X",
+      "Key": "RIGHT ARROW",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x77E56FB3",
+      "HashName": "INPUT_SELECT_NEXT_WHEEL",
+      "Key": "R (when radial menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x091178D0",
+      "HashName": "INPUT_FRONTEND_AXIS_Y",
+      "Key": "S",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x78114AB3",
+      "HashName": "INPUT_FRONTEND_NAV_DOWN",
+      "Key": "S",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xAEB4B1DE",
+      "HashName": "INPUT_SCRIPTED_FLY_UD",
+      "Key": "S",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD27782E3",
+      "HashName": "INPUT_MOVE_DOWN_ONLY",
+      "Key": "S",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFDA83190",
+      "HashName": "INPUT_MOVE_UD",
+      "Key": "S",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x21651AD6",
+      "HashName": "INPUT_FRONTEND_SCROLL_AXIS_Y",
+      "Key": "S",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x39336A4F",
+      "HashName": "INPUT_FRONTEND_RLEFT",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x5181713D",
+      "HashName": "INPUT_CONTEXT_A",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x639B9FC9",
+      "HashName": "INPUT_SCRIPTED_FLY_ZUP",
+      "Key": "SPACE (changed to Left Shift in 1311.12)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6DB8C62F",
+      "HashName": "INPUT_FRONTEND_X",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x739D6261",
+      "HashName": "INPUT_VEH_TRAVERSAL",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x750C8010",
+      "HashName": "INPUT_COVER_TRANSITION",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE4D2CE1D",
+      "HashName": "INPUT_HORSE_JUMP",
+      "Key": "SPACE (when driving horse)",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCDC4E4E9",
+      "HashName": "INPUT_SKIP_CUTSCENE",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xD9D0E1C0",
+      "HashName": "INPUT_JUMP",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFBD7B3E6",
+      "HashName": "INPUT_GAME_MENU_OPTION",
+      "Key": "SPACE",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9CC7A1A4",
+      "HashName": "INPUT_QUICK_SHORTCUT_ABILITIES_MENU",
+      "Key": "SPACE (when radial menu active)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x3BBDEFEF",
+      "HashName": "INPUT_HORSE_MOVE_UD",
+      "Key": "S (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x56F82045",
+      "HashName": "INPUT_HORSE_MOVE_DOWN_ONLY",
+      "Key": "S (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x16D73E1D",
+      "HashName": "INPUT_VEH_MOVE_DOWN_ONLY",
+      "Key": "S (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x23595CEA",
+      "HashName": "INPUT_VEH_DRAFT_MOVE_UD",
+      "Key": "S (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8A81C00C",
+      "HashName": "INPUT_VEH_MOVE_UD",
+      "Key": "S (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x9720FCEE",
+      "HashName": "INPUT_MP_TEXT_CHAT_ALL",
+      "Key": "T",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x171910DC",
+      "HashName": "INPUT_FRONTEND_SELECT",
+      "Key": "TAB",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x85D24405",
+      "HashName": "INPUT_CREATOR_MENU_TOGGLE",
+      "Key": "TAB",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE6360A8E",
+      "HashName": "INPUT_PICKUP",
+      "Key": "TAB",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xB238FE0B",
+      "HashName": "INPUT_TOGGLE_HOLSTER",
+      "Key": "TAB (fast tapping)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xAC4BD4F1",
+      "HashName": "INPUT_OPEN_WHEEL_MENU",
+      "Key": "TAB (while holding)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x938D4071",
+      "HashName": "INPUT_TWIRL_PISTOL",
+      "Key": "TAB (if pressed fast twice)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x1C826362",
+      "HashName": "INPUT_EMOTE_GROUP_LINK",
+      "Key": "TAB (when action menu is active)",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0x4FD1C57B",
+      "HashName": "INPUT_EMOTE_GROUP_LINK_HORSE",
+      "Key": "TAB (when action menu is active)",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xE2B557A3",
+      "HashName": "INPUT_OPEN_EMOTE_WHEEL",
+      "Key": "TAB (when action menu is active)",
+      "GameVersion": 1311.12
+    },
+    {
+      "Hash": "0xD8F73058",
+      "HashName": "INPUT_AIM_IN_AIR",
+      "Key": "U",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x6319DB71",
+      "HashName": "INPUT_FRONTEND_UP",
+      "Key": "UP ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8CFFE0A1",
+      "HashName": "INPUT_FRONTEND_NAV_UP",
+      "Key": "UP ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x911CB09E",
+      "HashName": "INPUT_GAME_MENU_UP",
+      "Key": "UP ARROW",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x620A6C5E",
+      "HashName": "INPUT_CINEMATIC_CAM",
+      "Key": "V",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7F8D09B8",
+      "HashName": "INPUT_NEXT_CAMERA",
+      "Key": "V",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xE72B43F4",
+      "HashName": "INPUT_FOCUS_CAM",
+      "Key": "V (when in cinematic mode camera)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8CFFE0A1",
+      "HashName": "INPUT_FRONTEND_NAV_UP",
+      "Key": "W",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8FD015D8",
+      "HashName": "INPUT_MOVE_UP_ONLY",
+      "Key": "W",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x699487BB",
+      "HashName": "INPUT_HORSE_MOVE_UP_ONLY",
+      "Key": "W (when driving horse)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xDEBD7EF6",
+      "HashName": "INPUT_VEH_MOVE_UP_ONLY",
+      "Key": "W (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x7DA48D2A",
+      "HashName": "INPUT_FRONTEND_RS",
+      "Key": "X",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x827E9EE8",
+      "HashName": "INPUT_SWITCH_SHOULDER",
+      "Key": "X",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x8CC9CD42",
+      "HashName": "INPUT_GAME_MENU_TAB_RIGHT_SECONDARY",
+      "Key": "X",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x26E9DC00",
+      "HashName": "INPUT_GAME_MENU_TAB_LEFT_SECONDARY",
+      "Key": "Z",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x43CDA5B0",
+      "HashName": "INPUT_FRONTEND_LS",
+      "Key": "Z",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0x70B87844",
+      "HashName": "INPUT_VEH_DRAFT_SWITCH_DRIVERS",
+      "Key": "Z (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xC7083798",
+      "HashName": "INPUT_VEH_SHUFFLE",
+      "Key": "Z (when driving vehicle)",
+      "GameVersion": 1207.8
+    },
+    {
+      "Hash": "0xFFBFF139",
+      "HashName": "INPUT_PARACHUTE_DETACH",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x014CA044",
+      "HashName": "INPUT_MULTIPLAYER_RACE_RESPAWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x01AA9FA1",
+      "HashName": "INPUT_CURSOR_BACKWARD_HOLD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x01EBFABD",
+      "HashName": "INPUT_PHOTO_MODE_FOCAL_LENGTH_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0283C582",
+      "HashName": "INPUT_ATTACK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x03753498",
+      "HashName": "INPUT_MINIGAME_POKER_BOARD_CARDS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x03F1E7CB",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_HAND_VIEW",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x047099F1",
+      "HashName": "INPUT_PHOTO_MODE_DOF_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x05074A9B",
+      "HashName": "INPUT_MINIGAME_FISHING_LEAN_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x05EEA9D0",
+      "HashName": "INPUT_SELECT_WEAPON_AUTO_RIFLE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x06A057F8",
+      "HashName": "INPUT_PHOTO_MODE_LENSE_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x06C089D4",
+      "HashName": "INPUT_GAME_MENU_STICK_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x07B6435D",
+      "HashName": "INPUT_CAMERA_EXPRESSION_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x083137B2",
+      "HashName": "INPUT_REPLAY_PAUSE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x084DFF95",
+      "HashName": "INPUT_VEH_FLY_THROTTLE_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x088C7CD4",
+      "HashName": "INPUT_REPLAY_BACK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x08BFEA69",
+      "HashName": "INPUT_PARACHUTE_PITCH_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x08F8BC6D",
+      "HashName": "INPUT_LOOK_LEFT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0984E40A",
+      "HashName": "INPUT_CREATOR_MENU_SELECT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x09A92B8B",
+      "HashName": "INPUT_INTERACT_LOCKON_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x09BF4645",
+      "HashName": "INPUT_MINIGAME_FISHING_LEFT_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0A1EFC09",
+      "HashName": "INPUT_MINIGAME_ACTION_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0A94C4FF",
+      "HashName": "INPUT_VEH_PREV_RADIO_TRACK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0AF99998",
+      "HashName": "INPUT_THROW_GRENADE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0B71D439",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_UP_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0C97BAC7",
+      "HashName": "INPUT_VEH_SELECT_PREV_WEAPON",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0CFB963F",
+      "HashName": "INPUT_STICKY_FEED_CANCEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0D0FB9B1",
+      "HashName": "INPUT_CREATOR_RAISE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0D4C3ABA",
+      "HashName": "INPUT_MINIGAME_FISHING_LEAN_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0D55A0F0",
+      "HashName": "INPUT_INTERACT_HORSE_FEED",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0DC15ADD",
+      "HashName": "INPUT_SCRIPT_PAD_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0E717DC6",
+      "HashName": "INPUT_MINIGAME_FFF_A",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0F4E369F",
+      "HashName": "INPUT_VEH_FLY_PITCH_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x0FF17F1D",
+      "HashName": "INPUT_FRONTEND_TOUCH_HOLD_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x109E6852",
+      "HashName": "INPUT_SELECT_WEAPON_MELEE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x11DBBAB9",
+      "HashName": "INPUT_CURSOR_FORWARD_CLICK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x125A70E5",
+      "HashName": "INPUT_FRONTEND_MAP_NAV_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x14C7291D",
+      "HashName": "INPUT_RADIO_WHEEL_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x162AFEB8",
+      "HashName": "INPUT_MELEE_HORSE_ATTACK_SECONDARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1661FAB0",
+      "HashName": "INPUT_FRONTEND_TOUCH_DOUBLE_TAP_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x16661AD0",
+      "HashName": "INPUT_FRONTEND_TOUCH_ZOOM_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x16B0EEF8",
+      "HashName": "INPUT_MINIGAME_BUILDING_CAMERA_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x16CCFEC6",
+      "HashName": "INPUT_CREATOR_SWITCH_CAM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x16D70379",
+      "HashName": "INPUT_MINIGAME_ACTION_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1788C283",
+      "HashName": "INPUT_INSPECT_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x184960E3",
+      "HashName": "INPUT_SELECT_WEAPON_HANDGUN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x18987353",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_RESPAWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x19CA70EA",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_UP_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x19D8334C",
+      "HashName": "INPUT_CREATOR_MENU_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1AF81D9E",
+      "HashName": "INPUT_SCRIPT_PAD_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1BC81873",
+      "HashName": "INPUT_MINIGAME_FFF_B",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1BDE2EB3",
+      "HashName": "INPUT_CREATOR_LOWER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1D530C7A",
+      "HashName": "INPUT_CREATOR_MENU_RAISE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1D71D7AA",
+      "HashName": "INPUT_VEH_FLY_ATTACK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1D927DF2",
+      "HashName": "INPUT_MINIGAME_ACTION_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1F6EEB0F",
+      "HashName": "INPUT_SELECT_WEAPON_UNARMED",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1F8EEF84",
+      "HashName": "INPUT_SCRIPT_LEFT_AXIS_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1FAC707F",
+      "HashName": "INPUT_NAV_STYLE_VERTICAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x1FB2288F",
+      "HashName": "INPUT_GAME_MENU_ACCEPT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x206B2087",
+      "HashName": "INPUT_MINIGAME_POKER_CHECK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x20A0B646",
+      "HashName": "INPUT_ICON_STACK_LAYOUT_WITH_INFO_ICON",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x226EB1EF",
+      "HashName": "INPUT_GAME_MENU_LEFT_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2286D46B",
+      "HashName": "INPUT_PHOTO_MODE_FILTER_INTENSITY_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x22A3B800",
+      "HashName": "INPUT_SCRIPT_RRIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x22E0F7E7",
+      "HashName": "INPUT_VEH_NEXT_RADIO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2330F517",
+      "HashName": "INPUT_MINIGAME_POKER_CHEAT_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2354D2E6",
+      "HashName": "INPUT_PHOTO_MODE_ZOOM_OUT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x23AE34A2",
+      "HashName": "INPUT_CINEMATIC_CAM_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x24A42F93",
+      "HashName": "INPUT_CREATOR_ZOOM_OUT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x24E94299",
+      "HashName": "INPUT_VEH_FLY_SELECT_NEXT_WEAPON",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x24F37AB5",
+      "HashName": "INPUT_TITHING_INCREASE_AMOUNT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x253DB87F",
+      "HashName": "INPUT_FRONTEND_TOUCH_ZOOM_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x253FEC09",
+      "HashName": "INPUT_QUICK_SELECT_PUT_AWAY_ROD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2545B0DE",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_LEFT_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x25493EB3",
+      "HashName": "INPUT_VEH_DRAFT_MOVE_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2574FAB0",
+      "HashName": "INPUT_PARACHUTE_SMOKE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x25F525CD",
+      "HashName": "INPUT_MINIGAME_FISHING_QUICK_EQUIP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x26B9AE6A",
+      "HashName": "INPUT_PHOTO_MODE_DOF",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x26E9CD17",
+      "HashName": "INPUT_SCRIPT_RT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x272BD8BA",
+      "HashName": "INPUT_PARACHUTE_BRAKE_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x27A5EBC0",
+      "HashName": "INPUT_SCRIPT_RIGHT_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x28725E5D",
+      "HashName": "INPUT_FRONTEND_MAP_NAV_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2996DD15",
+      "HashName": "INPUT_HORSE_COVER_TRANSITION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x29A3550E",
+      "HashName": "INPUT_MINIGAME_FFF_CYCLE_SEQUENCE_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x29A5E51E",
+      "HashName": "INPUT_VEH_DRAFT_MOVE_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x29E8E227",
+      "HashName": "INPUT_VEH_HANDCART_BRAKE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2B314A1E",
+      "HashName": "INPUT_SCRIPT_LT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2B88D701",
+      "HashName": "INPUT_REPLAY_FOVDECREASE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2B981F4F",
+      "HashName": "INPUT_VEH_SLOWMO_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2BDBA378",
+      "HashName": "INPUT_PARACHUTE_TURN_RIGHT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2CAF327E",
+      "HashName": "INPUT_VEH_SUB_MOUSE_CONTROL_OVERRIDE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2EEA1D2A",
+      "HashName": "INPUT_PHOTO_MODE_ROTATE_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2F13EC9A",
+      "HashName": "INPUT_PHOTO_MODE_BACK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2FA915F5",
+      "HashName": "INPUT_MINIGAME_FISHING_REEL_SPEED_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x2FBA3F0B",
+      "HashName": "INPUT_VEH_FLY_ATTACK_CAMERA",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3003F9DC",
+      "HashName": "INPUT_CAMERA_DOF",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3073681B",
+      "HashName": "INPUT_MINIGAME_FFF_SKIP_TURN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x307FC4C1",
+      "HashName": "INPUT_VEH_FLY_SELECT_TARGET_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x30811620",
+      "HashName": "INPUT_PHOTO_MODE_CONTRAST_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x30BE7CF2",
+      "HashName": "INPUT_MINIGAME_MILKING_RIGHT_ACTION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x311353EB",
+      "HashName": "INPUT_PHOTO_MODE_MOVE_LEFT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x31260507",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_STAND",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x31589AD1",
+      "HashName": "INPUT_VEH_FLY_YAW_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x315D57E6",
+      "HashName": "INPUT_PHOTO_MODE_MOVE_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x323AA450",
+      "HashName": "INPUT_REPLAY_ADVANCE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x335D8D76",
+      "HashName": "INPUT_CREATOR_ZOOM_IN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x33889B44",
+      "HashName": "INPUT_MINIGAME_CRAPS_SKIP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x338A0D45",
+      "HashName": "INPUT_CREATOR_GRAB",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x33B2A8CC",
+      "HashName": "INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x378A10F7",
+      "HashName": "INPUT_VEH_FLY_DUCK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x37933367",
+      "HashName": "INPUT_SCRIPT_RDOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x398ED257",
+      "HashName": "INPUT_FRONTEND_TOUCH_HOLD_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x39AB43E6",
+      "HashName": "INPUT_NAV_DIRECTION_PREVIOUS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x39CCABD5",
+      "HashName": "INPUT_VEH_MOUSE_CONTROL_OVERRIDE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3A9897C1",
+      "HashName": "INPUT_SNIPER_ZOOM_IN_ALTERNATE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3ABBE990",
+      "HashName": "INPUT_CELLPHONE_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3C22EF0E",
+      "HashName": "INPUT_INTERROGATE_RELEASE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3C8AB570",
+      "HashName": "INPUT_VEH_FLY_ROLL_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3D0C19EC",
+      "HashName": "INPUT_DOCUMENT_SCROLL_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3D1675C3",
+      "HashName": "INPUT_SELECT_WEAPON_HEAVY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3D2EA092",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_BET_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3E32FCEE",
+      "HashName": "INPUT_FRONTEND_ENDSCREEN_ACCEPT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3E7CF9A4",
+      "HashName": "INPUT_VEH_ROOF",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3F77C337",
+      "HashName": "INPUT_MINIGAME_DOMINOES_DRAW_TILE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x3FEDA104",
+      "HashName": "INPUT_MINIGAME_DANCE_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x410B0B2E",
+      "HashName": "INPUT_MINIGAME_PLACE_BET",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x414034D5",
+      "HashName": "INPUT_CREATOR_DROP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4146A033",
+      "HashName": "INPUT_REPLAY_TIMELINE_DUPLICATE_CLIP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x432B111F",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_SPLIT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x44CD301B",
+      "HashName": "INPUT_FRONTEND_PHOTO_MODE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x44E7E093",
+      "HashName": "INPUT_VEH_SUB_TURN_LEFT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x44FA14C2",
+      "HashName": "INPUT_CAMERA_TAKE_PHOTO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4685AA33",
+      "HashName": "INPUT_GAME_MENU_RIGHT_AXIS_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x469CE271",
+      "HashName": "INPUT_VEH_SUB_PITCH_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x46C4F376",
+      "HashName": "INPUT_STEAL_GENERIC",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x47CD0F3B",
+      "HashName": "INPUT_CELLPHONE_SCROLL_BACKWARD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x47EC4C22",
+      "HashName": "INPUT_CAMERA_ZOOM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x483F707F",
+      "HashName": "INPUT_PHOTO_MODE_CONTRAST",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4915AC0A",
+      "HashName": "INPUT_VEH_RADIO_WHEEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x493919DB",
+      "HashName": "INPUT_VEH_SPECIAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x49B4AD1E",
+      "HashName": "INPUT_MINIGAME_POKER_FOLD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x49C73CB2",
+      "HashName": "INPUT_MINIGAME_FISHING_REEL_SPEED_AXIS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4A21C66B",
+      "HashName": "INPUT_MINIGAME_CLEAR_BET",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4CF871D0",
+      "HashName": "INPUT_PHONE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4D11FE01",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_PARLEY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4D83147C",
+      "HashName": "INPUT_VEH_FLY_ATTACK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4DFC2B52",
+      "HashName": "INPUT_ICON_STACK_LAYOUT_DEFAULT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4E074EE6",
+      "HashName": "INPUT_MULTIPLAYER_SPECTATE_PLAYER_OPTIONS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4E42696E",
+      "HashName": "INPUT_DROP_AMMO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4EBCC409",
+      "HashName": "INPUT_PHOTO_MODE_MOVE_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4EF75BBD",
+      "HashName": "INPUT_REPLAY_ENDPOINT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4F136512",
+      "HashName": "INPUT_PHOTO_MODE_MOVE_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4F640885",
+      "HashName": "INPUT_PHOTO_MODE_FILTER_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x4FD4E558",
+      "HashName": "INPUT_MINIGAME_FISHING_RIGHT_AXIS_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5092BF47",
+      "HashName": "INPUT_MULTIPLAYER_SPECTATE_PLAYER_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x50BA1A77",
+      "HashName": "INPUT_WEAPON_SPECIAL_TWO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x51AA7A35",
+      "HashName": "INPUT_REGULAR_RADAR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x524C3787",
+      "HashName": "INPUT_MINIGAME_CRACKPOT_BOAT_SHOW_CONTROLS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x52C5C34A",
+      "HashName": "INPUT_MINIGAME_FISHING_KEEP_FISH",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x52E60A8B",
+      "HashName": "INPUT_SPECIAL_ABILITY_PC",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x52F25C96",
+      "HashName": "INPUT_VEH_FLY_SELECT_TARGET_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5357A7F5",
+      "HashName": "INPUT_PHOTO_MODE_MOVE_RIGHT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5418D8AB",
+      "HashName": "INPUT_SCRIPT_LEFT_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5484DBDD",
+      "HashName": "INPUT_CURSOR_SCROLL_HOLD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x55A2C413",
+      "HashName": "INPUT_TAKE_GENERIC",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x55AC04E5",
+      "HashName": "INPUT_VEH_DRIVE_LOOK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x55EA24F3",
+      "HashName": "INPUT_CREATOR_LOOK_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x561A3387",
+      "HashName": "INPUT_REPLAY_TOOLS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x567FAF34",
+      "HashName": "INPUT_REPLAY_SCREENSHOT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x56F84EA0",
+      "HashName": "INPUT_VEH_FLY_ROLL_LEFT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x585E942D",
+      "HashName": "INPUT_VEH_PUSHBIKE_FRONT_BRAKE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x58AC1355",
+      "HashName": "INPUT_REPLAY_PREVIEW",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5925A10D",
+      "HashName": "INPUT_REPLAY_FOVINCREASE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x593DB489",
+      "HashName": "INPUT_CELLPHONE_CAMERA_DOF",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x59753EDC",
+      "HashName": "INPUT_CREATOR_MOVE_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5A03B3F3",
+      "HashName": "INPUT_CREATOR_MENU_FUNCTION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5A717E80",
+      "HashName": "INPUT_MINIGAME_CRAPS_ACCEPT_DICE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5AC1805E",
+      "HashName": "INPUT_CELLPHONE_CAMERA_FOCUS_LOCK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5B3690F2",
+      "HashName": "INPUT_VEH_DUCK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5B3AF9E3",
+      "HashName": "INPUT_SAVE_REPLAY_CLIP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5B763AD7",
+      "HashName": "INPUT_VEH_CAR_ATTACK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5B843BC9",
+      "HashName": "INPUT_PHOTO_MODE_ZOOM_IN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5BDBE841",
+      "HashName": "INPUT_GAME_MENU_STICK_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5C220959",
+      "HashName": "INPUT_REPLAY_CYCLEMARKERLEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5D1788FF",
+      "HashName": "INPUT_MINIGAME_NEW_GAME",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5D2DD717",
+      "HashName": "INPUT_PHOTO_MODE_CONTRAST_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5DAFACCF",
+      "HashName": "INPUT_REPLAY_STARTPOINT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5EC33578",
+      "HashName": "INPUT_VEH_SPECIAL_ABILITY_FRANKLIN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5F97B231",
+      "HashName": "INPUT_MINIGAME_BUILDING_CAMERA_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5FC770EA",
+      "HashName": "INPUT_CAMERA_PUT_AWAY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x5FEF1B6D",
+      "HashName": "INPUT_SIMPLE_RADAR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6070D032",
+      "HashName": "INPUT_QUICK_EQUIP_ITEM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x60726F50",
+      "HashName": "INPUT_REPLAY_TIMELINE_PLACE_CLIP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x609A27E8",
+      "HashName": "INPUT_REPLAY_FFWD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x60C65EB4",
+      "HashName": "INPUT_GAME_MENU_RIGHT_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x61E4CACC",
+      "HashName": "INPUT_MINIGAME_FFF_ZOOM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x627C4619",
+      "HashName": "INPUT_VEH_SUB_TURN_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6280BA1A",
+      "HashName": "INPUT_VEH_FLY_PITCH_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x63898D36",
+      "HashName": "INPUT_GAME_MENU_STICK_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x63A38F2C",
+      "HashName": "INPUT_INTERACT_HORSE_BRUSH",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x64214D49",
+      "HashName": "INPUT_VEH_SUB_TURN_HARD_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x642DE054",
+      "HashName": "INPUT_VEH_SLOWMO_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x646A7792",
+      "HashName": "INPUT_MINIGAME_POKER_SKIP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x653F8BF4",
+      "HashName": "INPUT_MINIGAME_CRAPS_THROW_DICE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x65D70E9D",
+      "HashName": "INPUT_REPLAY_TIMELINE_SAVE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x65F0ACDF",
+      "HashName": "INPUT_MINIGAME_FFF_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x661D8A31",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_BET",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x671BC31D",
+      "HashName": "INPUT_MINIGAME_DOMINOES_PLAY_AGAIN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x675B7CE3",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_RIGHT_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6816A38E",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_INFORM_LAW",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x699F8D08",
+      "HashName": "INPUT_PHOTO_MODE_FILTER_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x69B10623",
+      "HashName": "INPUT_MINIGAME_FISHING_LEFT_AXIS_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x69FB8BCA",
+      "HashName": "INPUT_NAV_STYLE_RADIAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6A440BFE",
+      "HashName": "INPUT_CELLPHONE_CAMERA_SELFIE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6AA8A71B",
+      "HashName": "INPUT_CURSOR_SCROLL_CLICK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6B359A27",
+      "HashName": "INPUT_FRONTEND_MAP_ZOOM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6BE9C207",
+      "HashName": "INPUT_SNIPER_ZOOM_IN_SECONDARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6C9810A5",
+      "HashName": "INPUT_VEH_FLY_MOUSE_CONTROL_OVERRIDE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6E1E0D62",
+      "HashName": "INPUT_INTERROGATE_BEAT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x6FC9DE68",
+      "HashName": "INPUT_MINIGAME_FFF_FLOURISH_CONTINUE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x70089459",
+      "HashName": "INPUT_HORSE_SPECIAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7098AC73",
+      "HashName": "INPUT_MP_TEXT_CHAT_FRIENDS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x70CBD78D",
+      "HashName": "INPUT_DISABLE_RADAR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x71E38966",
+      "HashName": "INPUT_GAME_MENU_RIGHT_STICK_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x72052664",
+      "HashName": "INPUT_BUY_GENERIC",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x72A9D1F7",
+      "HashName": "INPUT_MINIGAME_POKER_CHECK_FOLD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x733901F3",
+      "HashName": "INPUT_WEAPON_SPECIAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x734C6E39",
+      "HashName": "INPUT_OPEN_CRAFTING_MENU",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x73846677",
+      "HashName": "INPUT_DETONATE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x73AD4858",
+      "HashName": "INPUT_MINIGAME_FFF_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x74486CA4",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_DOUBLE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x749EFF0C",
+      "HashName": "INPUT_REPLAY_CAMERAUP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7630C9A1",
+      "HashName": "INPUT_CURSOR_FORWARD_HOLD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x763E4D27",
+      "HashName": "INPUT_HORSE_COMMAND_FOLLOW",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x76D3EA05",
+      "HashName": "INPUT_SELECT_WEAPON_SHOTGUN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x771D6E13",
+      "HashName": "INPUT_SCRIPT_RUP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7733CF2C",
+      "HashName": "INPUT_MINIGAME_DOMINOES_VIEW_MOVES",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7765B9D4",
+      "HashName": "INPUT_MINIGAME_POKER_SHOW_POSSIBLE_HANDS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x776F65E9",
+      "HashName": "INPUT_CAMERA_HANDHELD_USE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x78ED2132",
+      "HashName": "INPUT_MELEE_HORSE_ATTACK_PRIMARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x79022218",
+      "HashName": "INPUT_REPLAY_PREVIEW_AUDIO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7A9093DE",
+      "HashName": "INPUT_CINEMATIC_SLOWMO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7B5B896D",
+      "HashName": "INPUT_MINIGAME_FFF_CYCLE_SEQUENCE_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7BF65AC8",
+      "HashName": "INPUT_ENTER_CHEAT_CODE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7C3A4352",
+      "HashName": "INPUT_PARACHUTE_PITCH_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7D5187C9",
+      "HashName": "INPUT_MINIGAME_DOMINOES_MOVE_RIGHT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7D51DE24",
+      "HashName": "INPUT_VEH_SUB_DESCEND",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7D5B3717",
+      "HashName": "INPUT_HORSE_COLLECT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7DBA5D49",
+      "HashName": "INPUT_MULTIPLAYER_SPECTATE_HIDE_HUD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7DBCD016",
+      "HashName": "INPUT_DROP_WEAPON",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7DCA9C75",
+      "HashName": "INPUT_TALK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7E479C7B",
+      "HashName": "INPUT_REPLAY_HIDEHUD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7E75F4DC",
+      "HashName": "INPUT_EMOTES_MANAGE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7EC33553",
+      "HashName": "INPUT_MINIGAME_LEFT_TRIGGER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x7F9055F5",
+      "HashName": "INPUT_PHOTO_MODE_TOGGLE_HUD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x80335CDD",
+      "HashName": "INPUT_NAV_DIRECTION_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8142FA92",
+      "HashName": "INPUT_MP_TEXT_CHAT_CREW",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x81B2E311",
+      "HashName": "INPUT_INTERROGATE_KILL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x81B8BC9D",
+      "HashName": "INPUT_REPLAY_RESTART",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x82196002",
+      "HashName": "INPUT_CELLPHONE_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x82428676",
+      "HashName": "INPUT_CREATOR_MOVE_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x82A9B758",
+      "HashName": "INPUT_SCRIPT_PAD_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x83608AC0",
+      "HashName": "INPUT_MINIGAME_HELP_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x876096E9",
+      "HashName": "INPUT_VEH_BOAT_ATTACK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x876B3361",
+      "HashName": "INPUT_VEH_FLY_ROLL_RIGHT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x87B07940",
+      "HashName": "INPUT_PHOTO_MODE_DOF_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x886ABA4E",
+      "HashName": "INPUT_PHOTO_MODE_FOCAL_LENGTH",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x886F12DD",
+      "HashName": "INPUT_VEH_DRAFT_ATTACK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x889A626F",
+      "HashName": "INPUT_VEH_SELECT_NEXT_WEAPON",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x88F8B6B1",
+      "HashName": "INPUT_MINIGAME_DOMINOES_VIEW_DOMINOES",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8991A70B",
+      "HashName": "INPUT_REPLAY_START_STOP_RECORDING_SECONDARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x89EA3FA5",
+      "HashName": "INPUT_GAME_MENU_RS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x89F3D2E0",
+      "HashName": "INPUT_INTERACT_WILD_ANIMAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8A7B8833",
+      "HashName": "INPUT_SNIPER_ZOOM_OUT_SECONDARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8B3FA65E",
+      "HashName": "INPUT_OPEN_EMOTE_WHEEL_HORSE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8D5BE9D1",
+      "HashName": "INPUT_CAMERA_POSE_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8E8B08CB",
+      "HashName": "INPUT_SELECT_CHARACTER_FRANKLIN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8EC920BF",
+      "HashName": "INPUT_PARACHUTE_TURN_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8EDFFB30",
+      "HashName": "INPUT_COUNT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8F32E2EB",
+      "HashName": "INPUT_PHOTO_MODE_SWITCH_MODE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x8F9F9E58",
+      "HashName": "INPUT_SELECT_QUICKSELECT_UNARMED",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9098AD9D",
+      "HashName": "INPUT_MP_TEXT_CHAT_TEAM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x90FA19AB",
+      "HashName": "INPUT_SHOP_CHANGE_CURRENCY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x91E9231C",
+      "HashName": "INPUT_SCRIPT_RB",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x93776CAE",
+      "HashName": "INPUT_REPLAY_ACTION_REPLAY_CANCEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9384E0A8",
+      "HashName": "INPUT_MINIGAME_HELP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x948B3EA7",
+      "HashName": "INPUT_PARACHUTE_BRAKE_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x95F2F193",
+      "HashName": "INPUT_MINIGAME_FISHING_RIGHT_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x95F5BB7C",
+      "HashName": "INPUT_MINIGAME_DOMINOES_PLAY_TILE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x96C61FDF",
+      "HashName": "INPUT_SELECT_WEAPON_SNIPER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x96E70854",
+      "HashName": "INPUT_PHOTO_MODE_ROTATE_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x96E87BBF",
+      "HashName": "INPUT_FRONTEND_TOUCH_DOUBLE_TAP_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x972F8D1E",
+      "HashName": "INPUT_CHARACTER_WHEEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x97410755",
+      "HashName": "INPUT_CREATOR_MENU_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9785CE13",
+      "HashName": "INPUT_VEH_PREV_RADIO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x97F8FEF8",
+      "HashName": "INPUT_NAV_STYLE_PAGE_PRIMARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9805D715",
+      "HashName": "INPUT_CURSOR_FORWARD_DOUBLE_CLICK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x985243B7",
+      "HashName": "INPUT_MINIGAME_REPLAY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9AC130EB",
+      "HashName": "INPUT_FRONTEND_TOUCH_DRAG_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9AF38793",
+      "HashName": "INPUT_CURSOR_BACKWARD_CLICK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9B1CA8DA",
+      "HashName": "INPUT_INSPECT_OPEN_SATCHEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9C68CE34",
+      "HashName": "INPUT_MULTIPLAYER_INFO_PLAYERS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9CA97399",
+      "HashName": "INPUT_GAME_MENU_STICK_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9CB4ECCE",
+      "HashName": "INPUT_CURSOR_CANCEL_DOUBLE_CLICK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9D75674E",
+      "HashName": "INPUT_CREATOR_ROTATE_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9DE08D71",
+      "HashName": "INPUT_PHOTO_MODE_EXPOSURE_LOCK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9E6A9358",
+      "HashName": "INPUT_RADIAL_MENU_SLOT_NAV_NEXT_ALTERNATE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9EDC8D65",
+      "HashName": "INPUT_FRONTEND_LEADERBOARD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0x9F06B29C",
+      "HashName": "INPUT_PHOTO_MODE_CHANGE_CAMERA",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA13460F5",
+      "HashName": "INPUT_MINIGAME_BARTENDER_RAISE_GLASS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA14BA1FC",
+      "HashName": "INPUT_CURSOR_BACKWARD_DOUBLE_CLICK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA190AAC7",
+      "HashName": "INPUT_PHOTO_MODE_TAKE_PHOTO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA1AA2D8D",
+      "HashName": "INPUT_INTERROGATE_QUESTION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA1CD103A",
+      "HashName": "INPUT_MINIGAME_FISHING_HOOK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA1FE9E2A",
+      "HashName": "INPUT_REPLAY_CAMERADOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA209BD57",
+      "HashName": "INPUT_PHOTO_MODE_RESET",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA2117C9A",
+      "HashName": "INPUT_VEH_DRIVE_LOOK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA303F462",
+      "HashName": "INPUT_MINIGAME_FISHING_MANUAL_REEL_IN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA44C0F83",
+      "HashName": "INPUT_VEH_SUB_TURN_HARD_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA4BD74A5",
+      "HashName": "INPUT_CAMERA_BACK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA4DB0458",
+      "HashName": "INPUT_SCRIPT_RLEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA61DC630",
+      "HashName": "INPUT_INSPECT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA6B769E9",
+      "HashName": "INPUT_SCRIPT_RIGHT_AXIS_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA8142713",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_HIT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA835261B",
+      "HashName": "INPUT_EMOTES_FAVORITE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA8E3F467",
+      "HashName": "INPUT_FEED_INTERACT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA8F6DE66",
+      "HashName": "INPUT_GAME_MENU_LS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA917D24B",
+      "HashName": "INPUT_MULTIPLAYER_LEADERBOARD_SCROLL_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xA9883369",
+      "HashName": "INPUT_MINIGAME_POKER_BET",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAA56B926",
+      "HashName": "INPUT_VEH_JUMP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAADDC975",
+      "HashName": "INPUT_SCRIPT_LS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAB62E997",
+      "HashName": "INPUT_SELECT_QUICKSELECT_MELEE_NO_UNARMED",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAC5922EA",
+      "HashName": "INPUT_CAMERA_SELFIE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAC70F311",
+      "HashName": "INPUT_DOCUMENT_SCROLL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAD07A5A5",
+      "HashName": "INPUT_PHOTO_MODE_EXPOSURE_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAD9A9C7C",
+      "HashName": "INPUT_REPLAY_RECORD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xADB78673",
+      "HashName": "INPUT_GAME_MENU_RIGHT_STICK_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xADE09435",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_TABLE_VIEW",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAE5DFDED",
+      "HashName": "INPUT_HORSE_COMMAND_STAY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xAEB2A9C7",
+      "HashName": "INPUT_CREATOR_LOOK_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB00CC093",
+      "HashName": "INPUT_SELECT_CHARACTER_TREVOR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB05FDA25",
+      "HashName": "INPUT_CREATOR_FUNCTION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB0BCE5D6",
+      "HashName": "INPUT_INTERACT_HORSE_CARE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB138D899",
+      "HashName": "INPUT_PHOTO_MODE_LENSE_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB177D2B1",
+      "HashName": "INPUT_MOVE_UD,INPUT_MOVE_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB1DA5574",
+      "HashName": "INPUT_SCRIPT_PAD_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB341F407",
+      "HashName": "INPUT_PHOTO_MODE_FILTER_INTENSITY_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB40A9BDB",
+      "HashName": "INPUT_MINIGAME_FISHING_RESET_CAST",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB4A11066",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_FEUD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB4F298BA",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_SWITCH_RESPAWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB568BCD0",
+      "HashName": "INPUT_MINIGAME_POKER_SKIP_TUTORIAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB73BCA77",
+      "HashName": "INPUT_CONTEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xB985AA5E",
+      "HashName": "INPUT_VEH_GRAPPLING_HOOK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBA065692",
+      "HashName": "INPUT_MULTIPLAYER_SPECTATE_PLAYER_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBA2D22AA",
+      "HashName": "INPUT_VEH_SUB_PITCH_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBB3FC460",
+      "HashName": "INPUT_CREATOR_MENU_CANCEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBC2AE312",
+      "HashName": "INPUT_EMOTE_TWIRL_GUN_VAR_C",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBC820489",
+      "HashName": "INPUT_SNIPER_ZOOM_OUT_ALTERNATE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBCD1444B",
+      "HashName": "INPUT_CREATOR_MENU_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBD143FC6",
+      "HashName": "INPUT_VEH_FLY_YAW_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBD1D94A1",
+      "HashName": "INPUT_STICKY_FEED_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBDB8D6F3",
+      "HashName": "INPUT_FRONTEND_SOCIAL_CLUB_SECONDARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBDC733EE",
+      "HashName": "INPUT_MINIGAME_CHANGE_BET_AXIS_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBDFF3DEA",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_DOWN_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBE354011",
+      "HashName": "INPUT_CELLPHONE_EXTRA_OPTION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xBE78B715",
+      "HashName": "INPUT_MINIGAME_RIGHT_TRIGGER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC032B6C4",
+      "HashName": "INPUT_TEXT_CHAT_CHANNEL_ALL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC0651D40",
+      "HashName": "INPUT_LOOK_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC0D874E5",
+      "HashName": "INPUT_VEH_FLY_SELECT_PREV_WEAPON",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC10E180A",
+      "HashName": "INPUT_FRONTEND_TOUCH_TAP_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC1339A31",
+      "HashName": "INPUT_REPLAY_REWIND",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC1D24F92",
+      "HashName": "INPUT_DEPRECATED_ABOVE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC23D7B9E",
+      "HashName": "INPUT_LOOT_AMMO",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC2B1193A",
+      "HashName": "INPUT_MINIGAME_POKER_HOLE_CARDS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC41ECEF8",
+      "HashName": "INPUT_SELECT_WEAPON_SPECIAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC4CF3322",
+      "HashName": "INPUT_PARACHUTE_TURN_LEFT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC511543B",
+      "HashName": "INPUT_WEAPON_INSPECT_ZOOM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC5E622D7",
+      "HashName": "INPUT_MINIGAME_DOMINOES_SKIP_DEAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC5F53156",
+      "HashName": "INPUT_MINIGAME_HELP_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC61611E6",
+      "HashName": "INPUT_VEH_DROP_PROJECTILE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC64E2284",
+      "HashName": "INPUT_PHOTO_MODE_EXPOSURE_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC675B8BD",
+      "HashName": "INPUT_PARACHUTE_PRECISION_LANDING",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC69AE799",
+      "HashName": "INPUT_REPLAY_CYCLEMARKERRIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC6AB8CB3",
+      "HashName": "INPUT_MINIGAME_DOMINOES_MOVE_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC79BDE9F",
+      "HashName": "INPUT_FRONTEND_ENDSCREEN_EXPAND",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC7CB8D5F",
+      "HashName": "INPUT_MINIGAME_INCREASE_BET",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC7D2C51B",
+      "HashName": "INPUT_REPLAY_MARKER_DELETE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC85BAB1D",
+      "HashName": "INPUT_STICKY_FEED_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC8722109",
+      "HashName": "INPUT_SCRIPT_SELECT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC8A1DE20",
+      "HashName": "INPUT_REPLAY_TOGGLETIPS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xC904196D",
+      "HashName": "INPUT_HORSE_ATTACK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCA379F82",
+      "HashName": "INPUT_MINIGAME_FFF_PRACTICE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCABC2460",
+      "HashName": "INPUT_MINIGAME_BARTENDER_POUR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCB4E1798",
+      "HashName": "INPUT_CELLPHONE_SCROLL_FORWARD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCBB12F87",
+      "HashName": "INPUT_EMOTES_SLOT_NAV_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCC18F960",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_LEADER_FEUD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCC510E59",
+      "HashName": "INPUT_INTERACTION_MENU",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCD1FE20A",
+      "HashName": "INPUT_FRONTEND_START",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCD7DDF9B",
+      "HashName": "INPUT_MINIGAME_BLACKJACK_DECLINE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCE668FED",
+      "HashName": "INPUT_VEH_HANDBRAKE_ALT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCEF1BB48",
+      "HashName": "INPUT_SELECT_WEAPON_SMG",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCEFF5C13",
+      "HashName": "INPUT_TITHING_DECREASE_AMOUNT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCF0B11DE",
+      "HashName": "INPUT_EXPAND_RADAR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCF4B3484",
+      "HashName": "INPUT_FRONTEND_TOUCH_TAP_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xCFA703D3",
+      "HashName": "INPUT_CAMERA_EXPRESSION_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD04E9FE2",
+      "HashName": "INPUT_SCRIPT_RS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD10A3A36",
+      "HashName": "INPUT_INTERACT_LOCKON_A",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD2454F90",
+      "HashName": "INPUT_REPLAY_TIMELINE_PICKUP_CLIP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD25EFDCD",
+      "HashName": "INPUT_CELLPHONE_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD28C446F",
+      "HashName": "INPUT_VEH_SUB_THROTTLE_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD2C28BB4",
+      "HashName": "INPUT_CELLPHONE_OPTION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD2EE3B1E",
+      "HashName": "INPUT_CELLPHONE_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD33B28BE",
+      "HashName": "INPUT_RADIAL_MENU_SLOT_NAV_PREV_ALTERNATE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD3EBF425",
+      "HashName": "INPUT_MINIGAME_DECREASE_BET",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD41E9C2A",
+      "HashName": "INPUT_CREATOR_ROTATE_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD43D0ECE",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_LEFT_Y",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD5A9086C",
+      "HashName": "INPUT_FEED_INTERACT_GENERIC",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD72F3E29",
+      "HashName": "INPUT_DOCUMENT_SCROLL_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD74CACAD",
+      "HashName": "INPUT_CREATOR_PLACE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD7991F74",
+      "HashName": "INPUT_VEH_SUB_ASCEND",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD7AF56A0",
+      "HashName": "INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD7E274E7",
+      "HashName": "INPUT_CELLPHONE_CAMERA_EXPRESSION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD7E7B375",
+      "HashName": "INPUT_CINEMATIC_CAM_HOLD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD7F70F36",
+      "HashName": "INPUT_CURSOR_CANCEL_HOLD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD88B47E7",
+      "HashName": "INPUT_REPLAY_CTRL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD9961107",
+      "HashName": "INPUT_REPLAY_ACTION_REPLAY_START",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xD9F9F017",
+      "HashName": "INPUT_QUICK_SELECT_SECONDARY_NAV_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDAB9EE72",
+      "HashName": "INPUT_MINIGAME_POKER_CALL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDB16E702",
+      "HashName": "INPUT_REPLAY_RECORDING_STOP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDC03B043",
+      "HashName": "INPUT_MINIGAME_BARTENDER_SERVE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDC264018",
+      "HashName": "INPUT_CELLPHONE_SELECT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDCA6978E",
+      "HashName": "INPUT_REPLAY_START_STOP_RECORDING",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDCE96D67",
+      "HashName": "INPUT_PHOTO_MODE_VIEW_PHOTOS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDD833287",
+      "HashName": "INPUT_CELLPHONE_CANCEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDF8FE9C5",
+      "HashName": "INPUT_CLAIM_GENERIC",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xDFB2B3B8",
+      "HashName": "INPUT_SELECT_CHARACTER_MULTIPLAYER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE0D75B00",
+      "HashName": "INPUT_FRONTEND_MAP_NAV_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE18CC57A",
+      "HashName": "INPUT_CELLPHONE_CAMERA_GRID",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE1B6ED6D",
+      "HashName": "INPUT_CURSOR_SCROLL_DOUBLE_CLICK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE1CECE4B",
+      "HashName": "INPUT_GAME_MENU_RIGHT_STICK_RIGHT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE3238029",
+      "HashName": "INPUT_VEH_FLY_VERTICAL_FLIGHT_MODE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE3B30955",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_DOWN_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE3FB91B3",
+      "HashName": "INPUT_REPLAY_TOGGLETIME",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE402B898",
+      "HashName": "INPUT_MINIGAME_POKER_COMMUNITY_CARDS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE40CE39E",
+      "HashName": "INPUT_SNIPER_ZOOM_OUT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE4568AA1",
+      "HashName": "INPUT_SNIPER_ZOOM_IN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE50DCA13",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_PRESS_CHARGES",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE581B606",
+      "HashName": "INPUT_SY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE624C062",
+      "HashName": "INPUT_SCRIPT_LB",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE67E1E57",
+      "HashName": "INPUT_VEH_FLY_PITCH_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE6B8F103",
+      "HashName": "INPUT_CREATOR_MENU_EXTRA_FUNCTION",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE78A5A3C",
+      "HashName": "INPUT_VEH_SUB_TURN_RIGHT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE7F89C38",
+      "HashName": "INPUT_FRONTEND_TOUCH_ZOOM_FACTOR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE8337356",
+      "HashName": "INPUT_CAMERA_CONTEXT_GALLERY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xE8D7D731",
+      "HashName": "INPUT_MINIGAME_DANCE_PREV",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEA9256B8",
+      "HashName": "INPUT_SELECT_CHARACTER_MICHAEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEAB68397",
+      "HashName": "INPUT_FRONTEND_TOUCH_SWIPE_RIGHT_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEBA2A41E",
+      "HashName": "INPUT_REPLAY_SHOWHOTKEY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEBC60685",
+      "HashName": "INPUT_REPLAY_SAVE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEBF53058",
+      "HashName": "INPUT_PARACHUTE_DEPLOY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEC001315",
+      "HashName": "INPUT_PHOTO_MODE_MOVE_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEC6A30AA",
+      "HashName": "INPUT_CREATOR_MENU_LEFT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEC93548E",
+      "HashName": "INPUT_FRONTEND_TOUCH_DRAG_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEE2CF143",
+      "HashName": "INPUT_TEXT_CHAT_CHANNEL_TEAM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEED15F18",
+      "HashName": "INPUT_SWITCH_FIRING_MODE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEFCFE6B7",
+      "HashName": "INPUT_CINEMATIC_CAM_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xEFEC8FDE",
+      "HashName": "INPUT_REPLAY_SAVE_SNAPSHOT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF0232A03",
+      "HashName": "INPUT_GAME_MENU_RIGHT_STICK_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF03EE151",
+      "HashName": "INPUT_VEH_PUSHBIKE_SPRINT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF0526228",
+      "HashName": "INPUT_PARACHUTE_PITCH_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF09866F3",
+      "HashName": "INPUT_QUICK_SELECT_INSPECT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF0A25112",
+      "HashName": "INPUT_MINIGAME_BARTENDER_RAISE_BOTTLE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF1421CF5",
+      "HashName": "INPUT_QUICK_SELECT_SECONDARY_NAV_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF14FD435",
+      "HashName": "INPUT_MINIGAME_FISHING_RELEASE_FISH",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF19BE385",
+      "HashName": "INPUT_CONTEXT_SECONDARY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF1C341BA",
+      "HashName": "INPUT_VEH_ATTACK2",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF1F9CD26",
+      "HashName": "INPUT_VEH_SLOWMO_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF431D57A",
+      "HashName": "INPUT_GAME_MENU_LEFT_AXIS_X",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF4DD4C67",
+      "HashName": "INPUT_STICKY_FEED_ACCEPT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF55864CD",
+      "HashName": "INPUT_CREATOR_SEARCH",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF5A13A0D",
+      "HashName": "INPUT_MINIGAME_ACTION_UP",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF5A3C79B",
+      "HashName": "INPUT_NAV_STYLE_HORIZONTAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF5B2CEFB",
+      "HashName": "INPUT_VEH_SUB_THROTTLE_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF601BCFC",
+      "HashName": "INPUT_MINIGAME_ACTION_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF6734E42",
+      "HashName": "INPUT_REPLAY_CLIP_DELETE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF7750B25",
+      "HashName": "INPUT_MINIGAME_FFF_FLOURISH_END",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF7C6DA28",
+      "HashName": "INPUT_REPLAY_NEWMARKER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF7FA2DDC",
+      "HashName": "INPUT_VEH_NEXT_RADIO_TRACK",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF810FB35",
+      "HashName": "INPUT_CAMERA_POSE_NEXT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF8480EED",
+      "HashName": "INPUT_FRONTEND_MAP_NAV_DOWN",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF8629909",
+      "HashName": "INPUT_REPLAY_TOGGLE_TIMELINE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF875FC78",
+      "HashName": "INPUT_MULTIPLAYER_DEAD_DUEL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF8CBAFB5",
+      "HashName": "INPUT_VEH_PUSHBIKE_REAR_BRAKE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF923B337",
+      "HashName": "INPUT_MINIGAME_POKER_YOUR_CARDS",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF9781997",
+      "HashName": "INPUT_INSPECT_UD",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF9EF072A",
+      "HashName": "INPUT_VEH_SUB_PITCH_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xF9FA6BC8",
+      "HashName": "INPUT_RADIO_WHEEL_LR",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFA0B29CD",
+      "HashName": "INPUT_QUICK_SELECT_TOGGLE_SHORTCUT_ITEM",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFA91AECD",
+      "HashName": "INPUT_MINIGAME_BUILDING_HAMMER",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFAFBD66A",
+      "HashName": "INPUT_PHOTO_MODE_FOCAL_LENGTH_UP_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFB9C3231",
+      "HashName": "INPUT_CREATOR_MENU_ACCEPT",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFD28D0F4",
+      "HashName": "INPUT_REPLAY_RECORDING_START",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFD8D64A7",
+      "HashName": "INPUT_VEH_PUSHBIKE_PEDAL",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFD9FC86D",
+      "HashName": "INPUT_MINIGAME_DOMINOES_MOVE_DOWN_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFDDD89D4",
+      "HashName": "INPUT_MINIGAME_DOMINOES_MOVE_LEFT_ONLY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFE0FE518",
+      "HashName": "INPUT_VEH_FLY_UNDERCARRIAGE",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFE6DD360",
+      "HashName": "INPUT_PHOTO_MODE_FILTER_INTENSITY",
+      "Key": "",
+      "GameVersion": ""
+    },
+    {
+      "Hash": "0xFF4B2ADA",
+      "HashName": "INPUT_MINIGAME_MILKING_LEFT_ACTION",
+      "Key": "",
+      "GameVersion": ""
+    }
+  ]

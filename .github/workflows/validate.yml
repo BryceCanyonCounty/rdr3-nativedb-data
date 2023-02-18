@@ -42,3 +42,23 @@ jobs:
         env:
           INPUT_SCHEMA: ./schemas/autocomplete.json
           INPUT_JSONS: ./objects/autocomplete/autovehicles.json
+      - name: Validate Filter Peds JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/filters.json
+          INPUT_JSONS: ./objects/filters/peds.json
+      - name: Validate Filter Objects JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/filters.json
+          INPUT_JSONS: ./objects/filters/objects.json
+      - name: Validate Filter Natives JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/filters.json
+          INPUT_JSONS: ./objects/filters/natives.json
+      - name: Validate Filter Vehicles JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/filters.json
+          INPUT_JSONS: ./objects/filters/vehicles.json

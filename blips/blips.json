@@ -1,0 +1,2942 @@
+[
+    {
+      "name": "blip_ambient_bounty_hunter",
+      "hash": -861219276,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_bounty_hunter.png"
+    },
+    {
+      "name": "blip_ambient_bounty_hunter_higher",
+      "hash": -535302224,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_bounty_hunter_higher.png"
+    },
+    {
+      "name": "blip_ambient_bounty_hunter_lower",
+      "hash": 28148096,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_bounty_hunter_lower.png"
+    },
+    {
+      "name": "blip_ambient_bounty_target",
+      "hash": 1481032477,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_bounty_target.png"
+    },
+    {
+      "name": "blip_ambient_chore",
+      "hash": 1321928545,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_chore.png"
+    },
+    {
+      "name": "blip_ambient_coach",
+      "hash": 1012165077,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_coach.png"
+    },
+    {
+      "name": "blip_ambient_companion",
+      "hash": -185399168,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_companion.png"
+    },
+    {
+      "name": "blip_ambient_companion_higher",
+      "hash": 54149631,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_companion_higher.png"
+    },
+    {
+      "name": "blip_ambient_companion_lower",
+      "hash": -1971029474,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_companion_lower.png"
+    },
+    {
+      "name": "blip_ambient_corpse",
+      "hash": -1116208957,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_corpse.png"
+    },
+    {
+      "name": "blip_ambient_death",
+      "hash": 350569997,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_death.png"
+    },
+    {
+      "name": "blip_ambient_eyewitness",
+      "hash": -2018361632,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_eyewitness.png"
+    },
+    {
+      "name": "blip_ambient_gang_leader",
+      "hash": -1489164512,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_gang_leader.png"
+    },
+    {
+      "name": "blip_ambient_herd",
+      "hash": 423351566,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_herd.png"
+    },
+    {
+      "name": "blip_ambient_herd_straggler",
+      "hash": -1979146842,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_herd_straggler.png"
+    },
+    {
+      "name": "blip_ambient_higher",
+      "hash": -920572370,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_higher.png"
+    },
+    {
+      "name": "blip_ambient_hitching_post",
+      "hash": 1220803671,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_hitching_post.png"
+    },
+    {
+      "name": "blip_ambient_horse",
+      "hash": -643888085,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_horse.png"
+    },
+    {
+      "name": "blip_ambient_law",
+      "hash": -1596758107,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_law.png"
+    },
+    {
+      "name": "blip_ambient_loan_shark",
+      "hash": 1838354131,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_loan_shark.png"
+    },
+    {
+      "name": "blip_ambient_lower",
+      "hash": -1843639063,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_lower.png"
+    },
+    {
+      "name": "blip_ambient_new",
+      "hash": 419258445,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_new.png"
+    },
+    {
+      "name": "blip_ambient_newspaper",
+      "hash": 587827268,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_newspaper.png"
+    },
+    {
+      "name": "blip_ambient_npc",
+      "hash": 305281166,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_npc.png"
+    },
+    {
+      "name": "blip_ambient_npc_higher",
+      "hash": 978474677,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_npc_higher.png"
+    },
+    {
+      "name": "blip_ambient_npc_lower",
+      "hash": -67528377,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_npc_lower.png"
+    },
+    {
+      "name": "blip_ambient_ped_downed",
+      "hash": 1453767378,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_ped_downed.png"
+    },
+    {
+      "name": "blip_ambient_ped_medium",
+      "hash": -1350763423,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_ped_medium.png"
+    },
+    {
+      "name": "blip_ambient_ped_medium_higher",
+      "hash": 1386031480,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_ped_medium_higher.png"
+    },
+    {
+      "name": "blip_ambient_ped_medium_lower",
+      "hash": 1995891146,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_ped_medium_lower.png"
+    },
+    {
+      "name": "blip_ambient_ped_small",
+      "hash": 692310,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_ped_small.png"
+    },
+    {
+      "name": "blip_ambient_ped_small_higher",
+      "hash": 195811413,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_ped_small_higher.png"
+    },
+    {
+      "name": "blip_ambient_ped_small_lower",
+      "hash": 511626456,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_ped_small_lower.png"
+    },
+    {
+      "name": "blip_ambient_quartermaster",
+      "hash": 249721687,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_quartermaster.png"
+    },
+    {
+      "name": "blip_ambient_riverboat",
+      "hash": 2033397166,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_riverboat.png"
+    },
+    {
+      "name": "blip_ambient_secret",
+      "hash": 675509286,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_secret.png"
+    },
+    {
+      "name": "blip_ambient_sheriff",
+      "hash": -693644997,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_sheriff.png"
+    },
+    {
+      "name": "blip_ambient_telegraph",
+      "hash": 503049244,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_telegraph.png"
+    },
+    {
+      "name": "blip_ambient_theatre",
+      "hash": -417940443,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_theatre.png"
+    },
+    {
+      "name": "blip_ambient_tithing",
+      "hash": -1954662204,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_tithing.png"
+    },
+    {
+      "name": "blip_ambient_tracking",
+      "hash": -1580514024,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_tracking.png"
+    },
+    {
+      "name": "blip_ambient_train",
+      "hash": -250506368,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_train.png"
+    },
+    {
+      "name": "blip_ambient_wagon",
+      "hash": 874255393,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_wagon.png"
+    },
+    {
+      "name": "blip_ambient_warp",
+      "hash": 784218150,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_warp.png"
+    },
+    {
+      "name": "blip_ammo_arrow",
+      "hash": 573732443,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ammo_arrow.png"
+    },
+    {
+      "name": "blip_ammo_bullets",
+      "hash": 1445158214,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ammo_bullets.png"
+    },
+    {
+      "name": "blip_animal",
+      "hash": -1646261997,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_animal.png"
+    },
+    {
+      "name": "blip_animal_dead",
+      "hash": 1340161527,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_animal_dead.png"
+    },
+    {
+      "name": "blip_animal_quality_01",
+      "hash": 1996684768,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_animal_quality_01.png"
+    },
+    {
+      "name": "blip_animal_quality_02",
+      "hash": -171082889,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_animal_quality_02.png"
+    },
+    {
+      "name": "blip_animal_quality_03",
+      "hash": -480291173,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_animal_quality_03.png"
+    },
+    {
+      "name": "blip_animal_skin",
+      "hash": 218395012,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_animal_skin.png"
+    },
+    {
+      "name": "blip_app_connected",
+      "hash": 1173759417,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_app_connected.png"
+    },
+    {
+      "name": "blip_attention",
+      "hash": -774688241,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_attention.png"
+    },
+    {
+      "name": "blip_bank_debt",
+      "hash": 1869246576,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_bank_debt.png"
+    },
+    {
+      "name": "blip_bath_house",
+      "hash": -304640465,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_bath_house.png"
+    },
+    {
+      "name": "blip_camp",
+      "hash": 327180499,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_camp.png"
+    },
+    {
+      "name": "blip_camp_request",
+      "hash": -1043855483,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_camp_request.png"
+    },
+    {
+      "name": "blip_camp_tent",
+      "hash": -910004446,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_camp_tent.png"
+    },
+    {
+      "name": "blip_campfire",
+      "hash": 1754365229,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_campfire.png"
+    },
+    {
+      "name": "blip_campfire_full",
+      "hash": 773587962,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_campfire_full.png"
+    },
+    {
+      "name": "blip_canoe",
+      "hash": 62421675,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_canoe.png"
+    },
+    {
+      "name": "blip_cash_arthur",
+      "hash": 1420154945,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_cash_arthur.png"
+    },
+    {
+      "name": "blip_cash_bag",
+      "hash": 688589278,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_cash_bag.png"
+    },
+    {
+      "name": "blip_chest",
+      "hash": -1138864184,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_chest.png"
+    },
+    {
+      "name": "blip_code_center",
+      "hash": -758439257,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_code_center.png"
+    },
+    {
+      "name": "blip_code_center_on_horse",
+      "hash": 648067515,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_code_center_on_horse.png"
+    },
+    {
+      "name": "blip_code_waypoint",
+      "hash": 960467426,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_code_waypoint.png"
+    },
+    {
+      "name": "blip_deadeye_cross",
+      "hash": 1754506823,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_deadeye_cross.png"
+    },
+    {
+      "name": "blip_destroy",
+      "hash": 456887900,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_destroy.png"
+    },
+    {
+      "name": "blip_direction_pointer",
+      "hash": 51988200,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_direction_pointer.png"
+    },
+    {
+      "name": "blip_donate_food",
+      "hash": -1236018085,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_donate_food.png"
+    },
+    {
+      "name": "blip_event_appleseed",
+      "hash": 1904459580,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_event_appleseed.png"
+    },
+    {
+      "name": "blip_event_castor",
+      "hash": -1989725258,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_event_castor.png"
+    },
+    {
+      "name": "blip_event_railroad_camp",
+      "hash": -487631996,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_event_railroad_camp.png"
+    },
+    {
+      "name": "blip_event_riggs_camp",
+      "hash": -1944395098,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_event_riggs_camp.png"
+    },
+    {
+      "name": "blip_fence_building",
+      "hash": -1179229323,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_fence_building.png"
+    },
+    {
+      "name": "blip_for_sale",
+      "hash": -1383036426,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_for_sale.png"
+    },
+    {
+      "name": "blip_gang_savings",
+      "hash": 571063529,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_gang_savings.png"
+    },
+    {
+      "name": "blip_gang_savings_special",
+      "hash": 1350383321,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_gang_savings_special.png"
+    },
+    {
+      "name": "blip_grub",
+      "hash": 935247438,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_grub.png"
+    },
+    {
+      "name": "blip_hat",
+      "hash": 990667866,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_hat.png"
+    },
+    {
+      "name": "blip_horse_higher",
+      "hash": 600220762,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_higher.png"
+    },
+    {
+      "name": "blip_horse_lower",
+      "hash": 2131881492,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_lower.png"
+    },
+    {
+      "name": "blip_horse_owned",
+      "hash": -1715189579,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned.png"
+    },
+    {
+      "name": "blip_horse_owned_active",
+      "hash": 1210165179,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned_active.png"
+    },
+    {
+      "name": "blip_horse_owned_bonding_0",
+      "hash": -217389439,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned_bonding_0.png"
+    },
+    {
+      "name": "blip_horse_owned_bonding_1",
+      "hash": 13992470,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned_bonding_1.png"
+    },
+    {
+      "name": "blip_horse_owned_bonding_2",
+      "hash": 396341162,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned_bonding_2.png"
+    },
+    {
+      "name": "blip_horse_owned_bonding_3",
+      "hash": 623069873,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned_bonding_3.png"
+    },
+    {
+      "name": "blip_horse_owned_bonding_4",
+      "hash": -637422489,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned_bonding_4.png"
+    },
+    {
+      "name": "blip_horse_owned_hitched",
+      "hash": -44909892,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_owned_hitched.png"
+    },
+    {
+      "name": "blip_horse_temp",
+      "hash": -641397381,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_temp.png"
+    },
+    {
+      "name": "blip_horse_temp_bonding_0",
+      "hash": 937553910,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_temp_bonding_0.png"
+    },
+    {
+      "name": "blip_horse_temp_bonding_1",
+      "hash": 489732756,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_temp_bonding_1.png"
+    },
+    {
+      "name": "blip_horse_temp_bonding_2",
+      "hash": 195204984,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_temp_bonding_2.png"
+    },
+    {
+      "name": "blip_horse_temp_bonding_3",
+      "hash": -103418913,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_temp_bonding_3.png"
+    },
+    {
+      "name": "blip_horse_temp_bonding_4",
+      "hash": -815685893,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_temp_bonding_4.png"
+    },
+    {
+      "name": "blip_horse_temp_hitched",
+      "hash": 444737100,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horse_temp_hitched.png"
+    },
+    {
+      "name": "blip_horseshoe_0",
+      "hash": 1887082874,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horseshoe_0.png"
+    },
+    {
+      "name": "blip_horseshoe_1",
+      "hash": 2100933368,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horseshoe_1.png"
+    },
+    {
+      "name": "blip_horseshoe_2",
+      "hash": 1166328735,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horseshoe_2.png"
+    },
+    {
+      "name": "blip_horseshoe_3",
+      "hash": 1463641872,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horseshoe_3.png"
+    },
+    {
+      "name": "blip_horseshoe_4",
+      "hash": 687278724,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_horseshoe_4.png"
+    },
+    {
+      "name": "blip_hotel_bed",
+      "hash": -211556852,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_hotel_bed.png"
+    },
+    {
+      "name": "blip_job",
+      "hash": -986795390,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_job.png"
+    },
+    {
+      "name": "blip_location_higher",
+      "hash": -902701436,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_location_higher.png"
+    },
+    {
+      "name": "blip_location_lower",
+      "hash": -432067112,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_location_lower.png"
+    },
+    {
+      "name": "blip_locked",
+      "hash": 1255312268,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_locked.png"
+    },
+    {
+      "name": "blip_mg_blackjack",
+      "hash": 595820042,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_blackjack.png"
+    },
+    {
+      "name": "blip_mg_dominoes",
+      "hash": -1650465405,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_dominoes.png"
+    },
+    {
+      "name": "blip_mg_dominoes_all3s",
+      "hash": -1581061148,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_dominoes_all3s.png"
+    },
+    {
+      "name": "blip_mg_dominoes_all5s",
+      "hash": -48718882,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_dominoes_all5s.png"
+    },
+    {
+      "name": "blip_mg_dominoes_draw",
+      "hash": -379108622,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_dominoes_draw.png"
+    },
+    {
+      "name": "blip_mg_drinking",
+      "hash": 1242464081,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_drinking.png"
+    },
+    {
+      "name": "blip_mg_fishing",
+      "hash": -1575595762,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_fishing.png"
+    },
+    {
+      "name": "blip_mg_five_finger_fillet",
+      "hash": 1974815632,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_five_finger_fillet.png"
+    },
+    {
+      "name": "blip_mg_five_finger_fillet_burnout",
+      "hash": 1015604260,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_five_finger_fillet_burnout.png"
+    },
+    {
+      "name": "blip_mg_five_finger_fillet_guts",
+      "hash": 126262516,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_five_finger_fillet_guts.png"
+    },
+    {
+      "name": "blip_mg_poker",
+      "hash": 1243830185,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mg_poker.png"
+    },
+    {
+      "name": "blip_mission_area_beau",
+      "hash": -1477394468,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_beau.png"
+    },
+    {
+      "name": "blip_mission_area_bill",
+      "hash": 455154152,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_bill.png"
+    },
+    {
+      "name": "blip_mission_area_bounty",
+      "hash": 2125146709,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_bounty.png"
+    },
+    {
+      "name": "blip_mission_area_bronte",
+      "hash": -702538745,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_bronte.png"
+    },
+    {
+      "name": "blip_mission_area_david_geddes",
+      "hash": 1403865185,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_david_geddes.png"
+    },
+    {
+      "name": "blip_mission_area_dutch",
+      "hash": 1729623738,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_dutch.png"
+    },
+    {
+      "name": "blip_mission_area_eagle_flies",
+      "hash": 508736310,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_eagle_flies.png"
+    },
+    {
+      "name": "blip_mission_area_edith",
+      "hash": -486409706,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_edith.png"
+    },
+    {
+      "name": "blip_mission_area_grays",
+      "hash": 1876890949,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_grays.png"
+    },
+    {
+      "name": "blip_mission_area_gunslinger_1",
+      "hash": -1849394918,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_gunslinger_1.png"
+    },
+    {
+      "name": "blip_mission_area_gunslinger_2",
+      "hash": 1665113105,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_gunslinger_2.png"
+    },
+    {
+      "name": "blip_mission_area_henri",
+      "hash": 1048219592,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_henri.png"
+    },
+    {
+      "name": "blip_mission_area_hosea",
+      "hash": 783937097,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_hosea.png"
+    },
+    {
+      "name": "blip_mission_area_javier",
+      "hash": 495717394,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_javier.png"
+    },
+    {
+      "name": "blip_mission_area_john",
+      "hash": 231806605,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_john.png"
+    },
+    {
+      "name": "blip_mission_area_kitty",
+      "hash": 1003036114,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_kitty.png"
+    },
+    {
+      "name": "blip_mission_area_leon",
+      "hash": -686621143,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_leon.png"
+    },
+    {
+      "name": "blip_mission_area_lightning",
+      "hash": 1084717321,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_lightning.png"
+    },
+    {
+      "name": "blip_mission_area_loanshark",
+      "hash": -1034306897,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_loanshark.png"
+    },
+    {
+      "name": "blip_mission_area_mary",
+      "hash": -925245417,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_mary.png"
+    },
+    {
+      "name": "blip_mission_area_micah",
+      "hash": -977737823,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_micah.png"
+    },
+    {
+      "name": "blip_mission_area_rains",
+      "hash": 1255014523,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_rains.png"
+    },
+    {
+      "name": "blip_mission_area_rc",
+      "hash": -1998899839,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_rc.png"
+    },
+    {
+      "name": "blip_mission_area_reverend",
+      "hash": -164151171,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_reverend.png"
+    },
+    {
+      "name": "blip_mission_area_sadie",
+      "hash": 1631595563,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_sadie.png"
+    },
+    {
+      "name": "blip_mission_area_strauss",
+      "hash": -721238161,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_strauss.png"
+    },
+    {
+      "name": "blip_mission_area_trelawney",
+      "hash": -1245830589,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_area_trelawney.png"
+    },
+    {
+      "name": "blip_mission_bg",
+      "hash": -125278436,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_bg.png"
+    },
+    {
+      "name": "blip_mission_bill",
+      "hash": 944812202,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_bill.png"
+    },
+    {
+      "name": "blip_mission_bounty",
+      "hash": -907204276,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_bounty.png"
+    },
+    {
+      "name": "blip_mission_camp",
+      "hash": -1125110489,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_camp.png"
+    },
+    {
+      "name": "blip_mission_dutch",
+      "hash": -106554210,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_dutch.png"
+    },
+    {
+      "name": "blip_mission_higher",
+      "hash": 1605798866,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_higher.png"
+    },
+    {
+      "name": "blip_mission_hosea",
+      "hash": -1724301546,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_hosea.png"
+    },
+    {
+      "name": "blip_mission_john",
+      "hash": -887880659,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_john.png"
+    },
+    {
+      "name": "blip_mission_lower",
+      "hash": -839061276,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_lower.png"
+    },
+    {
+      "name": "blip_mission_micah",
+      "hash": 1267381595,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mission_micah.png"
+    },
+    {
+      "name": "blip_mp_pickup",
+      "hash": 1109348405,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_mp_pickup.png"
+    },
+    {
+      "name": "blip_npc_search",
+      "hash": 2031478856,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_npc_search.png"
+    },
+    {
+      "name": "blip_objective",
+      "hash": -570710357,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_objective.png"
+    },
+    {
+      "name": "blip_objective_minor",
+      "hash": 1192138201,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_objective_minor.png"
+    },
+    {
+      "name": "blip_overlay_1",
+      "hash": 480724882,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_1.png"
+    },
+    {
+      "name": "blip_overlay_2",
+      "hash": -300946848,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_2.png"
+    },
+    {
+      "name": "blip_overlay_3",
+      "hash": 7900981,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_3.png"
+    },
+    {
+      "name": "blip_overlay_4",
+      "hash": 1675187701,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_4.png"
+    },
+    {
+      "name": "blip_overlay_5",
+      "hash": 1846307419,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_5.png"
+    },
+    {
+      "name": "blip_overlay_bill",
+      "hash": 68100707,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_bill.png"
+    },
+    {
+      "name": "blip_overlay_charles",
+      "hash": -674292488,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_charles.png"
+    },
+    {
+      "name": "blip_overlay_hosea",
+      "hash": -985772686,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_hosea.png"
+    },
+    {
+      "name": "blip_overlay_javier",
+      "hash": 495452413,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_javier.png"
+    },
+    {
+      "name": "blip_overlay_john",
+      "hash": -1764128257,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_john.png"
+    },
+    {
+      "name": "blip_overlay_karen",
+      "hash": -1283959649,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_karen.png"
+    },
+    {
+      "name": "blip_overlay_kieran",
+      "hash": 577712810,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_kieran.png"
+    },
+    {
+      "name": "blip_overlay_lenny",
+      "hash": -1491306790,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_lenny.png"
+    },
+    {
+      "name": "blip_overlay_loanshark",
+      "hash": -1713383509,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_loanshark.png"
+    },
+    {
+      "name": "blip_overlay_micah",
+      "hash": 809358939,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_micah.png"
+    },
+    {
+      "name": "blip_overlay_party",
+      "hash": 1097265030,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_party.png"
+    },
+    {
+      "name": "blip_overlay_pearson",
+      "hash": 1083384676,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_pearson.png"
+    },
+    {
+      "name": "blip_overlay_ring",
+      "hash": -184692826,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_ring.png"
+    },
+    {
+      "name": "blip_overlay_saddle",
+      "hash": -271586249,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_saddle.png"
+    },
+    {
+      "name": "blip_overlay_sean",
+      "hash": -656301087,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_sean.png"
+    },
+    {
+      "name": "blip_overlay_strauss",
+      "hash": 1737923688,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_strauss.png"
+    },
+    {
+      "name": "blip_overlay_tilly",
+      "hash": 2009192597,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_tilly.png"
+    },
+    {
+      "name": "blip_overlay_uncle",
+      "hash": -1706952903,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_uncle.png"
+    },
+    {
+      "name": "blip_overlay_white_1",
+      "hash": -810005617,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_white_1.png"
+    },
+    {
+      "name": "blip_overlay_white_2",
+      "hash": -512626942,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_white_2.png"
+    },
+    {
+      "name": "blip_overlay_white_3",
+      "hash": -1268149006,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_white_3.png"
+    },
+    {
+      "name": "blip_overlay_white_4",
+      "hash": -969951106,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_white_4.png"
+    },
+    {
+      "name": "blip_overlay_white_5",
+      "hash": 1222000069,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_overlay_white_5.png"
+    },
+    {
+      "name": "blip_photo_studio",
+      "hash": 1364029453,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_photo_studio.png"
+    },
+    {
+      "name": "blip_plant",
+      "hash": -675651933,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_plant.png"
+    },
+    {
+      "name": "blip_player",
+      "hash": -523921054,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_player.png"
+    },
+    {
+      "name": "blip_player_coach",
+      "hash": -361388975,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_player_coach.png"
+    },
+    {
+      "name": "blip_poi",
+      "hash": -2039778370,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_poi.png"
+    },
+    {
+      "name": "blip_post_office",
+      "hash": 1861010125,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_post_office.png"
+    },
+    {
+      "name": "blip_post_office_rec",
+      "hash": 1475382911,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_post_office_rec.png"
+    },
+    {
+      "name": "blip_proc_bank",
+      "hash": -2128054417,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_proc_bank.png"
+    },
+    {
+      "name": "blip_proc_bounty_poster",
+      "hash": -1636832113,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_proc_bounty_poster.png"
+    },
+    {
+      "name": "blip_proc_home",
+      "hash": 1586273744,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_proc_home.png"
+    },
+    {
+      "name": "blip_proc_home_locked",
+      "hash": -1498696713,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_proc_home_locked.png"
+    },
+    {
+      "name": "blip_proc_loanshark",
+      "hash": -997121570,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_proc_loanshark.png"
+    },
+    {
+      "name": "blip_proc_track",
+      "hash": 421058601,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_proc_track.png"
+    },
+    {
+      "name": "blip_radar_edge_pointer",
+      "hash": -1192977721,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_radar_edge_pointer.png"
+    },
+    {
+      "name": "blip_radius_search",
+      "hash": 150441873,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_radius_search.png"
+    },
+    {
+      "name": "blip_rc",
+      "hash": -1822497728,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc.png"
+    },
+    {
+      "name": "blip_rc_albert",
+      "hash": -1259688762,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_albert.png"
+    },
+    {
+      "name": "blip_rc_algernon_wasp",
+      "hash": 2107943776,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_algernon_wasp.png"
+    },
+    {
+      "name": "blip_rc_art",
+      "hash": -434412386,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_art.png"
+    },
+    {
+      "name": "blip_rc_calloway",
+      "hash": -1744398657,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_calloway.png"
+    },
+    {
+      "name": "blip_rc_chain_gang",
+      "hash": -622951465,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_chain_gang.png"
+    },
+    {
+      "name": "blip_rc_charlotte_balfour",
+      "hash": -1676833170,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_charlotte_balfour.png"
+    },
+    {
+      "name": "blip_rc_crackpot",
+      "hash": 877823184,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_crackpot.png"
+    },
+    {
+      "name": "blip_rc_deborah",
+      "hash": 1162303770,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_deborah.png"
+    },
+    {
+      "name": "blip_rc_gunslinger_1",
+      "hash": 858349040,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_gunslinger_1.png"
+    },
+    {
+      "name": "blip_rc_gunslinger_2",
+      "hash": 479604938,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_gunslinger_2.png"
+    },
+    {
+      "name": "blip_rc_gunslinger_3",
+      "hash": 240424007,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_gunslinger_3.png"
+    },
+    {
+      "name": "blip_rc_gunslinger_5",
+      "hash": 1813565390,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_gunslinger_5.png"
+    },
+    {
+      "name": "blip_rc_henri",
+      "hash": -340501579,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_henri.png"
+    },
+    {
+      "name": "blip_rc_hobbs",
+      "hash": 1986498931,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_hobbs.png"
+    },
+    {
+      "name": "blip_rc_jeremy_gill",
+      "hash": -273196610,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_jeremy_gill.png"
+    },
+    {
+      "name": "blip_rc_kitty",
+      "hash": 1970061205,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_kitty.png"
+    },
+    {
+      "name": "blip_rc_lightning",
+      "hash": -1962480616,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_lightning.png"
+    },
+    {
+      "name": "blip_rc_obediah_hinton",
+      "hash": 415367144,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_obediah_hinton.png"
+    },
+    {
+      "name": "blip_rc_odd_fellows",
+      "hash": 825960713,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_odd_fellows.png"
+    },
+    {
+      "name": "blip_rc_oh_brother",
+      "hash": -1280269885,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_oh_brother.png"
+    },
+    {
+      "name": "blip_rc_old_flame",
+      "hash": 1429600911,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_old_flame.png"
+    },
+    {
+      "name": "blip_rc_slave_catcher",
+      "hash": 194953189,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_slave_catcher.png"
+    },
+    {
+      "name": "blip_rc_war_veteran",
+      "hash": 1770336866,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rc_war_veteran.png"
+    },
+    {
+      "name": "blip_region_caravan",
+      "hash": -1606321000,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_region_caravan.png"
+    },
+    {
+      "name": "blip_region_hideout",
+      "hash": -428972082,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_region_hideout.png"
+    },
+    {
+      "name": "blip_region_hunting",
+      "hash": 500148876,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_region_hunting.png"
+    },
+    {
+      "name": "blip_robbery_bank",
+      "hash": 623155783,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_robbery_bank.png"
+    },
+    {
+      "name": "blip_robbery_coach",
+      "hash": -729441538,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_robbery_coach.png"
+    },
+    {
+      "name": "blip_robbery_home",
+      "hash": 444204045,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_robbery_home.png"
+    },
+    {
+      "name": "blip_rpg_overweight",
+      "hash": -1107942598,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rpg_overweight.png"
+    },
+    {
+      "name": "blip_rpg_underweight",
+      "hash": 1111652008,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_rpg_underweight.png"
+    },
+    {
+      "name": "blip_saddle",
+      "hash": -1327110633,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_saddle.png"
+    },
+    {
+      "name": "blip_saloon",
+      "hash": 1879260108,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_saloon.png"
+    },
+    {
+      "name": "blip_scm_abe_stablehand",
+      "hash": 469700298,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_abe_stablehand.png"
+    },
+    {
+      "name": "blip_scm_abigail",
+      "hash": 2134645637,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_abigail.png"
+    },
+    {
+      "name": "blip_scm_albert_cakes",
+      "hash": 2125693359,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_albert_cakes.png"
+    },
+    {
+      "name": "blip_scm_andreas",
+      "hash": -68985291,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_andreas.png"
+    },
+    {
+      "name": "blip_scm_ansel_atherton",
+      "hash": -194220735,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_ansel_atherton.png"
+    },
+    {
+      "name": "blip_scm_beau",
+      "hash": 1301148265,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_beau.png"
+    },
+    {
+      "name": "blip_scm_bronte",
+      "hash": -1137631263,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_bronte.png"
+    },
+    {
+      "name": "blip_scm_calderon",
+      "hash": -809133732,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_calderon.png"
+    },
+    {
+      "name": "blip_scm_charles",
+      "hash": -1419869332,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_charles.png"
+    },
+    {
+      "name": "blip_scm_david_geddes",
+      "hash": -1715293734,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_david_geddes.png"
+    },
+    {
+      "name": "blip_scm_dorkins",
+      "hash": 332378857,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_dorkins.png"
+    },
+    {
+      "name": "blip_scm_eagle_flies",
+      "hash": 1079956634,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_eagle_flies.png"
+    },
+    {
+      "name": "blip_scm_edith",
+      "hash": -661151214,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_edith.png"
+    },
+    {
+      "name": "blip_scm_evelyn",
+      "hash": -1610853131,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_evelyn.png"
+    },
+    {
+      "name": "blip_scm_frances",
+      "hash": -781551276,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_frances.png"
+    },
+    {
+      "name": "blip_scm_grays",
+      "hash": -982604554,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_grays.png"
+    },
+    {
+      "name": "blip_scm_jack",
+      "hash": 388668855,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_jack.png"
+    },
+    {
+      "name": "blip_scm_javier",
+      "hash": -2071559757,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_javier.png"
+    },
+    {
+      "name": "blip_scm_kieran",
+      "hash": -420584813,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_kieran.png"
+    },
+    {
+      "name": "blip_scm_lenny",
+      "hash": 818727011,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_lenny.png"
+    },
+    {
+      "name": "blip_scm_leon",
+      "hash": -491324266,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_leon.png"
+    },
+    {
+      "name": "blip_scm_letter",
+      "hash": -2100584570,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_letter.png"
+    },
+    {
+      "name": "blip_scm_marybeth",
+      "hash": 611792857,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_marybeth.png"
+    },
+    {
+      "name": "blip_scm_molly_oshea",
+      "hash": 1306049414,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_molly_oshea.png"
+    },
+    {
+      "name": "blip_scm_monroe",
+      "hash": -301979999,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_monroe.png"
+    },
+    {
+      "name": "blip_scm_pearson",
+      "hash": -699499938,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_pearson.png"
+    },
+    {
+      "name": "blip_scm_penelope",
+      "hash": -510064667,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_penelope.png"
+    },
+    {
+      "name": "blip_scm_rains",
+      "hash": -264232183,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_rains.png"
+    },
+    {
+      "name": "blip_scm_reverend",
+      "hash": -675600022,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_reverend.png"
+    },
+    {
+      "name": "blip_scm_sadie",
+      "hash": 1232829146,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_sadie.png"
+    },
+    {
+      "name": "blip_scm_sean",
+      "hash": 1598675467,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_sean.png"
+    },
+    {
+      "name": "blip_scm_strauss",
+      "hash": 2145479193,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_strauss.png"
+    },
+    {
+      "name": "blip_scm_susan",
+      "hash": 1010322007,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_susan.png"
+    },
+    {
+      "name": "blip_scm_tom_dickens",
+      "hash": -1295983414,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_tom_dickens.png"
+    },
+    {
+      "name": "blip_scm_trelawney",
+      "hash": -1151477989,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_trelawney.png"
+    },
+    {
+      "name": "blip_scm_uncle",
+      "hash": -338536163,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_scm_uncle.png"
+    },
+    {
+      "name": "blip_shop_animal_trapper",
+      "hash": -1406874050,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_animal_trapper.png"
+    },
+    {
+      "name": "blip_shop_barber",
+      "hash": -2090472724,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_barber.png"
+    },
+    {
+      "name": "blip_shop_blacksmith",
+      "hash": -758970771,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_blacksmith.png"
+    },
+    {
+      "name": "blip_shop_butcher",
+      "hash": -1665418949,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_butcher.png"
+    },
+    {
+      "name": "blip_shop_coach_fencing",
+      "hash": -1989306548,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_coach_fencing.png"
+    },
+    {
+      "name": "blip_shop_doctor",
+      "hash": -1739686743,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_doctor.png"
+    },
+    {
+      "name": "blip_shop_gunsmith",
+      "hash": -145868367,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_gunsmith.png"
+    },
+    {
+      "name": "blip_shop_horse",
+      "hash": 1938782895,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_horse.png"
+    },
+    {
+      "name": "blip_shop_horse_fencing",
+      "hash": -1456209806,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_horse_fencing.png"
+    },
+    {
+      "name": "blip_shop_horse_saddle",
+      "hash": 469827317,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_horse_saddle.png"
+    },
+    {
+      "name": "blip_shop_market_stall",
+      "hash": 819673798,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_market_stall.png"
+    },
+    {
+      "name": "blip_shop_shady_store",
+      "hash": 531267562,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_shady_store.png"
+    },
+    {
+      "name": "blip_shop_store",
+      "hash": 1475879922,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_store.png"
+    },
+    {
+      "name": "blip_shop_tackle",
+      "hash": -852241114,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_tackle.png"
+    },
+    {
+      "name": "blip_shop_tailor",
+      "hash": 1195729388,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_tailor.png"
+    },
+    {
+      "name": "blip_shop_train",
+      "hash": 103490298,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_train.png"
+    },
+    {
+      "name": "blip_shop_trainer",
+      "hash": 1542275196,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_shop_trainer.png"
+    },
+    {
+      "name": "blip_stable",
+      "hash": -73168905,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_stable.png"
+    },
+    {
+      "name": "blip_summer_cow",
+      "hash": 1078668923,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_summer_cow.png"
+    },
+    {
+      "name": "blip_summer_feed",
+      "hash": 669307703,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_summer_feed.png"
+    },
+    {
+      "name": "blip_summer_guard",
+      "hash": -1735903728,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_summer_guard.png"
+    },
+    {
+      "name": "blip_summer_horse",
+      "hash": 552659337,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_summer_horse.png"
+    },
+    {
+      "name": "blip_supplies_ammo",
+      "hash": 1576459965,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_supplies_ammo.png"
+    },
+    {
+      "name": "blip_supplies_food",
+      "hash": -1852063472,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_supplies_food.png"
+    },
+    {
+      "name": "blip_supplies_health",
+      "hash": -695368421,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_supplies_health.png"
+    },
+    {
+      "name": "blip_supply_icon_ammo",
+      "hash": 1378990590,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_supply_icon_ammo.png"
+    },
+    {
+      "name": "blip_supply_icon_food",
+      "hash": 412928073,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_supply_icon_food.png"
+    },
+    {
+      "name": "blip_supply_icon_health",
+      "hash": -924021303,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_supply_icon_health.png"
+    },
+    {
+      "name": "blip_swap",
+      "hash": -1505442625,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_swap.png"
+    },
+    {
+      "name": "blip_taxidermist",
+      "hash": -1733535731,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_taxidermist.png"
+    },
+    {
+      "name": "blip_time_of_day",
+      "hash": -369711600,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_time_of_day.png"
+    },
+    {
+      "name": "blip_town",
+      "hash": -1258576797,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_town.png"
+    },
+    {
+      "name": "blip_weapon",
+      "hash": 549686661,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon.png"
+    },
+    {
+      "name": "blip_weapon_bow",
+      "hash": -132369645,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_bow.png"
+    },
+    {
+      "name": "blip_weapon_cannon",
+      "hash": -363516712,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_cannon.png"
+    },
+    {
+      "name": "blip_weapon_dynamite",
+      "hash": 1125369187,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_dynamite.png"
+    },
+    {
+      "name": "blip_weapon_gatling",
+      "hash": 2120954438,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_gatling.png"
+    },
+    {
+      "name": "blip_weapon_handgun",
+      "hash": -1052367340,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_handgun.png"
+    },
+    {
+      "name": "blip_weapon_longarm",
+      "hash": -995686252,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_longarm.png"
+    },
+    {
+      "name": "blip_weapon_melee",
+      "hash": 501323084,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_melee.png"
+    },
+    {
+      "name": "blip_weapon_molotov",
+      "hash": 526225529,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_molotov.png"
+    },
+    {
+      "name": "blip_weapon_shotgun",
+      "hash": -1796682476,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_shotgun.png"
+    },
+    {
+      "name": "blip_weapon_sniper",
+      "hash": -1634577211,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_sniper.png"
+    },
+    {
+      "name": "blip_weapon_throwable",
+      "hash": 1482572802,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_throwable.png"
+    },
+    {
+      "name": "blip_weapon_throwing_knife",
+      "hash": 908365526,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_throwing_knife.png"
+    },
+    {
+      "name": "blip_weapon_tomahawk",
+      "hash": 1480984695,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_tomahawk.png"
+    },
+    {
+      "name": "blip_weapon_torch",
+      "hash": 2119944996,
+      "image": "http://femga.com/images/samples/ui_textures_no_bg/blips/blip_weapon_torch.png"
+    },
+    {
+        "name": "blip_adversary_large",
+        "hash": -180188163,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_adversary_large.png"
+      },
+      {
+        "name": "blip_adversary_medium",
+        "hash": -2048736478,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_adversary_medium.png"
+      },
+      {
+        "name": "blip_adversary_small",
+        "hash": 1001245999,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_adversary_small.png"
+      },
+      {
+        "name": "blip_ambient_bounty_hunter_wagon",
+        "hash": -507621590,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_bounty_hunter_wagon.png"
+      },
+      {
+        "name": "blip_ambient_crate",
+        "hash": -426139257,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_crate.png"
+      },
+      {
+        "name": "blip_ambient_delivery",
+        "hash": -592068833,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_delivery.png"
+      },
+      {
+        "name": "blip_ambient_hot_target",
+        "hash": -1357626643,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_hot_target.png"
+      },
+      {
+        "name": "blip_ambient_hunter",
+        "hash": -2034972265,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_hunter.png"
+      },
+      {
+        "name": "blip_ambient_king",
+        "hash": 233295963,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_king.png"
+      },
+      {
+        "name": "blip_ambient_marked_for_death",
+        "hash": 1366733613,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_marked_for_death.png"
+      },
+      {
+        "name": "blip_ambient_posse_deputy",
+        "hash": 1116438174,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_posse_deputy.png"
+      },
+      {
+        "name": "blip_ambient_posse_deputy_higher",
+        "hash": -747104616,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_posse_deputy_higher.png"
+      },
+      {
+        "name": "blip_ambient_posse_deputy_lower",
+        "hash": -1816664083,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_posse_deputy_lower.png"
+      },
+      {
+        "name": "blip_ambient_posse_leader",
+        "hash": 1974270787,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_posse_leader.png"
+      },
+      {
+        "name": "blip_ambient_posse_leader_higher",
+        "hash": 1493420112,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_posse_leader_higher.png"
+      },
+      {
+        "name": "blip_ambient_posse_leader_lower",
+        "hash": -867923254,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_posse_leader_lower.png"
+      },
+      {
+        "name": "blip_ambient_tugboat",
+        "hash": -1018164873,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_tugboat.png"
+      },
+      {
+        "name": "blip_ambient_vip",
+        "hash": -1103135225,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ambient_vip.png"
+      },
+      {
+        "name": "blip_bag_capture",
+        "hash": 1151744703,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_bag_capture.png"
+      },
+      {
+        "name": "blip_bag_defend",
+        "hash": 1264416627,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_bag_defend.png"
+      },
+      {
+        "name": "blip_ball",
+        "hash": 1433472988,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ball.png"
+      },
+      {
+        "name": "blip_bolt",
+        "hash": -1018697504,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_bolt.png"
+      },
+      {
+        "name": "blip_business_moonshine",
+        "hash": 1961764827,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_business_moonshine.png"
+      },
+      {
+        "name": "blip_code_center_glow",
+        "hash": -976472438,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_code_center_glow.png"
+      },
+      {
+        "name": "blip_code_center_glow_alpha",
+        "hash": -1100356119,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_code_center_glow_alpha.png"
+      },
+      {
+        "name": "blip_decision",
+        "hash": -242384756,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_decision.png"
+      },
+      {
+        "name": "blip_direction_pointer",
+        "hash": 51988200,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_direction_pointer.png"
+      },
+      {
+        "name": "blip_gold",
+        "hash": -1289383059,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_gold.png"
+      },
+      {
+        "name": "blip_gunslinger",
+        "hash": -963916715,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_gunslinger.png"
+      },
+      {
+        "name": "blip_health",
+        "hash": 1451797164,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_health.png"
+      },
+      {
+        "name": "blip_hire_camp_follower",
+        "hash": 1202244626,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_hire_camp_follower.png"
+      },
+      {
+        "name": "blip_honor_bad",
+        "hash": 1322310532,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_honor_bad.png"
+      },
+      {
+        "name": "blip_honor_good",
+        "hash": -2108463156,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_honor_good.png"
+      },
+      {
+        "name": "blip_job_board",
+        "hash": -272216216,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_job_board.png"
+      },
+      {
+        "name": "blip_moonshine",
+        "hash": -392465725,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_moonshine.png"
+      },
+      {
+        "name": "blip_moonshine_still",
+        "hash": 553094466,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_moonshine_still.png"
+      },
+      {
+        "name": "blip_moonshine_vat",
+        "hash": 1391579593,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_moonshine_vat.png"
+      },
+      {
+        "name": "blip_mp_attack_target",
+        "hash": 639638961,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_attack_target.png"
+      },
+      {
+        "name": "blip_mp_base",
+        "hash": -2024635066,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base.png"
+      },
+      {
+        "name": "blip_mp_base_1",
+        "hash": 1497579885,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_1.png"
+      },
+      {
+        "name": "blip_mp_base_10",
+        "hash": -1022038968,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_10.png"
+      },
+      {
+        "name": "blip_mp_base_11",
+        "hash": -455561289,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_11.png"
+      },
+      {
+        "name": "blip_mp_base_12",
+        "hash": -704015847,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_12.png"
+      },
+      {
+        "name": "blip_mp_base_13",
+        "hash": 1198322910,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_13.png"
+      },
+      {
+        "name": "blip_mp_base_14",
+        "hash": 982965042,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_14.png"
+      },
+      {
+        "name": "blip_mp_base_15",
+        "hash": 230719878,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_15.png"
+      },
+      {
+        "name": "blip_mp_base_16",
+        "hash": 2130961427,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_16.png"
+      },
+      {
+        "name": "blip_mp_base_2",
+        "hash": 1788208146,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_2.png"
+      },
+      {
+        "name": "blip_mp_base_3",
+        "hash": 2145259174,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_3.png"
+      },
+      {
+        "name": "blip_mp_base_4",
+        "hash": -1902269403,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_4.png"
+      },
+      {
+        "name": "blip_mp_base_5",
+        "hash": -1266223113,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_5.png"
+      },
+      {
+        "name": "blip_mp_base_6",
+        "hash": -969139359,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_6.png"
+      },
+      {
+        "name": "blip_mp_base_7",
+        "hash": -671498532,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_7.png"
+      },
+      {
+        "name": "blip_mp_base_8",
+        "hash": -631651428,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_8.png"
+      },
+      {
+        "name": "blip_mp_base_9",
+        "hash": -506375545,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_9.png"
+      },
+      {
+        "name": "blip_mp_base_a",
+        "hash": -1741111493,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_a.png"
+      },
+      {
+        "name": "blip_mp_base_b",
+        "hash": -2030232380,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_b.png"
+      },
+      {
+        "name": "blip_mp_base_c",
+        "hash": -1396905917,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_c.png"
+      },
+      {
+        "name": "blip_mp_base_d",
+        "hash": -1693203215,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_d.png"
+      },
+      {
+        "name": "blip_mp_base_e",
+        "hash": -818533067,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_e.png"
+      },
+      {
+        "name": "blip_mp_base_f",
+        "hash": -1117222502,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_f.png"
+      },
+      {
+        "name": "blip_mp_base_g",
+        "hash": 60954128,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_g.png"
+      },
+      {
+        "name": "blip_mp_base_h",
+        "hash": -235048253,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_h.png"
+      },
+      {
+        "name": "blip_mp_base_i",
+        "hash": 2123729925,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_i.png"
+      },
+      {
+        "name": "blip_mp_base_j",
+        "hash": 1834871186,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_base_j.png"
+      },
+      {
+        "name": "blip_mp_beast",
+        "hash": -1085232344,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_beast.png"
+      },
+      {
+        "name": "blip_mp_bounty_dead",
+        "hash": -1998058959,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_bounty_dead.png"
+      },
+      {
+        "name": "blip_mp_bounty_hunter_introduction",
+        "hash": 1047294027,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_bounty_hunter_introduction.png"
+      },
+      {
+        "name": "blip_mp_butcher_table",
+        "hash": 1369919445,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_butcher_table.png"
+      },
+      {
+        "name": "blip_mp_cash_checkpoint",
+        "hash": -1567930587,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_cash_checkpoint.png"
+      },
+      {
+        "name": "blip_mp_coach_escort",
+        "hash": 1045919449,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_coach_escort.png"
+      },
+      {
+        "name": "blip_mp_coach_intercept",
+        "hash": -1371003729,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_coach_intercept.png"
+      },
+      {
+        "name": "blip_mp_coach_recover",
+        "hash": -992598136,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_coach_recover.png"
+      },
+      {
+        "name": "blip_mp_coach_smuggle",
+        "hash": -1747775003,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_coach_smuggle.png"
+      },
+      {
+        "name": "blip_mp_collector_map",
+        "hash": 2119977580,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_collector_map.png"
+      },
+      {
+        "name": "blip_mp_deadeye",
+        "hash": -2121688190,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_deadeye.png"
+      },
+      {
+        "name": "blip_mp_defend_target",
+        "hash": 1293773224,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_defend_target.png"
+      },
+      {
+        "name": "blip_mp_deliver_target",
+        "hash": 1865251988,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_deliver_target.png"
+      },
+      {
+        "name": "blip_mp_elimination_large",
+        "hash": 354734005,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_elimination_large.png"
+      },
+      {
+        "name": "blip_mp_elimination_medium",
+        "hash": -1918326968,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_elimination_medium.png"
+      },
+      {
+        "name": "blip_mp_elimination_small",
+        "hash": 2061284948,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_elimination_small.png"
+      },
+      {
+        "name": "blip_mp_featured",
+        "hash": 1331927252,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_featured.png"
+      },
+      {
+        "name": "blip_mp_flag",
+        "hash": -1595467349,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_flag.png"
+      },
+      {
+        "name": "blip_mp_game_animal_protection",
+        "hash": 263099185,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_animal_protection.png"
+      },
+      {
+        "name": "blip_mp_game_hill",
+        "hash": 2113496404,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_hill.png"
+      },
+      {
+        "name": "blip_mp_game_magnificent_four",
+        "hash": -879802008,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_magnificent_four.png"
+      },
+      {
+        "name": "blip_mp_game_multi_target",
+        "hash": 615597833,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_multi_target.png"
+      },
+      {
+        "name": "blip_mp_game_race_canoe",
+        "hash": 2005921736,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_race_canoe.png"
+      },
+      {
+        "name": "blip_mp_game_race_horse",
+        "hash": 564457427,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_race_horse.png"
+      },
+      {
+        "name": "blip_mp_game_runaway_train",
+        "hash": 1258184551,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_runaway_train.png"
+      },
+      {
+        "name": "blip_mp_game_treasure_hunt",
+        "hash": 1735233562,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_treasure_hunt.png"
+      },
+      {
+        "name": "blip_mp_game_vip",
+        "hash": -755765764,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_game_vip.png"
+      },
+      {
+        "name": "blip_mp_gun_for_hire",
+        "hash": -1906191545,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_gun_for_hire.png"
+      },
+      {
+        "name": "blip_mp_gun_rush",
+        "hash": -888054767,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_gun_rush.png"
+      },
+      {
+        "name": "blip_mp_gun_rush_team",
+        "hash": 383510239,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_gun_rush_team.png"
+      },
+      {
+        "name": "blip_mp_job_exclusive",
+        "hash": 1155982873,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_job_exclusive.png"
+      },
+      {
+        "name": "blip_mp_job_exclusive_large",
+        "hash": 201164399,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_job_exclusive_large.png"
+      },
+      {
+        "name": "blip_mp_job_exclusive_small",
+        "hash": -813538438,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_job_exclusive_small.png"
+      },
+      {
+        "name": "blip_mp_location_a",
+        "hash": -511566837,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_a.png"
+      },
+      {
+        "name": "blip_mp_location_b",
+        "hash": 133359852,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_b.png"
+      },
+      {
+        "name": "blip_mp_location_c",
+        "hash": -164117130,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_c.png"
+      },
+      {
+        "name": "blip_mp_location_d",
+        "hash": -1134374451,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_d.png"
+      },
+      {
+        "name": "blip_mp_location_e",
+        "hash": -1395051846,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_e.png"
+      },
+      {
+        "name": "blip_mp_location_f",
+        "hash": 1664261990,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_f.png"
+      },
+      {
+        "name": "blip_mp_location_g",
+        "hash": -780469251,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_g.png"
+      },
+      {
+        "name": "blip_mp_location_h",
+        "hash": -701364869,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_h.png"
+      },
+      {
+        "name": "blip_mp_location_i",
+        "hash": 1147888108,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_i.png"
+      },
+      {
+        "name": "blip_mp_location_j",
+        "hash": -104543072,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_j.png"
+      },
+      {
+        "name": "blip_mp_location_k",
+        "hash": -352964861,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_k.png"
+      },
+      {
+        "name": "blip_mp_location_l",
+        "hash": -1321714808,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_l.png"
+      },
+      {
+        "name": "blip_mp_location_m",
+        "hash": -1633216922,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_m.png"
+      },
+      {
+        "name": "blip_mp_location_n",
+        "hash": -992156975,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_n.png"
+      },
+      {
+        "name": "blip_mp_location_o",
+        "hash": -985996415,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_o.png"
+      },
+      {
+        "name": "blip_mp_location_p",
+        "hash": -1031152097,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_p.png"
+      },
+      {
+        "name": "blip_mp_location_q",
+        "hash": 1763355466,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_q.png"
+      },
+      {
+        "name": "blip_mp_location_r",
+        "hash": 1406173366,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_r.png"
+      },
+      {
+        "name": "blip_mp_location_s",
+        "hash": -1988105196,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_s.png"
+      },
+      {
+        "name": "blip_mp_location_t",
+        "hash": 2017085833,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_t.png"
+      },
+      {
+        "name": "blip_mp_location_u",
+        "hash": 1055774449,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_u.png"
+      },
+      {
+        "name": "blip_mp_location_v",
+        "hash": 748106308,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_v.png"
+      },
+      {
+        "name": "blip_mp_location_w",
+        "hash": 1118985838,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_w.png"
+      },
+      {
+        "name": "blip_mp_location_x",
+        "hash": 820034251,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_x.png"
+      },
+      {
+        "name": "blip_mp_location_y",
+        "hash": -735182489,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_y.png"
+      },
+      {
+        "name": "blip_mp_location_z",
+        "hash": 1368652849,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_location_z.png"
+      },
+      {
+        "name": "blip_mp_mission_area_braithwaite",
+        "hash": 2049287916,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_braithwaite.png"
+      },
+      {
+        "name": "blip_mp_mission_area_bronte",
+        "hash": -121612068,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_bronte.png"
+      },
+      {
+        "name": "blip_mp_mission_area_clay",
+        "hash": 1825710119,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_clay.png"
+      },
+      {
+        "name": "blip_mp_mission_area_decision",
+        "hash": 305683062,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_decision.png"
+      },
+      {
+        "name": "blip_mp_mission_area_gunslinger",
+        "hash": 1819223122,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_gunslinger.png"
+      },
+      {
+        "name": "blip_mp_mission_area_horley",
+        "hash": 1122538779,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_horley.png"
+      },
+      {
+        "name": "blip_mp_mission_area_jesse",
+        "hash": 1206833715,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_jesse.png"
+      },
+      {
+        "name": "blip_mp_mission_area_marshall_tom_davies",
+        "hash": 415905033,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_marshall_tom_davies.png"
+      },
+      {
+        "name": "blip_mp_mission_area_old_man_jones",
+        "hash": -672283790,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_old_man_jones.png"
+      },
+      {
+        "name": "blip_mp_mission_area_outlaw",
+        "hash": 1702671897,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_outlaw.png"
+      },
+      {
+        "name": "blip_mp_mission_area_revenge",
+        "hash": -486518067,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_revenge.png"
+      },
+      {
+        "name": "blip_mp_mission_area_robbery",
+        "hash": -737657968,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_robbery.png"
+      },
+      {
+        "name": "blip_mp_mission_area_samson_finch",
+        "hash": 1052244457,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_samson_finch.png"
+      },
+      {
+        "name": "blip_mp_mission_area_seven",
+        "hash": 999921768,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_area_seven.png"
+      },
+      {
+        "name": "blip_mp_mission_braithwaite",
+        "hash": 2121165562,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_braithwaite.png"
+      },
+      {
+        "name": "blip_mp_mission_bronte",
+        "hash": -1566323707,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_bronte.png"
+      },
+      {
+        "name": "blip_mp_mission_clay",
+        "hash": 221316808,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_clay.png"
+      },
+      {
+        "name": "blip_mp_mission_horley",
+        "hash": -1478891674,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_horley.png"
+      },
+      {
+        "name": "blip_mp_mission_jesse",
+        "hash": 1153710309,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_jesse.png"
+      },
+      {
+        "name": "blip_mp_mission_marshall_tom_davies",
+        "hash": -740629317,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_marshall_tom_davies.png"
+      },
+      {
+        "name": "blip_mp_mission_old_man_jones",
+        "hash": -1662942683,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_old_man_jones.png"
+      },
+      {
+        "name": "blip_mp_mission_revenge",
+        "hash": -1392193699,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_revenge.png"
+      },
+      {
+        "name": "blip_mp_mission_robbery",
+        "hash": -60720396,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_robbery.png"
+      },
+      {
+        "name": "blip_mp_mission_samson_finch",
+        "hash": -2106580172,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_samson_finch.png"
+      },
+      {
+        "name": "blip_mp_mission_seven",
+        "hash": -222767785,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_seven.png"
+      },
+      {
+        "name": "blip_mp_mission_tbd",
+        "hash": -1237816179,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_mission_tbd.png"
+      },
+      {
+        "name": "blip_mp_ordered_item",
+        "hash": -1656531561,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_ordered_item.png"
+      },
+      {
+        "name": "blip_mp_player_wagon",
+        "hash": 1612913921,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_player_wagon.png"
+      },
+      {
+        "name": "blip_mp_player_wagon_hitched",
+        "hash": -1236452613,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_player_wagon_hitched.png"
+      },
+      {
+        "name": "blip_mp_playlist_adversary",
+        "hash": 214435071,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_adversary.png"
+      },
+      {
+        "name": "blip_mp_playlist_adversary_special",
+        "hash": -1081805875,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_adversary_special.png"
+      },
+      {
+        "name": "blip_mp_playlist_capture",
+        "hash": 331074463,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_capture.png"
+      },
+      {
+        "name": "blip_mp_playlist_exclusive",
+        "hash": 1181380553,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_exclusive.png"
+      },
+      {
+        "name": "blip_mp_playlist_freeforall",
+        "hash": -1025216818,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_freeforall.png"
+      },
+      {
+        "name": "blip_mp_playlist_objective",
+        "hash": -118871741,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_objective.png"
+      },
+      {
+        "name": "blip_mp_playlist_pve",
+        "hash": 1271582977,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_pve.png"
+      },
+      {
+        "name": "blip_mp_playlist_races",
+        "hash": 1896900580,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_races.png"
+      },
+      {
+        "name": "blip_mp_playlist_series_12",
+        "hash": 1454572348,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_series_12.png"
+      },
+      {
+        "name": "blip_mp_playlist_series_4",
+        "hash": -152950882,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_series_4.png"
+      },
+      {
+        "name": "blip_mp_playlist_series_8",
+        "hash": -822028324,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_series_8.png"
+      },
+      {
+        "name": "blip_mp_playlist_teamgame",
+        "hash": 1183081869,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playlist_teamgame.png"
+      },
+      {
+        "name": "blip_mp_playstyle_defensive",
+        "hash": -266617465,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playstyle_defensive.png"
+      },
+      {
+        "name": "blip_mp_playstyle_offensive",
+        "hash": 202506373,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_playstyle_offensive.png"
+      },
+      {
+        "name": "blip_mp_predator_hunt_mask",
+        "hash": -569968788,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_predator_hunt_mask.png"
+      },
+      {
+        "name": "blip_mp_role_bounty_hunter_ilo",
+        "hash": -1154452417,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_role_bounty_hunter_ilo.png"
+      },
+      {
+        "name": "blip_mp_role_collector_ilo",
+        "hash": 187984275,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_role_collector_ilo.png"
+      },
+      {
+        "name": "blip_mp_role_moonshiner",
+        "hash": -2029148647,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_role_moonshiner.png"
+      },
+      {
+        "name": "blip_mp_role_trader_ilo",
+        "hash": -1681663363,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_role_trader_ilo.png"
+      },
+      {
+        "name": "blip_mp_roles_bounty_hunter_lock",
+        "hash": 1377250401,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_roles_bounty_hunter_lock.png"
+      },
+      {
+        "name": "blip_mp_roles_collector_lock",
+        "hash": -536376284,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_roles_collector_lock.png"
+      },
+      {
+        "name": "blip_mp_roles_moonshiner_lock",
+        "hash": -1977918572,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_roles_moonshiner_lock.png"
+      },
+      {
+        "name": "blip_mp_roles_trader_lock",
+        "hash": 327336537,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_roles_trader_lock.png"
+      },
+      {
+        "name": "blip_mp_roundup",
+        "hash": -1462274666,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_roundup.png"
+      },
+      {
+        "name": "blip_mp_rustling",
+        "hash": 90287351,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_rustling.png"
+      },
+      {
+        "name": "blip_mp_shootout",
+        "hash": 1788902664,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_shootout.png"
+      },
+      {
+        "name": "blip_mp_spawnpoint",
+        "hash": -1513632695,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_spawnpoint.png"
+      },
+      {
+        "name": "blip_mp_spawnpoint_arrow",
+        "hash": 2061546582,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_spawnpoint_arrow.png"
+      },
+      {
+        "name": "blip_mp_supplies",
+        "hash": -984192463,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_1",
+        "hash": 758724208,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_1.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_10",
+        "hash": -1331290727,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_10.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_11",
+        "hash": 1662157427,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_11.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_12",
+        "hash": -1803197096,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_12.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_13",
+        "hash": 1513484578,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_13.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_14",
+        "hash": 747574741,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_14.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_15",
+        "hash": 111659527,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_15.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_16",
+        "hash": 420638428,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_16.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_2",
+        "hash": 460296925,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_2.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_3",
+        "hash": 1180166317,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_3.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_4",
+        "hash": 880919809,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_4.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_5",
+        "hash": -466377626,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_5.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_6",
+        "hash": -767164277,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_6.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_7",
+        "hash": 22830775,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_7.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_8",
+        "hash": -1348912334,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_8.png"
+      },
+      {
+        "name": "blip_mp_supplies_base_9",
+        "hash": -194394938,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_base_9.png"
+      },
+      {
+        "name": "blip_mp_supplies_outline",
+        "hash": -298381019,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_supplies_outline.png"
+      },
+      {
+        "name": "blip_mp_torch",
+        "hash": 1000514759,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_torch.png"
+      },
+      {
+        "name": "blip_mp_trader_introduction",
+        "hash": -924533810,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_trader_introduction.png"
+      },
+      {
+        "name": "blip_mp_travelling_saleswoman",
+        "hash": -1546805641,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_travelling_saleswoman.png"
+      },
+      {
+        "name": "blip_mp_ugc",
+        "hash": 2107754879,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_ugc.png"
+      },
+      {
+        "name": "blip_mp_wreckage",
+        "hash": 1106719664,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mp_wreckage.png"
+      },
+      {
+        "name": "blip_mvp",
+        "hash": 1334667386,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_mvp.png"
+      },
+      {
+        "name": "blip_ned_kelly_outfit",
+        "hash": 1862205446,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ned_kelly_outfit.png"
+      },
+      {
+        "name": "blip_nominated",
+        "hash": 334932010,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_nominated.png"
+      },
+      {
+        "name": "blip_on_call",
+        "hash": 418664122,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_on_call.png"
+      },
+      {
+        "name": "blip_outlaw",
+        "hash": 1095891419,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_outlaw.png"
+      },
+      {
+        "name": "blip_overlay_6",
+        "hash": 1194564778,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_6.png"
+      },
+      {
+        "name": "blip_overlay_flag",
+        "hash": -44057202,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_flag.png"
+      },
+      {
+        "name": "blip_overlay_white_10",
+        "hash": 938123158,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_10.png"
+      },
+      {
+        "name": "blip_overlay_white_11",
+        "hash": 634911601,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_11.png"
+      },
+      {
+        "name": "blip_overlay_white_12",
+        "hash": 1517642923,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_12.png"
+      },
+      {
+        "name": "blip_overlay_white_13",
+        "hash": 1213710448,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_13.png"
+      },
+      {
+        "name": "blip_overlay_white_14",
+        "hash": 928784077,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_14.png"
+      },
+      {
+        "name": "blip_overlay_white_15",
+        "hash": 623540842,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_15.png"
+      },
+      {
+        "name": "blip_overlay_white_16",
+        "hash": 1510859824,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_16.png"
+      },
+      {
+        "name": "blip_overlay_white_6",
+        "hash": 446619991,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_6.png"
+      },
+      {
+        "name": "blip_overlay_white_7",
+        "hash": -311884052,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_7.png"
+      },
+      {
+        "name": "blip_overlay_white_8",
+        "hash": -6608048,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_8.png"
+      },
+      {
+        "name": "blip_overlay_white_9",
+        "hash": -2114047976,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_overlay_white_9.png"
+      },
+      {
+        "name": "blip_ped_1",
+        "hash": 1257411558,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_1.png"
+      },
+      {
+        "name": "blip_ped_10",
+        "hash": -1559242154,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_10.png"
+      },
+      {
+        "name": "blip_ped_11",
+        "hash": -1263043163,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_11.png"
+      },
+      {
+        "name": "blip_ped_12",
+        "hash": 1069847489,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_12.png"
+      },
+      {
+        "name": "blip_ped_13",
+        "hash": 1368078158,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_13.png"
+      },
+      {
+        "name": "blip_ped_14",
+        "hash": 1508919320,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_14.png"
+      },
+      {
+        "name": "blip_ped_15",
+        "hash": 1875669968,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_15.png"
+      },
+      {
+        "name": "blip_ped_16",
+        "hash": -158269097,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_16.png"
+      },
+      {
+        "name": "blip_ped_17",
+        "hash": 139568344,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_17.png"
+      },
+      {
+        "name": "blip_ped_18",
+        "hash": 405554317,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_18.png"
+      },
+      {
+        "name": "blip_ped_19",
+        "hash": 710240479,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_19.png"
+      },
+      {
+        "name": "blip_ped_2",
+        "hash": 994636947,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_2.png"
+      },
+      {
+        "name": "blip_ped_20",
+        "hash": -821972715,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_20.png"
+      },
+      {
+        "name": "blip_ped_21",
+        "hash": -1060957032,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_21.png"
+      },
+      {
+        "name": "blip_ped_22",
+        "hash": 2026276004,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_22.png"
+      },
+      {
+        "name": "blip_ped_23",
+        "hash": -1425217232,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_23.png"
+      },
+      {
+        "name": "blip_ped_24",
+        "hash": 1671092813,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_24.png"
+      },
+      {
+        "name": "blip_ped_25",
+        "hash": -1779908888,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_25.png"
+      },
+      {
+        "name": "blip_ped_26",
+        "hash": 1105008338,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_26.png"
+      },
+      {
+        "name": "blip_ped_27",
+        "hash": 1947695942,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_27.png"
+      },
+      {
+        "name": "blip_ped_28",
+        "hash": 778399711,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_28.png"
+      },
+      {
+        "name": "blip_ped_29",
+        "hash": 1317187613,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_29.png"
+      },
+      {
+        "name": "blip_ped_3",
+        "hash": 228563269,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_3.png"
+      },
+      {
+        "name": "blip_ped_30",
+        "hash": -1890902307,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_30.png"
+      },
+      {
+        "name": "blip_ped_31",
+        "hash": 2021257531,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_31.png"
+      },
+      {
+        "name": "blip_ped_32",
+        "hash": 1808226262,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_32.png"
+      },
+      {
+        "name": "blip_ped_4",
+        "hash": -1770032,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_4.png"
+      },
+      {
+        "name": "blip_ped_5",
+        "hash": -737237468,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_5.png"
+      },
+      {
+        "name": "blip_ped_6",
+        "hash": -968848760,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_6.png"
+      },
+      {
+        "name": "blip_ped_7",
+        "hash": -1199313137,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_7.png"
+      },
+      {
+        "name": "blip_ped_8",
+        "hash": -1456680863,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_8.png"
+      },
+      {
+        "name": "blip_ped_9",
+        "hash": -1688128310,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_ped_9.png"
+      },
+      {
+        "name": "blip_predator",
+        "hash": -1210145388,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_predator.png"
+      },
+      {
+        "name": "blip_product_moonshine",
+        "hash": 1654787099,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_product_moonshine.png"
+      },
+      {
+        "name": "blip_quick_weapon_select",
+        "hash": -576151168,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_quick_weapon_select.png"
+      },
+      {
+        "name": "blip_radar_edge_arrow",
+        "hash": -676099509,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_radar_edge_arrow.png"
+      },
+      {
+        "name": "blip_radar_edge_pointer",
+        "hash": -1192977721,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_radar_edge_pointer.png"
+      },
+      {
+        "name": "blip_shop_honor",
+        "hash": 1779658797,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_shop_honor.png"
+      },
+      {
+        "name": "blip_shop_honor_overlay",
+        "hash": -1646141521,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_shop_honor_overlay.png"
+      },
+      {
+        "name": "blip_shop_wardrobe",
+        "hash": 1496995379,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_shop_wardrobe.png"
+      },
+      {
+        "name": "blip_special_series_1",
+        "hash": 778811758,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_special_series_1.png"
+      },
+      {
+        "name": "blip_special_series_2",
+        "hash": 338003170,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_special_series_2.png"
+      },
+      {
+        "name": "blip_teamsters",
+        "hash": -243818172,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_teamsters.png"
+      },
+      {
+        "name": "blip_trophy",
+        "hash": -1389658546,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_trophy.png"
+      },
+      {
+        "name": "blip_wanted_poster",
+        "hash": -1747825963,
+        "image": "http://femga.com/images/samples/ui_textures_no_bg/blips_mp/blip_wanted_poster.png"
+      }
+  ]

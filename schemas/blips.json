@@ -1,0 +1,50 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://example.com/object1676761034.json", 
+	"title": "Root", 
+	"type": "array",
+	"default": [],
+	"items":{
+		"$id": "#root/items", 
+		"title": "Items", 
+		"type": "object",
+		"required": [
+			"name",
+			"hash",
+			"image"
+		],
+		"properties": {
+			"name": {
+				"$id": "#root/items/name", 
+				"title": "Name", 
+				"type": "string",
+				"default": "",
+				"examples": [
+					"blip_ambient_bounty_hunter"
+				],
+				"pattern": "^.*$"
+			},
+			"hash": {
+				"$id": "#root/items/hash", 
+				"title": "Hash", 
+				"type": "integer",
+				"examples": [
+					-861219276
+				],
+				"default": 0
+			},
+			"image": {
+				"$id": "#root/items/image", 
+				"title": "Image", 
+				"type": "string",
+				"default": "",
+				"examples": [
+					"http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_bounty_hunter.png"
+				],
+				"pattern": "^.*$"
+			}
+		}
+	}
+
+}

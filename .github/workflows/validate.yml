@@ -6,7 +6,7 @@ jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Validate Natives JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
@@ -62,3 +62,33 @@ jobs:
         env:
           INPUT_SCHEMA: ./schemas/filters.json
           INPUT_JSONS: ./objects/filters/vehicles.json
+      - name: Validate Filter Blips JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/filters.json
+          INPUT_JSONS: ./blips/filters/blips.json
+      - name: Validate Autocomplete Blips JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/autocomplete.json
+          INPUT_JSONS: ./blips/autocomplete/blips.json
+      - name: Validate Filter Controls JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/filters.json
+          INPUT_JSONS: ./controls/filters/controls.json
+      - name: Validate Autocomplete Controls JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/autocomplete.json
+          INPUT_JSONS: ./controls/autocomplete/controls.json
+      - name: Validate Controls JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/blips.json
+          INPUT_JSONS: ./blips/blips.json
+      - name: Validate Controls JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./schemas/controls.json
+          INPUT_JSONS: ./controls/controls.json

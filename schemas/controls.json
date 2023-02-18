@@ -1,0 +1,61 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://example.com/object1676761119.json", 
+	"title": "Root", 
+	"type": "array",
+	"default": [],
+	"items":{
+		"$id": "#root/items", 
+		"title": "Items", 
+		"type": "object",
+		"required": [
+			"hash",
+			"name",
+			"key",
+			"gameversion"
+		],
+		"properties": {
+			"hash": {
+				"$id": "#root/items/hash", 
+				"title": "Hash", 
+				"type": "string",
+				"default": "",
+				"examples": [
+					"0x3D23549A"
+				],
+				"pattern": "^.*$"
+			},
+			"name": {
+				"$id": "#root/items/name", 
+				"title": "Name", 
+				"type": "string",
+				"default": "",
+				"examples": [
+					"INPUT_FRONTEND_RIGHT_AXIS_X"
+				],
+				"pattern": "^.*$"
+			},
+			"key": {
+				"$id": "#root/items/key", 
+				"title": "Key", 
+				"type": "string",
+				"default": "",
+				"examples": [
+					"["
+				],
+				"pattern": "^.*$"
+			},
+			"gameversion": {
+				"$id": "#root/items/gameversion", 
+				"title": "Gameversion", 
+				"type": ["number", "string"],
+				"examples": [
+					1207.8
+				],
+				"default": 0.0
+			}
+		}
+	}
+
+}

@@ -10,6 +10,7 @@ jobs:
         uses: Bhacaz/checkout-files@v2
         with:
           files: schemas blips controls natives objects/autocomplete objects/filters objects/objects.json objects/peds.json objects/vehicles.json
+          branch: ${{ github.head_ref || github.ref_name }}
       - name: Validate Natives JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:

@@ -1,0 +1,1 @@
+These are natives for CFX. If editing please ensure to keep the JSON structure.

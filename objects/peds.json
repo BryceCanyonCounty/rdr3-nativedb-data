@@ -1,0 +1,6660 @@
+[
+    { "name": "A_C_Alligator_01", "hash": -1892280447, "hex": "0x8F361781" },
+    { "name": "a_c_alligator_02", "hash": -1598866821, "hex": "0xA0B33A7B" },
+    { "name": "a_c_alligator_03", "hash": -1295720802, "hex": "0xB2C4DE9E" },
+    { "name": "a_c_armadillo_01", "hash": -1797625440, "hex": "0x94DA69A0" },
+    { "name": "A_C_Badger_01", "hash": -1170118274, "hex": "0xBA41697E" },
+    { "name": "A_C_Bat_01", "hash": 674267496, "hex": "0x28308168" },
+    { "name": "A_C_Bear_01", "hash": -1124266369, "hex": "0xBCFD0E7F" },
+    { "name": "A_C_BearBlack_01", "hash": 730092646, "hex": "0x2B845466" },
+    { "name": "A_C_Beaver_01", "hash": 759906147, "hex": "0x2D4B3F63" },
+    { "name": "A_C_BigHornRam_01", "hash": -1568716381, "hex": "0xA27F49A3" },
+    { "name": "A_C_BlueJay_01", "hash": 1582986780, "hex": "0x5E5A761C" },
+    { "name": "A_C_Boar_01", "hash": 2028722809, "hex": "0x78EBDA79" },
+    { "name": "a_c_boarlegendary_01", "hash": -560342419, "hex": "0xDE99DA6D" },
+    { "name": "A_C_Buck_01", "hash": -1963605336, "hex": "0x8AF5C2A8" },
+    { "name": "A_C_Buffalo_01", "hash": 1556473961, "hex": "0x5CC5E869" },
+    {
+        "name": "a_c_buffalo_tatanka_01",
+        "hash": 367637652,
+        "hex": "0x15E9B494"
+    },
+    { "name": "a_c_bull_01", "hash": 195700131, "hex": "0x0BAA25A3" },
+    {
+        "name": "A_C_CaliforniaCondor_01",
+        "hash": 1205982615,
+        "hex": "0x47E1D597"
+    },
+    { "name": "A_C_Cardinal_01", "hash": 1784941179, "hex": "0x6A640A7B" },
+    {
+        "name": "A_C_CarolinaParakeet_01",
+        "hash": 1746830155,
+        "hex": "0x681E834B"
+    },
+    { "name": "a_c_cat_01", "hash": 1462895032, "hex": "0x573201B8" },
+    { "name": "A_C_Cedarwaxwing_01", "hash": -292997097, "hex": "0xEE893817" },
+    { "name": "a_c_chicken_01", "hash": -2063183075, "hex": "0x8506531D" },
+    { "name": "a_c_chipmunk_01", "hash": -1550768676, "hex": "0xA39125DC" },
+    { "name": "a_c_cormorant_01", "hash": -2073130256, "hex": "0x846E8AF0" },
+    { "name": "A_C_Cougar_01", "hash": 90264823, "hex": "0x056154F7" },
+    { "name": "a_c_cow", "hash": -50684386, "hex": "0xFCFA9E1E" },
+    { "name": "A_C_Coyote_01", "hash": 480688259, "hex": "0x1CA6B883" },
+    { "name": "a_c_crab_01", "hash": -2037578922, "hex": "0x868D0356" },
+    { "name": "A_C_CraneWhooping_01", "hash": -564099192, "hex": "0xDE608788" },
+    { "name": "a_c_crawfish_01", "hash": -1763055991, "hex": "0x96E9E689" },
+    { "name": "A_C_Crow_01", "hash": 98537260, "hex": "0x05DF8F2C" },
+    { "name": "A_C_Deer_01", "hash": 1110710183, "hex": "0x423417A7" },
+    {
+        "name": "a_c_dogamericanfoxhound_01",
+        "hash": 1088428104,
+        "hex": "0x40E01848"
+    },
+    {
+        "name": "A_C_DogAustralianSheperd_01",
+        "hash": -1368644756,
+        "hex": "0xAE6C236C"
+    },
+    {
+        "name": "a_c_dogbluetickcoonhound_01",
+        "hash": 626176009,
+        "hex": "0x2552B009"
+    },
+    {
+        "name": "a_c_dogcatahoulacur_01",
+        "hash": -1033903759,
+        "hex": "0xC25FE171"
+    },
+    {
+        "name": "a_c_dogchesbayretriever_01",
+        "hash": -389790005,
+        "hex": "0xE8C446CB"
+    },
+    { "name": "a_c_dogcollie_01", "hash": 1087552700, "hex": "0x40D2BCBC" },
+    { "name": "a_c_doghobo_01", "hash": -976891307, "hex": "0xC5C5D255" },
+    { "name": "a_c_doghound_01", "hash": -2146356753, "hex": "0x801131EF" },
+    { "name": "a_c_doghusky_01", "hash": 1660404147, "hex": "0x62F7C1B3" },
+    { "name": "a_c_doglab_01", "hash": -1384669516, "hex": "0xAD779EB4" },
+    { "name": "a_c_doglion_01", "hash": -896926592, "hex": "0xCA89FC80" },
+    { "name": "a_c_dogpoodle_01", "hash": 1087029479, "hex": "0x40CAC0E7" },
+    { "name": "a_c_dogrufus_01", "hash": 1591685812, "hex": "0x5EDF32B4" },
+    { "name": "a_c_dogstreet_01", "hash": 993083342, "hex": "0x3B313FCE" },
+    { "name": "a_c_donkey_01", "hash": 1772321403, "hex": "0x69A37A7B" },
+    { "name": "A_C_Duck_01", "hash": -1003616053, "hex": "0xC42E08CB" },
+    { "name": "A_C_Eagle_01", "hash": 1459778951, "hex": "0x57027587" },
+    { "name": "A_C_Egret_01", "hash": 831859211, "hex": "0x31952A0B" },
+    { "name": "A_C_Elk_01", "hash": -2021043433, "hex": "0x87895317" },
+    {
+        "name": "a_c_fishbluegil_01_ms",
+        "hash": 1867262572,
+        "hex": "0x6F4C2A6C"
+    },
+    {
+        "name": "a_c_fishbluegil_01_sm",
+        "hash": -2116748615,
+        "hex": "0x81D4FAB9"
+    },
+    {
+        "name": "a_c_fishbullheadcat_01_ms",
+        "hash": 703712157,
+        "hex": "0x29F1CB9D"
+    },
+    {
+        "name": "a_c_fishbullheadcat_01_sm",
+        "hash": 1493541632,
+        "hex": "0x5905A300"
+    },
+    {
+        "name": "a_c_fishchainpickerel_01_ms",
+        "hash": -1182983171,
+        "hex": "0xB97D1BFD"
+    },
+    {
+        "name": "a_c_fishchainpickerel_01_sm",
+        "hash": 264156159,
+        "hex": "0x0FBEB3FF"
+    },
+    {
+        "name": "a_c_fishchannelcatfish_01_lg",
+        "hash": 1538187374,
+        "hex": "0x5BAEE06E"
+    },
+    {
+        "name": "a_c_fishchannelcatfish_01_xl",
+        "hash": -2022921611,
+        "hex": "0x876CAA75"
+    },
+    {
+        "name": "a_c_fishlakesturgeon_01_lg",
+        "hash": -300867788,
+        "hex": "0xEE111F34"
+    },
+    {
+        "name": "a_c_fishlargemouthbass_01_lg",
+        "hash": 463643368,
+        "hex": "0x1BA2A2E8"
+    },
+    {
+        "name": "a_c_fishlargemouthbass_01_ms",
+        "hash": 122748261,
+        "hex": "0x0750FD65"
+    },
+    {
+        "name": "a_c_fishlongnosegar_01_lg",
+        "hash": -711779521,
+        "hex": "0xD5931B3F"
+    },
+    {
+        "name": "a_c_fishmuskie_01_lg",
+        "hash": -1553593715,
+        "hex": "0xA3660A8D"
+    },
+    {
+        "name": "a_c_fishnorthernpike_01_lg",
+        "hash": 697075200,
+        "hex": "0x298C8600"
+    },
+    { "name": "a_c_fishperch_01_ms", "hash": -452224784, "hex": "0xE50B98F0" },
+    { "name": "a_c_fishperch_01_sm", "hash": 706485280, "hex": "0x2A1C1C20" },
+    {
+        "name": "a_c_fishrainbowtrout_01_lg",
+        "hash": 134747314,
+        "hex": "0x080814B2"
+    },
+    {
+        "name": "a_c_fishrainbowtrout_01_ms",
+        "hash": 490159652,
+        "hex": "0x1D373E24"
+    },
+    {
+        "name": "a_c_fishredfinpickerel_01_ms",
+        "hash": -243188398,
+        "hex": "0xF1813D52"
+    },
+    {
+        "name": "a_c_fishredfinpickerel_01_sm",
+        "hash": 513249462,
+        "hex": "0x1E9790B6"
+    },
+    {
+        "name": "a_c_fishrockbass_01_ms",
+        "hash": -1981561472,
+        "hex": "0x89E3C580"
+    },
+    { "name": "a_c_fishrockbass_01_sm", "hash": 1520661, "hex": "0x00173415" },
+    {
+        "name": "a_c_fishsalmonsockeye_01_lg",
+        "hash": 543892122,
+        "hex": "0x206B229A"
+    },
+    {
+        "name": "a_c_fishsalmonsockeye_01_ml",
+        "hash": 1702636991,
+        "hex": "0x657C2DBF"
+    },
+    {
+        "name": "a_c_fishsalmonsockeye_01_ms",
+        "hash": 41707457,
+        "hex": "0x027C67C1"
+    },
+    {
+        "name": "a_c_fishsmallmouthbass_01_lg",
+        "hash": -1884490195,
+        "hex": "0x8FACF62D"
+    },
+    {
+        "name": "a_c_fishsmallmouthbass_01_ms",
+        "hash": 1860580756,
+        "hex": "0x6EE63594"
+    },
+    { "name": "A_C_Fox_01", "hash": 252669332, "hex": "0x0F0F6D94" },
+    { "name": "a_c_frogbull_01", "hash": -930822792, "hex": "0xC884C578" },
+    { "name": "a_c_gilamonster_01", "hash": 457416415, "hex": "0x1B439EDF" },
+    { "name": "a_c_goat_01", "hash": -753902995, "hex": "0xD3105A6D" },
+    { "name": "A_C_GooseCanada_01", "hash": 723190474, "hex": "0x2B1B02CA" },
+    { "name": "A_C_Hawk_01", "hash": -2145890973, "hex": "0x80184D63" },
+    { "name": "A_C_Heron_01", "hash": 1095117488, "hex": "0x41462AB0" },
+    {
+        "name": "a_c_horse_americanpaint_greyovero",
+        "hash": -1963397600,
+        "hex": "0x8AF8EE20"
+    },
+    {
+        "name": "a_c_horse_americanpaint_overo",
+        "hash": -450053710,
+        "hex": "0xE52CB9B2"
+    },
+    {
+        "name": "a_c_horse_americanpaint_splashedwhite",
+        "hash": 1792770814,
+        "hex": "0x6ADB82FE"
+    },
+    {
+        "name": "a_c_horse_americanpaint_tobiano",
+        "hash": -1679658797,
+        "hex": "0x9BE270D3"
+    },
+    {
+        "name": "a_c_horse_americanstandardbred_black",
+        "hash": -1250098797,
+        "hex": "0xB57D0193"
+    },
+    {
+        "name": "a_c_horse_americanstandardbred_buckskin",
+        "hash": -318278790,
+        "hex": "0xED07737A"
+    },
+    {
+        "name": "A_C_Horse_AmericanStandardbred_LightBuckskin",
+        "hash": 1883159941,
+        "hex": "0x703EBD85"
+    },
+    {
+        "name": "a_c_horse_americanstandardbred_palominodapple",
+        "hash": 55096099,
+        "hex": "0x0348B323"
+    },
+    {
+        "name": "a_c_horse_americanstandardbred_silvertailbuckskin",
+        "hash": -458397856,
+        "hex": "0xE4AD6760"
+    },
+    {
+        "name": "a_c_horse_andalusian_darkbay",
+        "hash": -444610976,
+        "hex": "0xE57FC660"
+    },
+    {
+        "name": "a_c_horse_andalusian_perlino",
+        "hash": 705691988,
+        "hex": "0x2A100154"
+    },
+    {
+        "name": "a_c_horse_andalusian_rosegray",
+        "hash": 746627200,
+        "hex": "0x2C80A080"
+    },
+    {
+        "name": "a_c_horse_appaloosa_blacksnowflake",
+        "hash": -1028075925,
+        "hex": "0xC2B8CE6B"
+    },
+    {
+        "name": "a_c_horse_appaloosa_blanket",
+        "hash": 2130094044,
+        "hex": "0x7EF6A7DC"
+    },
+    {
+        "name": "a_c_horse_appaloosa_brownleopard",
+        "hash": -1029277326,
+        "hex": "0xC2A67972"
+    },
+    {
+        "name": "A_C_Horse_Appaloosa_FewSpotted_PC",
+        "hash": 604357666,
+        "hex": "0x2405C422"
+    },
+    {
+        "name": "a_c_horse_appaloosa_leopard",
+        "hash": -1140650619,
+        "hex": "0xBC030D85"
+    },
+    {
+        "name": "a_c_horse_appaloosa_leopardblanket",
+        "hash": -1554827654,
+        "hex": "0xA353367A"
+    },
+    {
+        "name": "a_c_horse_arabian_black",
+        "hash": -1999198818,
+        "hex": "0x88D6A59E"
+    },
+    { "name": "a_c_horse_arabian_grey", "hash": 84224102, "hex": "0x05052866" },
+    {
+        "name": "A_C_Horse_Arabian_RedChestnut",
+        "hash": 1496579364,
+        "hex": "0x5933FD24"
+    },
+    {
+        "name": "A_C_Horse_Arabian_RedChestnut_PC",
+        "hash": -1523757120,
+        "hex": "0xA52D4FC0"
+    },
+    {
+        "name": "a_c_horse_arabian_rosegreybay",
+        "hash": -403470324,
+        "hex": "0xE7F3880C"
+    },
+    {
+        "name": "A_C_Horse_Arabian_WarpedBrindle_PC",
+        "hash": 1576849913,
+        "hex": "0x5DFCD1F9"
+    },
+    {
+        "name": "a_c_horse_arabian_white",
+        "hash": -925223936,
+        "hex": "0xC8DA3400"
+    },
+    {
+        "name": "a_c_horse_ardennes_bayroan",
+        "hash": -1547438906,
+        "hex": "0xA3C3F4C6"
+    },
+    {
+        "name": "a_c_horse_ardennes_irongreyroan",
+        "hash": -2026265047,
+        "hex": "0x8739A629"
+    },
+    {
+        "name": "a_c_horse_ardennes_strawberryroan",
+        "hash": -635239558,
+        "hex": "0xDA23037A"
+    },
+    {
+        "name": "a_c_horse_belgian_blondchestnut",
+        "hash": -586898625,
+        "hex": "0xDD04A33F"
+    },
+    {
+        "name": "a_c_horse_belgian_mealychestnut",
+        "hash": 937246805,
+        "hex": "0x37DD4055"
+    },
+    {
+        "name": "A_C_Horse_Breton_GrulloDun",
+        "hash": -619132373,
+        "hex": "0xDB18CA2B"
+    },
+    {
+        "name": "A_C_Horse_Breton_MealyDappleBay",
+        "hash": -1441144351,
+        "hex": "0xAA19E1E1"
+    },
+    {
+        "name": "A_C_Horse_Breton_RedRoan",
+        "hash": -683592019,
+        "hex": "0xD74136AD"
+    },
+    {
+        "name": "A_C_Horse_Breton_SealBrown",
+        "hash": 1544366970,
+        "hex": "0x5C0D2B7A"
+    },
+    {
+        "name": "A_C_Horse_Breton_Sorrel",
+        "hash": 337109765,
+        "hex": "0x1417E305"
+    },
+    {
+        "name": "A_C_Horse_Breton_SteelGrey",
+        "hash": -1717674545,
+        "hex": "0x999E5DCF"
+    },
+    {
+        "name": "a_c_horse_buell_warvets",
+        "hash": 549900435,
+        "hex": "0x20C6D093"
+    },
+    {
+        "name": "A_C_Horse_Criollo_BayBrindle",
+        "hash": -1720251851,
+        "hex": "0x99770A35"
+    },
+    {
+        "name": "A_C_Horse_Criollo_BayFrameOvero",
+        "hash": 766293155,
+        "hex": "0x2DACB4A3"
+    },
+    {
+        "name": "A_C_Horse_Criollo_BlueRoanOvero",
+        "hash": 1825358734,
+        "hex": "0x6CCCC38E"
+    },
+    {
+        "name": "A_C_Horse_Criollo_Dun",
+        "hash": 1138427579,
+        "hex": "0x43DB06BB"
+    },
+    {
+        "name": "A_C_Horse_Criollo_MarbleSabino",
+        "hash": 2147082926,
+        "hex": "0x7FF9E2AE"
+    },
+    {
+        "name": "A_C_Horse_Criollo_SorrelOvero",
+        "hash": 506887890,
+        "hex": "0x1E367ED2"
+    },
+    {
+        "name": "a_c_horse_dutchwarmblood_chocolateroan",
+        "hash": 687445866,
+        "hex": "0x28F9976A"
+    },
+    {
+        "name": "a_c_horse_dutchwarmblood_sealbrown",
+        "hash": 861505058,
+        "hex": "0x33598622"
+    },
+    {
+        "name": "a_c_horse_dutchwarmblood_sootybuckskin",
+        "hash": 1593035738,
+        "hex": "0x5EF3CBDA"
+    },
+    {
+        "name": "a_c_horse_eagleflies",
+        "hash": -1356425746,
+        "hex": "0xAF2695EE"
+    },
+    { "name": "a_c_horse_gang_bill", "hash": -1760684159, "hex": "0x970E1781" },
+    {
+        "name": "a_c_horse_gang_charles",
+        "hash": -548014618,
+        "hex": "0xDF55F5E6"
+    },
+    {
+        "name": "a_c_horse_gang_charles_endlesssummer",
+        "hash": 1800725969,
+        "hex": "0x6B54E5D1"
+    },
+    {
+        "name": "a_c_horse_gang_dutch",
+        "hash": -1391147923,
+        "hex": "0xAD14C46D"
+    },
+    { "name": "a_c_horse_gang_hosea", "hash": -646460384, "hex": "0xD977CC20" },
+    {
+        "name": "a_c_horse_gang_javier",
+        "hash": -1181161469,
+        "hex": "0xB998E803"
+    },
+    { "name": "a_c_horse_gang_john", "hash": -1642485146, "hex": "0x9E19AA66" },
+    {
+        "name": "a_c_horse_gang_karen",
+        "hash": -1486704931,
+        "hex": "0xA762AEDD"
+    },
+    {
+        "name": "a_c_horse_gang_kieran",
+        "hash": 1139858530,
+        "hex": "0x43F0DC62"
+    },
+    {
+        "name": "a_c_horse_gang_lenny",
+        "hash": -1053639984,
+        "hex": "0xC132BAD0"
+    },
+    { "name": "a_c_horse_gang_micah", "hash": -941733863, "hex": "0xC7DE4819" },
+    {
+        "name": "a_c_horse_gang_sadie",
+        "hash": -1084397164,
+        "hex": "0xBF5D6994"
+    },
+    {
+        "name": "a_c_horse_gang_sadie_endlesssummer",
+        "hash": -575759638,
+        "hex": "0xDDAE9AEA"
+    },
+    { "name": "a_c_horse_gang_sean", "hash": -1718100160, "hex": "0x9997DF40" },
+    {
+        "name": "a_c_horse_gang_trelawney",
+        "hash": 979093383,
+        "hex": "0x3A5BC787"
+    },
+    { "name": "a_c_horse_gang_uncle", "hash": 1760888205, "hex": "0x68F5058D" },
+    {
+        "name": "a_c_horse_gang_uncle_endlesssummer",
+        "hash": 291878635,
+        "hex": "0x1165B6EB"
+    },
+    {
+        "name": "a_c_horse_hungarianhalfbred_darkdapplegrey",
+        "hash": -819697512,
+        "hex": "0xCF246898"
+    },
+    {
+        "name": "a_c_horse_hungarianhalfbred_flaxenchestnut",
+        "hash": 1705182311,
+        "hex": "0x65A30467"
+    },
+    {
+        "name": "a_c_horse_hungarianhalfbred_liverchestnut",
+        "hash": -1896838685,
+        "hex": "0x8EF089E3"
+    },
+    {
+        "name": "a_c_horse_hungarianhalfbred_piebaldtobiano",
+        "hash": -78273782,
+        "hex": "0xFB55A30A"
+    },
+    {
+        "name": "a_c_horse_john_endlesssummer",
+        "hash": -2063289686,
+        "hex": "0x8504B2AA"
+    },
+    {
+        "name": "a_c_horse_kentuckysaddle_black",
+        "hash": -247265944,
+        "hex": "0xF1430568"
+    },
+    {
+        "name": "A_C_HORSE_KENTUCKYSADDLE_ButtermilkBuckskin_PC",
+        "hash": -1516219602,
+        "hex": "0xA5A0532E"
+    },
+    {
+        "name": "a_c_horse_kentuckysaddle_chestnutpinto",
+        "hash": -1265030920,
+        "hex": "0xB49928F8"
+    },
+    {
+        "name": "a_c_horse_kentuckysaddle_grey",
+        "hash": 2024948086,
+        "hex": "0x78B24176"
+    },
+    {
+        "name": "a_c_horse_kentuckysaddle_silverbay",
+        "hash": 1696286663,
+        "hex": "0x651B47C7"
+    },
+    {
+        "name": "A_C_Horse_Kladruber_Black",
+        "hash": -1616287563,
+        "hex": "0x9FA968B5"
+    },
+    {
+        "name": "A_C_Horse_Kladruber_Cremello",
+        "hash": -1881155818,
+        "hex": "0x8FDFD716"
+    },
+    {
+        "name": "A_C_Horse_Kladruber_DappleRoseGrey",
+        "hash": -647020346,
+        "hex": "0xD96F40C6"
+    },
+    {
+        "name": "A_C_Horse_Kladruber_Grey",
+        "hash": -955237712,
+        "hex": "0xC7103AB0"
+    },
+    {
+        "name": "A_C_Horse_Kladruber_Silver",
+        "hash": -1846319726,
+        "hex": "0x91F36592"
+    },
+    {
+        "name": "A_C_Horse_Kladruber_White",
+        "hash": -127412252,
+        "hex": "0xF867D7E4"
+    },
+    {
+        "name": "a_c_horse_missourifoxtrotter_amberchampagne",
+        "hash": -1342159303,
+        "hex": "0xB0004639"
+    },
+    {
+        "name": "a_c_horse_missourifoxtrotter_sablechampagne",
+        "hash": -420599285,
+        "hex": "0xE6EE2A0B"
+    },
+    {
+        "name": "a_c_horse_missourifoxtrotter_silverdapplepinto",
+        "hash": -1154406788,
+        "hex": "0xBB31267C"
+    },
+    { "name": "a_c_horse_morgan_bay", "hash": 2030804811, "hex": "0x790B9F4B" },
+    {
+        "name": "a_c_horse_morgan_bayroan",
+        "hash": 1230359523,
+        "hex": "0x4955CBE3"
+    },
+    {
+        "name": "a_c_horse_morgan_flaxenchestnut",
+        "hash": -1038436471,
+        "hex": "0xC21AB789"
+    },
+    {
+        "name": "A_C_HORSE_Morgan_LiverChestnut_PC",
+        "hash": -1063137731,
+        "hex": "0xC0A1CE3D"
+    },
+    {
+        "name": "a_c_horse_morgan_palomino",
+        "hash": 96930969,
+        "hex": "0x05C70C99"
+    },
+    {
+        "name": "A_C_Horse_MP_Mangy_Backup",
+        "hash": 808655744,
+        "hex": "0x30331B80"
+    },
+    { "name": "a_c_horsemule_01", "hash": -1230516683, "hex": "0xB6A7CE35" },
+    {
+        "name": "a_c_horsemulepainted_01",
+        "hash": 594040097,
+        "hex": "0x23685521"
+    },
+    {
+        "name": "a_c_horse_murfreebrood_mange_01",
+        "hash": 917402668,
+        "hex": "0x36AE742C"
+    },
+    {
+        "name": "a_c_horse_murfreebrood_mange_02",
+        "hash": -914712122,
+        "hex": "0xC97A99C6"
+    },
+    {
+        "name": "a_c_horse_murfreebrood_mange_03",
+        "hash": -598917269,
+        "hex": "0xDC4D3F6B"
+    },
+    {
+        "name": "a_c_horse_mustang_goldendun",
+        "hash": 478986344,
+        "hex": "0x1C8CC068"
+    },
+    {
+        "name": "a_c_horse_mustang_grullodun",
+        "hash": -1180427609,
+        "hex": "0xB9A41AA7"
+    },
+    {
+        "name": "a_c_horse_mustang_tigerstripedbay",
+        "hash": 43825738,
+        "hex": "0x029CBA4A"
+    },
+    {
+        "name": "a_c_horse_mustang_wildbay",
+        "hash": 2119038574,
+        "hex": "0x7E4DF66E"
+    },
+    {
+        "name": "a_c_horse_nokota_blueroan",
+        "hash": 2145697477,
+        "hex": "0x7FE4BEC5"
+    },
+    {
+        "name": "a_c_horse_nokota_reversedappleroan",
+        "hash": 107013696,
+        "hex": "0x0660E640"
+    },
+    {
+        "name": "a_c_horse_nokota_whiteroan",
+        "hash": -1261814606,
+        "hex": "0xB4CA3CB2"
+    },
+    {
+        "name": "a_c_horse_shire_darkbay",
+        "hash": 1066034872,
+        "hex": "0x3F8A66B8"
+    },
+    {
+        "name": "a_c_horse_shire_lightgrey",
+        "hash": 36009259,
+        "hex": "0x0225752B"
+    },
+    {
+        "name": "a_c_horse_shire_ravenblack",
+        "hash": 802784330,
+        "hex": "0x2FD9844A"
+    },
+    {
+        "name": "a_c_horse_suffolkpunch_redchestnut",
+        "hash": -1693870200,
+        "hex": "0x9B099788"
+    },
+    {
+        "name": "a_c_horse_suffolkpunch_sorrel",
+        "hash": -1599683008,
+        "hex": "0xA0A6C640"
+    },
+    {
+        "name": "a_c_horse_tennesseewalker_blackrabicano",
+        "hash": 1072019803,
+        "hex": "0x3FE5B95B"
+    },
+    {
+        "name": "a_c_horse_tennesseewalker_chestnut",
+        "hash": 1074477367,
+        "hex": "0x400B3937"
+    },
+    {
+        "name": "a_c_horse_tennesseewalker_dapplebay",
+        "hash": -85890205,
+        "hex": "0xFAE16B63"
+    },
+    {
+        "name": "a_c_horse_tennesseewalker_flaxenroan",
+        "hash": -1667789645,
+        "hex": "0x9C978CB3"
+    },
+    {
+        "name": "A_C_Horse_TennesseeWalker_GoldPalomino_PC",
+        "hash": 1048964673,
+        "hex": "0x3E85EE41"
+    },
+    {
+        "name": "a_c_horse_tennesseewalker_mahoganybay",
+        "hash": 446670976,
+        "hex": "0x1A9FA880"
+    },
+    {
+        "name": "a_c_horse_tennesseewalker_redroan",
+        "hash": -727455979,
+        "hex": "0xD4A3E715"
+    },
+    {
+        "name": "a_c_horse_thoroughbred_blackchestnut",
+        "hash": 2120708491,
+        "hex": "0x7E67718B"
+    },
+    {
+        "name": "a_c_horse_thoroughbred_bloodbay",
+        "hash": -1924405794,
+        "hex": "0x8D4BE5DE"
+    },
+    {
+        "name": "a_c_horse_thoroughbred_brindle",
+        "hash": -526169133,
+        "hex": "0xE0A34BD3"
+    },
+    {
+        "name": "a_c_horse_thoroughbred_dapplegrey",
+        "hash": 1861665605,
+        "hex": "0x6EF6C345"
+    },
+    {
+        "name": "a_c_horse_thoroughbred_reversedappleblack",
+        "hash": 900144280,
+        "hex": "0x35A71C98"
+    },
+    {
+        "name": "a_c_horse_turkoman_darkbay",
+        "hash": 1133837220,
+        "hex": "0x4394FBA4"
+    },
+    {
+        "name": "a_c_horse_turkoman_gold",
+        "hash": 1702024301,
+        "hex": "0x6572D46D"
+    },
+    {
+        "name": "a_c_horse_turkoman_silver",
+        "hash": -1604180548,
+        "hex": "0xA06225BC"
+    },
+    {
+        "name": "a_c_horse_winter02_01",
+        "hash": -216303527,
+        "hex": "0xF31B7859"
+    },
+    { "name": "a_c_iguana_01", "hash": -1854059305, "hex": "0x917D4CD7" },
+    { "name": "a_c_iguanadesert_01", "hash": -593056309, "hex": "0xDCA6ADCB" },
+    { "name": "a_c_javelina_01", "hash": 1751700893, "hex": "0x6868D59D" },
+    { "name": "a_c_lionmangy_01", "hash": -963953562, "hex": "0xC68B3C66" },
+    { "name": "A_C_Loon_01", "hash": 386506078, "hex": "0x17099D5E" },
+    { "name": "A_C_Moose_01", "hash": -1098441944, "hex": "0xBE871B28" },
+    { "name": "A_C_Muskrat_01", "hash": -1134449699, "hex": "0xBC61ABDD" },
+    { "name": "A_C_ORIOLE_01", "hash": -1302821723, "hex": "0xB25884A5" },
+    { "name": "A_C_Owl_01", "hash": -861544272, "hex": "0xCCA5E0B0" },
+    { "name": "a_c_ox_01", "hash": 556355544, "hex": "0x21294FD8" },
+    { "name": "A_C_Panther_01", "hash": 1654513481, "hex": "0x629DDF49" },
+    { "name": "A_C_Parrot_01", "hash": -1797450568, "hex": "0x94DD14B8" },
+    { "name": "A_C_Pelican_01", "hash": 1265966684, "hex": "0x4B751E5C" },
+    { "name": "A_C_Pheasant_01", "hash": 1416324601, "hex": "0x546B65F9" },
+    { "name": "a_c_pig_01", "hash": 1007418994, "hex": "0x3C0BFE72" },
+    { "name": "a_c_pigeon", "hash": 111281960, "hex": "0x06A20728" },
+    { "name": "A_C_Possum_01", "hash": -1414989025, "hex": "0xABA8FB1F" },
+    {
+        "name": "A_C_Prairiechicken_01",
+        "hash": 2079703102,
+        "hex": "0x7BF5C03E"
+    },
+    { "name": "A_C_Pronghorn_01", "hash": 1755643085, "hex": "0x68A4FCCD" },
+    { "name": "A_C_Quail_01", "hash": 2105463796, "hex": "0x7D7ED3F4" },
+    { "name": "A_C_Rabbit_01", "hash": -541762431, "hex": "0xDFB55C81" },
+    { "name": "A_C_Raccoon_01", "hash": 1458540991, "hex": "0x56EF91BF" },
+    { "name": "A_C_Rat_01", "hash": 989669666, "hex": "0x3AFD2922" },
+    { "name": "A_C_Raven_01", "hash": -575340245, "hex": "0xDDB5012B" },
+    {
+        "name": "a_c_redfootedbooby_01",
+        "hash": -466687768,
+        "hex": "0xE42EE8E8"
+    },
+    { "name": "a_c_robin_01", "hash": -1210546580, "hex": "0xB7D8866C" },
+    { "name": "a_c_rooster_01", "hash": 2023522846, "hex": "0x789C821E" },
+    {
+        "name": "A_C_RoseateSpoonbill_01",
+        "hash": -1076508705,
+        "hex": "0xBFD5C7DF"
+    },
+    { "name": "A_C_Seagull_01", "hash": -164963696, "hex": "0xF62ADA90" },
+    {
+        "name": "a_c_sharkhammerhead_01",
+        "hash": -840801889,
+        "hex": "0xCDE2619F"
+    },
+    { "name": "a_c_sharktiger", "hash": 113504370, "hex": "0x06C3F072" },
+    { "name": "a_c_sheep_01", "hash": 40345436, "hex": "0x02679F5C" },
+    { "name": "A_C_Skunk_01", "hash": -1211566332, "hex": "0xB7C8F704" },
+    { "name": "A_C_SNAKE_01", "hash": 545068538, "hex": "0x207D15FA" },
+    {
+        "name": "a_c_snakeblacktailrattle_01",
+        "hash": 846659001,
+        "hex": "0x3276FDB9"
+    },
+    {
+        "name": "a_c_snakeblacktailrattle_pelt_01",
+        "hash": -2054685425,
+        "hex": "0x8587FD0F"
+    },
+    {
+        "name": "a_c_snakeferdelance_01",
+        "hash": 1464167925,
+        "hex": "0x57456DF5"
+    },
+    {
+        "name": "a_c_snakeferdelance_pelt_01",
+        "hash": 740300135,
+        "hex": "0x2C201567"
+    },
+    { "name": "a_c_snake_pelt_01", "hash": -1610495764, "hex": "0xA001C8EC" },
+    { "name": "A_C_SNAKEREDBOA_01", "hash": -1790499186, "hex": "0x9547268E" },
+    {
+        "name": "a_c_snakeredboa10ft_01",
+        "hash": -1747620994,
+        "hex": "0x97D56B7E"
+    },
+    {
+        "name": "a_c_snakeredboa_pelt_01",
+        "hash": 1203222291,
+        "hex": "0x47B7B713"
+    },
+    { "name": "a_c_snakewater_01", "hash": -229688157, "hex": "0xF24F3CA3" },
+    {
+        "name": "a_c_snakewater_pelt_01",
+        "hash": -125323032,
+        "hex": "0xF887B8E8"
+    },
+    { "name": "A_C_SongBird_01", "hash": -1910795227, "hex": "0x8E1B9425" },
+    { "name": "A_C_Sparrow_01", "hash": -1028170431, "hex": "0xC2B75D41" },
+    { "name": "A_C_Squirrel_01", "hash": 1465438313, "hex": "0x5758D069" },
+    { "name": "a_c_toad_01", "hash": 1502581273, "hex": "0x598F9219" },
+    { "name": "A_C_Turkey_01", "hash": -466054788, "hex": "0xE438917C" },
+    { "name": "a_c_turkey_02", "hash": -166054593, "hex": "0xF61A353F" },
+    { "name": "A_C_TurkeyWild_01", "hash": -2011226991, "hex": "0x881F1C91" },
+    { "name": "a_c_turtlesea_01", "hash": -1451393780, "hex": "0xA97D7D0C" },
+    {
+        "name": "a_c_turtlesnapping_01",
+        "hash": -407730502,
+        "hex": "0xE7B286BA"
+    },
+    { "name": "A_C_Vulture_01", "hash": 1104697660, "hex": "0x41D8593C" },
+    { "name": "A_C_Wolf", "hash": -1143398950, "hex": "0xBBD91DDA" },
+    { "name": "a_c_wolf_medium", "hash": -885451903, "hex": "0xCB391381" },
+    { "name": "A_C_Wolf_Small", "hash": -829273561, "hex": "0xCE924A27" },
+    { "name": "A_C_Woodpecker_01", "hash": 510312109, "hex": "0x1E6ABEAD" },
+    { "name": "a_c_woodpecker_02", "hash": 729471181, "hex": "0x2B7AD8CD" },
+    { "name": "western_saddle_01", "hash": 398130375, "hex": "0x17BAFCC7" },
+    { "name": "western_saddle_02", "hash": -444131232, "hex": "0xE5871860" },
+    { "name": "western_saddle_03", "hash": 1732418521, "hex": "0x67429BD9" },
+    { "name": "western_saddle_04", "hash": 1829676913, "hex": "0x6D0EA771" },
+    {
+        "name": "a_f_m_armcholeracorpse_01",
+        "hash": 1396079242,
+        "hex": "0x53367A8A"
+    },
+    {
+        "name": "a_f_m_armtownfolk_01",
+        "hash": -1739261178,
+        "hex": "0x9854FB06"
+    },
+    { "name": "a_f_m_armtownfolk_02", "hash": 785262586, "hex": "0x2ECE27FA" },
+    { "name": "a_f_m_asbtownfolk_01", "hash": 1778509231, "hex": "0x6A01E5AF" },
+    {
+        "name": "a_f_m_bivfancytravellers_01",
+        "hash": -1627910973,
+        "hex": "0x9EF80CC3"
+    },
+    { "name": "a_f_m_blwtownfolk_01", "hash": 1759076651, "hex": "0x68D9612B" },
+    { "name": "a_f_m_blwtownfolk_02", "hash": 1588546775, "hex": "0x5EAF4CD7" },
+    {
+        "name": "a_f_m_blwupperclass_01",
+        "hash": 1436489621,
+        "hex": "0x559F1795"
+    },
+    { "name": "a_f_m_btchillbilly_01", "hash": 359344987, "hex": "0x156B2B5B" },
+    {
+        "name": "a_f_m_btcobesewomen_01",
+        "hash": 419307190,
+        "hex": "0x18FE1EB6"
+    },
+    {
+        "name": "a_f_m_bynfancytravellers_01",
+        "hash": -422937996,
+        "hex": "0xE6CA7A74"
+    },
+    {
+        "name": "a_f_m_familytravelers_cool_01",
+        "hash": 1107088736,
+        "hex": "0x41FCD560"
+    },
+    {
+        "name": "a_f_m_familytravelers_warm_01",
+        "hash": 50305983,
+        "hex": "0x02FF9BBF"
+    },
+    {
+        "name": "a_f_m_gamhighsociety_01",
+        "hash": -593813585,
+        "hex": "0xDC9B1FAF"
+    },
+    {
+        "name": "a_f_m_grifancytravellers_01",
+        "hash": -187463100,
+        "hex": "0xF4D38A44"
+    },
+    { "name": "a_f_m_guatownfolk_01", "hash": 2039554428, "hex": "0x7991217C" },
+    {
+        "name": "a_f_m_htlfancytravellers_01",
+        "hash": -985945029,
+        "hex": "0xC53BAC3B"
+    },
+    { "name": "a_f_m_lagtownfolk_01", "hash": -63137486, "hex": "0xFC3C9932" },
+    {
+        "name": "a_f_m_lowersdtownfolk_01",
+        "hash": -1734227960,
+        "hex": "0x98A1C808"
+    },
+    {
+        "name": "a_f_m_lowersdtownfolk_02",
+        "hash": -2001000389,
+        "hex": "0x88BB283B"
+    },
+    {
+        "name": "a_f_m_lowersdtownfolk_03",
+        "hash": 2004420023,
+        "hex": "0x777905B7"
+    },
+    {
+        "name": "a_f_m_lowertrainpassengers_01",
+        "hash": -1086255030,
+        "hex": "0xBF41104A"
+    },
+    {
+        "name": "a_f_m_middlesdtownfolk_01",
+        "hash": 653445543,
+        "hex": "0x26F2C9A7"
+    },
+    {
+        "name": "a_f_m_middlesdtownfolk_02",
+        "hash": 928344684,
+        "hex": "0x37556A6C"
+    },
+    {
+        "name": "a_f_m_middlesdtownfolk_03",
+        "hash": -1030586136,
+        "hex": "0xC29280E8"
+    },
+    {
+        "name": "a_f_m_middletrainpassengers_01",
+        "hash": -73075081,
+        "hex": "0xFBA4F677"
+    },
+    { "name": "a_f_m_nbxslums_01", "hash": -1381243508, "hex": "0xADABE58C" },
+    {
+        "name": "a_f_m_nbxupperclass_01",
+        "hash": -1039531072,
+        "hex": "0xC20A03C0"
+    },
+    { "name": "a_f_m_nbxwhore_01", "hash": 240900868, "hex": "0x0E5BDB04" },
+    {
+        "name": "a_f_m_rhdprostitute_01",
+        "hash": 1988888198,
+        "hex": "0x768C0686"
+    },
+    { "name": "a_f_m_rhdtownfolk_01", "hash": 539576219, "hex": "0x2029479B" },
+    { "name": "a_f_m_rhdtownfolk_02", "hash": 1896409433, "hex": "0x7108E959" },
+    {
+        "name": "a_f_m_rhdupperclass_01",
+        "hash": 2127070944,
+        "hex": "0x7EC886E0"
+    },
+    {
+        "name": "a_f_m_rkrfancytravellers_01",
+        "hash": -1381449134,
+        "hex": "0xADA8C252"
+    },
+    {
+        "name": "a_f_m_roughtravellers_01",
+        "hash": -985856147,
+        "hex": "0xC53D076D"
+    },
+    {
+        "name": "a_f_m_sclfancytravellers_01",
+        "hash": 1769794038,
+        "hex": "0x697CE9F6"
+    },
+    { "name": "a_f_m_sdchinatown_01", "hash": -102057441, "hex": "0xF9EABA1F" },
+    {
+        "name": "a_f_m_sdfancywhore_01",
+        "hash": 1820607364,
+        "hex": "0x6C844384"
+    },
+    {
+        "name": "a_f_m_sdobesewomen_01",
+        "hash": -1916543705,
+        "hex": "0x8DC3DD27"
+    },
+    {
+        "name": "a_f_m_sdserversformal_01",
+        "hash": 625610107,
+        "hex": "0x254A0D7B"
+    },
+    { "name": "a_f_m_sdslums_02", "hash": 280434337, "hex": "0x10B716A1" },
+    {
+        "name": "a_f_m_skpprisononline_01",
+        "hash": -254879387,
+        "hex": "0xF0CED965"
+    },
+    {
+        "name": "a_f_m_strtownfolk_01",
+        "hash": -1384606398,
+        "hex": "0xAD789542"
+    },
+    { "name": "a_f_m_tumtownfolk_01", "hash": 208558043, "hex": "0x0C6E57DB" },
+    {
+        "name": "a_f_m_tumtownfolk_02",
+        "hash": -1253725829,
+        "hex": "0xB545A97B"
+    },
+    { "name": "a_f_m_unicorpse_01", "hash": -449588556, "hex": "0xE533D2B4" },
+    {
+        "name": "a_f_m_uppertrainpassengers_01",
+        "hash": -1049920600,
+        "hex": "0xC16B7BA8"
+    },
+    {
+        "name": "a_f_m_valprostitute_01",
+        "hash": -1909449322,
+        "hex": "0x8E301D96"
+    },
+    { "name": "a_f_m_valtownfolk_01", "hash": -161027961, "hex": "0xF666E887" },
+    {
+        "name": "a_f_m_vhtprostitute_01",
+        "hash": -1213601266,
+        "hex": "0xB7A9EA0E"
+    },
+    { "name": "a_f_m_vhttownfolk_01", "hash": 9390805, "hex": "0x008F4AD5" },
+    { "name": "a_f_m_waptownfolk_01", "hash": -136178851, "hex": "0xF7E2135D" },
+    {
+        "name": "a_f_o_blwupperclass_01",
+        "hash": -794619784,
+        "hex": "0xD0A31078"
+    },
+    {
+        "name": "a_f_o_btchillbilly_01",
+        "hash": -2035015046,
+        "hex": "0x86B4227A"
+    },
+    {
+        "name": "a_f_o_guatownfolk_01",
+        "hash": -1604317957,
+        "hex": "0xA0600CFB"
+    },
+    { "name": "a_f_o_lagtownfolk_01", "hash": 399052822, "hex": "0x17C91016" },
+    { "name": "a_f_o_sdchinatown_01", "hash": 841716415, "hex": "0x322B92BF" },
+    {
+        "name": "a_f_o_sdupperclass_01",
+        "hash": 1079491822,
+        "hex": "0x4057BCEE"
+    },
+    {
+        "name": "a_f_o_waptownfolk_01",
+        "hash": -2089061362,
+        "hex": "0x837B740E"
+    },
+    {
+        "name": "a_m_m_armcholeracorpse_01",
+        "hash": -797523053,
+        "hex": "0xD076C393"
+    },
+    {
+        "name": "a_m_m_armdeputyresident_01",
+        "hash": -1250484996,
+        "hex": "0xB5771CFC"
+    },
+    { "name": "a_m_m_armtownfolk_01", "hash": -813796418, "hex": "0xCF7E73BE" },
+    {
+        "name": "a_m_m_armtownfolk_02",
+        "hash": -1053305039,
+        "hex": "0xC137D731"
+    },
+    { "name": "a_m_m_asbboatcrew_01", "hash": 937077130, "hex": "0x37DAA98A" },
+    {
+        "name": "a_m_m_asbdeputyresident_01",
+        "hash": -1677663584,
+        "hex": "0x9C00E2A0"
+    },
+    { "name": "a_m_m_asbminer_01", "hash": 1755438567, "hex": "0x68A1DDE7" },
+    { "name": "a_m_m_asbminer_02", "hash": 1045432644, "hex": "0x3E500944" },
+    { "name": "a_m_m_asbminer_03", "hash": 1353428475, "hex": "0x50ABADFB" },
+    { "name": "a_m_m_asbminer_04", "hash": 434585711, "hex": "0x19E7406F" },
+    { "name": "a_m_m_asbtownfolk_01", "hash": 190080028, "hex": "0x0B54641C" },
+    {
+        "name": "a_m_m_asbtownfolk_01_laborer",
+        "hash": -1512035821,
+        "hex": "0xA5E02A13"
+    },
+    {
+        "name": "a_m_m_bivfancydrivers_01",
+        "hash": 1631210382,
+        "hex": "0x613A4B8E"
+    },
+    {
+        "name": "a_m_m_bivfancytravellers_01",
+        "hash": 227319051,
+        "hex": "0x0D8C9D0B"
+    },
+    {
+        "name": "a_m_m_bivroughtravellers_01",
+        "hash": 1255849914,
+        "hex": "0x4ADABFBA"
+    },
+    { "name": "a_m_m_bivworker_01", "hash": -1820002752, "hex": "0x9384F640" },
+    { "name": "a_m_m_blwforeman_01", "hash": 1536283262, "hex": "0x5B91D27E" },
+    { "name": "a_m_m_blwlaborer_01", "hash": -989220241, "hex": "0xC509B26F" },
+    { "name": "a_m_m_blwlaborer_02", "hash": -607723543, "hex": "0xDBC6DFE9" },
+    { "name": "a_m_m_blwobesemen_01", "hash": 1099986227, "hex": "0x41907533" },
+    { "name": "a_m_m_blwtownfolk_01", "hash": -787683245, "hex": "0xD10CE853" },
+    {
+        "name": "a_m_m_blwupperclass_01",
+        "hash": 1022365451,
+        "hex": "0x3CF00F0B"
+    },
+    {
+        "name": "a_m_m_btchillbilly_01",
+        "hash": -499992081,
+        "hex": "0xE232B9EF"
+    },
+    { "name": "a_m_m_btcobesemen_01", "hash": 2756433, "hex": "0x002A0F51" },
+    {
+        "name": "a_m_m_bynfancydrivers_01",
+        "hash": 1891051735,
+        "hex": "0x70B728D7"
+    },
+    {
+        "name": "a_m_m_bynfancytravellers_01",
+        "hash": -323096446,
+        "hex": "0xECBDF082"
+    },
+    {
+        "name": "a_m_m_bynroughtravellers_01",
+        "hash": 2103826247,
+        "hex": "0x7D65D747"
+    },
+    {
+        "name": "a_m_m_bynsurvivalist_01",
+        "hash": 997685952,
+        "hex": "0x3B777AC0"
+    },
+    {
+        "name": "a_m_m_cardgameplayers_01",
+        "hash": -951746023,
+        "hex": "0xC7458219"
+    },
+    { "name": "a_m_m_chelonian_01", "hash": 1513798350, "hex": "0x5A3ABACE" },
+    {
+        "name": "a_m_m_deliverytravelers_cool_01",
+        "hash": -614708638,
+        "hex": "0xDB5C4A62"
+    },
+    {
+        "name": "a_m_m_deliverytravelers_warm_01",
+        "hash": -1519760323,
+        "hex": "0xA56A4C3D"
+    },
+    {
+        "name": "a_m_m_dominoesplayers_01",
+        "hash": -726434422,
+        "hex": "0xD4B37D8A"
+    },
+    { "name": "a_m_m_emrfarmhand_01", "hash": -439429058, "hex": "0xE5CED83E" },
+    {
+        "name": "a_m_m_familytravelers_cool_01",
+        "hash": 1460377943,
+        "hex": "0x570B9957"
+    },
+    {
+        "name": "a_m_m_familytravelers_warm_01",
+        "hash": -279708644,
+        "hex": "0xEF53FC1C"
+    },
+    {
+        "name": "a_m_m_farmtravelers_cool_01",
+        "hash": 1480992494,
+        "hex": "0x584626EE"
+    },
+    {
+        "name": "a_m_m_farmtravelers_warm_01",
+        "hash": 798234609,
+        "hex": "0x2F9417F1"
+    },
+    {
+        "name": "a_m_m_fivefingerfilletplayers_01",
+        "hash": 417416138,
+        "hex": "0x18E143CA"
+    },
+    { "name": "a_m_m_foreman", "hash": 230142993, "hex": "0x0DB7B411" },
+    {
+        "name": "a_m_m_gamhighsociety_01",
+        "hash": -1918128574,
+        "hex": "0x8DABAE42"
+    },
+    {
+        "name": "a_m_m_grifancydrivers_01",
+        "hash": 1412039516,
+        "hex": "0x542A035C"
+    },
+    {
+        "name": "a_m_m_grifancytravellers_01",
+        "hash": 1981624734,
+        "hex": "0x761D319E"
+    },
+    {
+        "name": "a_m_m_griroughtravellers_01",
+        "hash": -1759038075,
+        "hex": "0x97273585"
+    },
+    {
+        "name": "a_m_m_grisurvivalist_01",
+        "hash": -1646366239,
+        "hex": "0x9DDE71E1"
+    },
+    { "name": "a_m_m_guatownfolk_01", "hash": 223197487, "hex": "0x0D4DB92F" },
+    {
+        "name": "a_m_m_htlfancydrivers_01",
+        "hash": -285798272,
+        "hex": "0xEEF71080"
+    },
+    {
+        "name": "a_m_m_htlfancytravellers_01",
+        "hash": -1335921754,
+        "hex": "0xB05F73A6"
+    },
+    {
+        "name": "a_m_m_htlroughtravellers_01",
+        "hash": -1445135526,
+        "hex": "0xA9DCFB5A"
+    },
+    {
+        "name": "a_m_m_htlsurvivalist_01",
+        "hash": -1287585527,
+        "hex": "0xB3410109"
+    },
+    {
+        "name": "a_m_m_huntertravelers_cool_01",
+        "hash": 1462365219,
+        "hex": "0x5729EC23"
+    },
+    {
+        "name": "a_m_m_huntertravelers_warm_01",
+        "hash": -661073964,
+        "hex": "0xD898CFD4"
+    },
+    {
+        "name": "a_m_m_jamesonguard_01",
+        "hash": -1842133876,
+        "hex": "0x9233448C"
+    },
+    {
+        "name": "a_m_m_lagtownfolk_01",
+        "hash": -1119301676,
+        "hex": "0xBD48CFD4"
+    },
+    {
+        "name": "a_m_m_lowersdtownfolk_01",
+        "hash": -468934984,
+        "hex": "0xE40C9EB8"
+    },
+    {
+        "name": "a_m_m_lowersdtownfolk_02",
+        "hash": -2102436869,
+        "hex": "0x82AF5BFB"
+    },
+    {
+        "name": "a_m_m_lowertrainpassengers_01",
+        "hash": -1794350678,
+        "hex": "0x950C61AA"
+    },
+    {
+        "name": "a_m_m_middlesdtownfolk_01",
+        "hash": 2133848994,
+        "hex": "0x7F2FF3A2"
+    },
+    {
+        "name": "a_m_m_middlesdtownfolk_02",
+        "hash": 1854820959,
+        "hex": "0x6E8E525F"
+    },
+    {
+        "name": "a_m_m_middlesdtownfolk_03",
+        "hash": 549598920,
+        "hex": "0x20C236C8"
+    },
+    {
+        "name": "a_m_m_middletrainpassengers_01",
+        "hash": -1251028949,
+        "hex": "0xB56ED02B"
+    },
+    {
+        "name": "a_m_m_moonshiners_01",
+        "hash": -1320358161,
+        "hex": "0xB14CEEEF"
+    },
+    {
+        "name": "a_m_m_nbxdockworkers_01",
+        "hash": -310853585,
+        "hex": "0xED78C02F"
+    },
+    {
+        "name": "a_m_m_nbxlaborers_01",
+        "hash": -1736327942,
+        "hex": "0x9881BCFA"
+    },
+    { "name": "a_m_m_nbxslums_01", "hash": 1453686794, "hex": "0x56A5800A" },
+    { "name": "a_m_m_nbxupperclass_01", "hash": 79156795, "hex": "0x04B7D63B" },
+    {
+        "name": "a_m_m_nearoughtravellers_01",
+        "hash": 1828879031,
+        "hex": "0x6D027AB7"
+    },
+    { "name": "a_m_m_rancher_01", "hash": 1423490702, "hex": "0x54D8BE8E" },
+    {
+        "name": "a_m_m_ranchertravelers_cool_01",
+        "hash": 748448194,
+        "hex": "0x2C9C69C2"
+    },
+    {
+        "name": "a_m_m_ranchertravelers_warm_01",
+        "hash": -144401148,
+        "hex": "0xF7649D04"
+    },
+    {
+        "name": "a_m_m_rhddeputyresident_01",
+        "hash": 190553496,
+        "hex": "0x0B5B9D98"
+    },
+    { "name": "a_m_m_rhdforeman_01", "hash": -1796561521, "hex": "0x94EAA58F" },
+    { "name": "a_m_m_rhdobesemen_01", "hash": 1613337522, "hex": "0x602993B2" },
+    { "name": "a_m_m_rhdtownfolk_01", "hash": 977834008, "hex": "0x3A489018" },
+    {
+        "name": "a_m_m_rhdtownfolk_01_laborer",
+        "hash": 10447432,
+        "hex": "0x009F6A48"
+    },
+    { "name": "a_m_m_rhdtownfolk_02", "hash": 1748233198, "hex": "0x6833EBEE" },
+    {
+        "name": "a_m_m_rhdupperclass_01",
+        "hash": -1345652903,
+        "hex": "0xAFCAF759"
+    },
+    {
+        "name": "a_m_m_rkrfancydrivers_01",
+        "hash": -1843549794,
+        "hex": "0x921DA99E"
+    },
+    {
+        "name": "a_m_m_rkrfancytravellers_01",
+        "hash": 1992820222,
+        "hex": "0x76C805FE"
+    },
+    {
+        "name": "a_m_m_rkrroughtravellers_01",
+        "hash": -1386734901,
+        "hex": "0xAD581ACB"
+    },
+    {
+        "name": "a_m_m_rkrsurvivalist_01",
+        "hash": 799791017,
+        "hex": "0x2FABD7A9"
+    },
+    {
+        "name": "a_m_m_sclfancydrivers_01",
+        "hash": -1130059812,
+        "hex": "0xBCA4A7DC"
+    },
+    {
+        "name": "a_m_m_sclfancytravellers_01",
+        "hash": 1169778176,
+        "hex": "0x45B96600"
+    },
+    {
+        "name": "a_m_m_sclroughtravellers_01",
+        "hash": -650353329,
+        "hex": "0xD93C654F"
+    },
+    { "name": "a_m_m_sdchinatown_01", "hash": 646417756, "hex": "0x26878D5C" },
+    {
+        "name": "a_m_m_sddockforeman_01",
+        "hash": 1153217480,
+        "hex": "0x44BCB3C8"
+    },
+    {
+        "name": "a_m_m_sddockworkers_02",
+        "hash": -1584964557,
+        "hex": "0xA1875C33"
+    },
+    {
+        "name": "a_m_m_sdfancytravellers_01",
+        "hash": -233934854,
+        "hex": "0xF20E6FFA"
+    },
+    { "name": "a_m_m_sdlaborers_02", "hash": -789646981, "hex": "0xD0EEF17B" },
+    { "name": "a_m_m_sdobesemen_01", "hash": 920851291, "hex": "0x36E3135B" },
+    {
+        "name": "a_m_m_sdroughtravellers_01",
+        "hash": -2007219554,
+        "hex": "0x885C429E"
+    },
+    {
+        "name": "a_m_m_sdserversformal_01",
+        "hash": -1882720035,
+        "hex": "0x8FC7F8DD"
+    },
+    { "name": "a_m_m_sdslums_02", "hash": -1436795223, "hex": "0xAA5C3EA9" },
+    { "name": "a_m_m_skpprisoner_01", "hash": 378899325, "hex": "0x16958B7D" },
+    {
+        "name": "a_m_m_skpprisonline_01",
+        "hash": 1836621877,
+        "hex": "0x6D78A035"
+    },
+    { "name": "a_m_m_smhthug_01", "hash": -593150738, "hex": "0xDCA53CEE" },
+    {
+        "name": "a_m_m_strdeputyresident_01",
+        "hash": -264790543,
+        "hex": "0xF0379DF1"
+    },
+    {
+        "name": "a_m_m_strfancytourist_01",
+        "hash": 706334491,
+        "hex": "0x2A19CF1B"
+    },
+    { "name": "a_m_m_strlaborer_01", "hash": -1638806549, "hex": "0x9E51CBEB" },
+    { "name": "a_m_m_strtownfolk_01", "hash": 1127589605, "hex": "0x4335A6E5" },
+    { "name": "a_m_m_tumtownfolk_01", "hash": 480011144, "hex": "0x1C9C6388" },
+    { "name": "a_m_m_tumtownfolk_02", "hash": 966958492, "hex": "0x39A29D9C" },
+    { "name": "a_m_m_uniboatcrew_01", "hash": -26159804, "hex": "0xFE70D544" },
+    {
+        "name": "a_m_m_unicoachguards_01",
+        "hash": 482936557,
+        "hex": "0x1CC906ED"
+    },
+    { "name": "a_m_m_unicorpse_01", "hash": 1282171014, "hex": "0x4C6C6086" },
+    {
+        "name": "a_m_m_unigunslinger_01",
+        "hash": 972135864,
+        "hex": "0x39F19DB8"
+    },
+    {
+        "name": "a_m_m_uppertrainpassengers_01",
+        "hash": 1965744005,
+        "hex": "0x752ADF85"
+    },
+    {
+        "name": "a_m_m_valcriminals_01",
+        "hash": -116400430,
+        "hex": "0xF90FDED2"
+    },
+    {
+        "name": "a_m_m_valdeputyresident_01",
+        "hash": 1671223501,
+        "hex": "0x639CD8CD"
+    },
+    { "name": "a_m_m_valfarmer_01", "hash": 525529657, "hex": "0x1F52F239" },
+    { "name": "a_m_m_vallaborer_01", "hash": -597362537, "hex": "0xDC64F897" },
+    {
+        "name": "a_m_m_valtownfolk_01",
+        "hash": -2087759666,
+        "hex": "0x838F50CE"
+    },
+    {
+        "name": "a_m_m_valtownfolk_02",
+        "hash": -1789856687,
+        "hex": "0x9550F451"
+    },
+    {
+        "name": "a_m_m_vhtboatcrew_01",
+        "hash": -1434709171,
+        "hex": "0xAA7C134D"
+    },
+    { "name": "a_m_m_vhtthug_01", "hash": -956061568, "hex": "0xC703A880" },
+    { "name": "a_m_m_vhttownfolk_01", "hash": 918972034, "hex": "0x36C66682" },
+    { "name": "a_m_m_wapwarriors_01", "hash": 830712509, "hex": "0x3183AABD" },
+    {
+        "name": "a_m_o_blwupperclass_01",
+        "hash": 1471623370,
+        "hex": "0x57B730CA"
+    },
+    {
+        "name": "a_m_o_btchillbilly_01",
+        "hash": -1445759307,
+        "hex": "0xA9D376B5"
+    },
+    { "name": "a_m_o_guatownfolk_01", "hash": 355963118, "hex": "0x153790EE" },
+    { "name": "a_m_o_lagtownfolk_01", "hash": -802461952, "hex": "0xD02B6700" },
+    { "name": "a_m_o_sdchinatown_01", "hash": 888054433, "hex": "0x34EEA2A1" },
+    {
+        "name": "a_m_o_sdupperclass_01",
+        "hash": -1938511850,
+        "hex": "0x8C74A816"
+    },
+    {
+        "name": "a_m_o_waptownfolk_01",
+        "hash": -1937436820,
+        "hex": "0x8C850F6C"
+    },
+    {
+        "name": "amsp_robsdgunsmith_males_01",
+        "hash": 153532315,
+        "hex": "0x0926B79B"
+    },
+    {
+        "name": "am_valentinedoctors_females_01",
+        "hash": 1026015877,
+        "hex": "0x3D27C285"
+    },
+    { "name": "a_m_y_asbminer_01", "hash": -1904821831, "hex": "0x8E76B9B9" },
+    { "name": "a_m_y_asbminer_02", "hash": 1543787725, "hex": "0x5C0454CD" },
+    { "name": "a_m_y_asbminer_03", "hash": 352143044, "hex": "0x14FD46C4" },
+    { "name": "a_m_y_asbminer_04", "hash": 809532746, "hex": "0x30407D4A" },
+    {
+        "name": "a_m_y_nbxstreetkids_01",
+        "hash": 264503396,
+        "hex": "0x0FC40064"
+    },
+    {
+        "name": "a_m_y_nbxstreetkids_slums_01",
+        "hash": -1398443261,
+        "hex": "0xACA57303"
+    },
+    {
+        "name": "a_m_y_sdstreetkids_slums_02",
+        "hash": -900222268,
+        "hex": "0xCA57B2C4"
+    },
+    { "name": "a_m_y_unicorpse_01", "hash": 1976314726, "hex": "0x75CC2B66" },
+    {
+        "name": "casp_coachrobbery_lenny_males_01",
+        "hash": 1802070186,
+        "hex": "0x6B6968AA"
+    },
+    {
+        "name": "casp_coachrobbery_micah_males_01",
+        "hash": 1677043504,
+        "hex": "0x63F5A730"
+    },
+    {
+        "name": "casp_hunting02_males_01",
+        "hash": 2056255267,
+        "hex": "0x7A8FF723"
+    },
+    { "name": "charro_saddle_01", "hash": -772792715, "hex": "0xD1F01E75" },
+    {
+        "name": "cr_strawberry_males_01",
+        "hash": 189032184,
+        "hex": "0x0B4466F8"
+    },
+    { "name": "cs_abe", "hash": -1464743433, "hex": "0xA8B1C9F7" },
+    {
+        "name": "cs_aberdeenpigfarmer",
+        "hash": -1418951751,
+        "hex": "0xAB6C83B9"
+    },
+    { "name": "cs_aberdeensister", "hash": 2029634351, "hex": "0x78F9C32F" },
+    { "name": "cs_abigailroberts", "hash": -288068792, "hex": "0xEED46B48" },
+    { "name": "cs_acrobat", "hash": 1479103690, "hex": "0x582954CA" },
+    { "name": "cs_adamgray", "hash": 1785923813, "hex": "0x6A7308E5" },
+    { "name": "cs_agnesdowd", "hash": 93760123, "hex": "0x0596AA7B" },
+    { "name": "cs_albertcakeesquire", "hash": 686051865, "hex": "0x28E45219" },
+    { "name": "cs_albertmason", "hash": 513427234, "hex": "0x1E9A4722" },
+    { "name": "cs_andershelgerson", "hash": 430764551, "hex": "0x19ACF207" },
+    { "name": "cs_angel", "hash": 836525272, "hex": "0x31DC5CD8" },
+    { "name": "cs_angryhusband", "hash": 401817002, "hex": "0x17F33DAA" },
+    { "name": "cs_angusgeddes", "hash": -167880668, "hex": "0xF5FE5824" },
+    { "name": "cs_ansel_atherton", "hash": 1446935015, "hex": "0x563E79E7" },
+    { "name": "cs_antonyforemen", "hash": -891510636, "hex": "0xCADCA094" },
+    { "name": "cs_archerfordham", "hash": 848012614, "hex": "0x328BA546" },
+    { "name": "cs_archibaldjameson", "hash": 2032156749, "hex": "0x7920404D" },
+    { "name": "cs_archiedown", "hash": -121985991, "hex": "0xF8BAA439" },
+    { "name": "cs_artappraiser", "hash": 1604947233, "hex": "0x5FA98D21" },
+    { "name": "cs_asbdeputy_01", "hash": 460337971, "hex": "0x1B703333" },
+    { "name": "cs_ashton", "hash": -1230221375, "hex": "0xB6AC4FC1" },
+    { "name": "cs_balloonoperator", "hash": 624882545, "hex": "0x253EF371" },
+    { "name": "cs_bandbassist", "hash": 1010320580, "hex": "0x3C3844C4" },
+    { "name": "cs_banddrummer", "hash": 1436424114, "hex": "0x559E17B2" },
+    { "name": "cs_bandpianist", "hash": -1901892087, "hex": "0x8EA36E09" },
+    { "name": "cs_bandsinger", "hash": -216561112, "hex": "0xF3178A28" },
+    { "name": "cs_baptiste", "hash": -205121720, "hex": "0xF3C61748" },
+    {
+        "name": "cs_bartholomewbraithwaite",
+        "hash": -77509825,
+        "hex": "0xFB614B3F"
+    },
+    { "name": "cs_bathingladies_01", "hash": -761325639, "hex": "0xD29F17B9" },
+    { "name": "cs_beatenupcaptain", "hash": -55633154, "hex": "0xFCAF1AFE" },
+    { "name": "cs_beaugray", "hash": 1266159496, "hex": "0x4B780F88" },
+    { "name": "cs_billwilliamson", "hash": 2070393450, "hex": "0x7B67B26A" },
+    { "name": "cs_bivcoachdriver", "hash": -550289621, "hex": "0xDF333F2B" },
+    { "name": "cs_blwphotographer", "hash": 446834200, "hex": "0x1AA22618" },
+    { "name": "cs_blwwitness", "hash": 1295740658, "hex": "0x4D3B6EF2" },
+    { "name": "cs_braithwaitebutler", "hash": -538512200, "hex": "0xDFE6F4B8" },
+    { "name": "cs_braithwaitemaid", "hash": -350169314, "hex": "0xEB20D71E" },
+    { "name": "cs_braithwaiteservant", "hash": 477547053, "hex": "0x1C76CA2D" },
+    { "name": "cs_brendacrawley", "hash": 230517792, "hex": "0x0DBD6C20" },
+    { "name": "cs_bronte", "hash": -1865855539, "hex": "0x90C94DCD" },
+    { "name": "cs_brontesbutler", "hash": -779472377, "hex": "0xD18A3207" },
+    { "name": "cs_brotherdorkins", "hash": 482703333, "hex": "0x1CC577E5" },
+    { "name": "cs_brynntildon", "hash": 184120185, "hex": "0x0AF97379" },
+    { "name": "cs_bubba", "hash": -804104884, "hex": "0xD012554C" },
+    { "name": "cs_cabaretmc", "hash": 1410422943, "hex": "0x5411589F" },
+    { "name": "cs_cajun", "hash": -213600750, "hex": "0xF344B612" },
+    { "name": "cs_cancan_01", "hash": -792643455, "hex": "0xD0C13881" },
+    { "name": "cs_cancan_02", "hash": 794654164, "hex": "0x2F5D75D4" },
+    { "name": "cs_cancan_03", "hash": -1116138991, "hex": "0xBD791211" },
+    { "name": "cs_cancan_04", "hash": 316325071, "hex": "0x12DABCCF" },
+    { "name": "cs_cancanman_01", "hash": 755774783, "hex": "0x2D0C353F" },
+    { "name": "cs_captainmonroe", "hash": 1320786287, "hex": "0x4EB9996F" },
+    { "name": "cs_cassidy", "hash": 778800947, "hex": "0x2E6B8F33" },
+    {
+        "name": "cs_catherinebraithwaite",
+        "hash": 1382164045,
+        "hex": "0x5262264D"
+    },
+    { "name": "cs_cattlerustler", "hash": 1595593062, "hex": "0x5F1AD166" },
+    { "name": "cs_cavehermit", "hash": 122377164, "hex": "0x074B53CC" },
+    { "name": "cs_chainprisoner_01", "hash": -2075028835, "hex": "0x8451929D" },
+    { "name": "cs_chainprisoner_02", "hash": -211291960, "hex": "0xF367F0C8" },
+    { "name": "cs_charlessmith", "hash": 1407031519, "hex": "0x53DD98DF" },
+    { "name": "cs_chelonianmaster", "hash": 888681950, "hex": "0x34F835DE" },
+    { "name": "cs_cigcardguy", "hash": -754733870, "hex": "0xD303ACD2" },
+    { "name": "cs_clay", "hash": -607414220, "hex": "0xDBCB9834" },
+    { "name": "cs_cleet", "hash": -464684897, "hex": "0xE44D789F" },
+    { "name": "cs_clive", "hash": -14079324, "hex": "0xFF292AA4" },
+    { "name": "cs_colfavours", "hash": 236407543, "hex": "0x0E174AF7" },
+    { "name": "cs_colmodriscoll", "hash": -820975767, "hex": "0xCF10E769" },
+    { "name": "cs_cooper", "hash": 1923327795, "hex": "0x72A3A733" },
+    {
+        "name": "cs_cornwalltrainconductor",
+        "hash": -1002525623,
+        "hex": "0xC43EAC49"
+    },
+    { "name": "cs_crackpotinventor", "hash": 1270841555, "hex": "0x4BBF80D3" },
+    { "name": "cs_crackpotrobot", "hash": 1006076574, "hex": "0x3BF7829E" },
+    { "name": "cs_creepyoldlady", "hash": -1067338663, "hex": "0xC061B459" },
+    { "name": "cs_creolecaptain", "hash": -781994133, "hex": "0xD163B76B" },
+    { "name": "cs_creoledoctor", "hash": 993577366, "hex": "0x3B38C996" },
+    { "name": "cs_creoleguy", "hash": -1765531164, "hex": "0x96C421E4" },
+    { "name": "cs_dalemaroney", "hash": 382040614, "hex": "0x16C57A26" },
+    { "name": "cs_daveycallender", "hash": 1705504999, "hex": "0x65A7F0E7" },
+    { "name": "cs_davidgeddes", "hash": -1632694866, "hex": "0x9EAF0DAE" },
+    { "name": "cs_desmond", "hash": 1726560673, "hex": "0x66E939A1" },
+    { "name": "cs_didsbury", "hash": -1966295439, "hex": "0x8ACCB671" },
+    { "name": "cs_dinoboneslady", "hash": 1253299569, "hex": "0x4AB3D571" },
+    { "name": "cs_disguisedduster_01", "hash": 852072701, "hex": "0x32C998FD" },
+    {
+        "name": "cs_disguisedduster_02",
+        "hash": 1485366395,
+        "hex": "0x5888E47B"
+    },
+    {
+        "name": "cs_disguisedduster_03",
+        "hash": 1245530084,
+        "hex": "0x4A3D47E4"
+    },
+    { "name": "cs_doroetheawicklow", "hash": 122201050, "hex": "0x0748A3DA" },
+    { "name": "cs_drhiggins", "hash": -195610177, "hex": "0xF45739BF" },
+    {
+        "name": "cs_drmalcolmmacintosh",
+        "hash": -937140420,
+        "hex": "0xC8245F3C"
+    },
+    { "name": "cs_duncangeddes", "hash": -1614719852, "hex": "0x9FC15494" },
+    {
+        "name": "cs_dusterinformant_01",
+        "hash": -1607722277,
+        "hex": "0xA02C1ADB"
+    },
+    { "name": "cs_dutch", "hash": 1944593012, "hex": "0x73E82274" },
+    { "name": "cs_eagleflies", "hash": -1772051411, "hex": "0x9660A42D" },
+    { "name": "cs_edgarross", "hash": -46607261, "hex": "0xFD38D463" },
+    { "name": "cs_edithdown", "hash": -450226655, "hex": "0xE52A1621" },
+    { "name": "cs_edith_john", "hash": -881260464, "hex": "0xCB790850" },
+    { "name": "cs_edmundlowry", "hash": 1483156731, "hex": "0x58672CFB" },
+    { "name": "cs_escapeartist", "hash": -2002682906, "hex": "0x88A17BE6" },
+    {
+        "name": "cs_escapeartistassistant",
+        "hash": -1835251821,
+        "hex": "0x929C4793"
+    },
+    { "name": "cs_evelynmiller", "hash": 743219360, "hex": "0x2C4CA0A0" },
+    { "name": "cs_exconfedinformant", "hash": -253049070, "hex": "0xF0EAC712" },
+    { "name": "cs_exconfedsleader_01", "hash": 300505615, "hex": "0x11E95A0F" },
+    { "name": "cs_exoticcollector", "hash": 1507038616, "hex": "0x59D39598" },
+    {
+        "name": "cs_famousgunslinger_01",
+        "hash": -98087368,
+        "hex": "0xFA274E38"
+    },
+    {
+        "name": "cs_famousgunslinger_02",
+        "hash": 1347320453,
+        "hex": "0x504E7A85"
+    },
+    {
+        "name": "cs_famousgunslinger_03",
+        "hash": -558131359,
+        "hex": "0xDEBB9761"
+    },
+    {
+        "name": "cs_famousgunslinger_04",
+        "hash": 351634388,
+        "hex": "0x14F583D4"
+    },
+    {
+        "name": "cs_famousgunslinger_05",
+        "hash": 594026681,
+        "hex": "0x236820B9"
+    },
+    {
+        "name": "cs_famousgunslinger_06",
+        "hash": 2042088799,
+        "hex": "0x79B7CD5F"
+    },
+    {
+        "name": "cs_featherstonchambers",
+        "hash": -1925758912,
+        "hex": "0x8D374040"
+    },
+    { "name": "cs_featsofstrength", "hash": -1922688829, "hex": "0x8D6618C3" },
+    { "name": "cs_fightref", "hash": 1395690358, "hex": "0x53308B76" },
+    { "name": "cs_fire_breather", "hash": -354592894, "hex": "0xEADD5782" },
+    { "name": "cs_fishcollector", "hash": 1514128030, "hex": "0x5A3FC29E" },
+    {
+        "name": "cs_forgivenhusband_01",
+        "hash": 1643370744,
+        "hex": "0x61F3D8F8"
+    },
+    { "name": "cs_forgivenwife_01", "hash": -747792496, "hex": "0xD36D9790" },
+    { "name": "cs_formyartbigwoman", "hash": -1270572406, "hex": "0xB4449A8A" },
+    { "name": "cs_francis_sinclair", "hash": -1774921803, "hex": "0x9634D7B5" },
+    { "name": "cs_frenchartist", "hash": -670436990, "hex": "0xD809F182" },
+    { "name": "cs_frenchman_01", "hash": -229065721, "hex": "0xF258BC07" },
+    { "name": "cs_fussar", "hash": -1920451728, "hex": "0x8D883B70" },
+    {
+        "name": "cs_garethbraithwaite",
+        "hash": -1769295812,
+        "hex": "0x968AB03C"
+    },
+    { "name": "cs_gavin", "hash": 1281122482, "hex": "0x4C5C60B2" },
+    { "name": "cs_genstoryfemale", "hash": 1020041649, "hex": "0x3CCC99B1" },
+    { "name": "cs_genstorymale", "hash": -639059862, "hex": "0xD9E8B86A" },
+    {
+        "name": "cs_geraldbraithwaite",
+        "hash": -1154137714,
+        "hex": "0xBB35418E"
+    },
+    { "name": "cs_germandaughter", "hash": 972892334, "hex": "0x39FD28AE" },
+    { "name": "cs_germanfather", "hash": 1376100934, "hex": "0x5205A246" },
+    { "name": "cs_germanmother", "hash": 1998496121, "hex": "0x771EA179" },
+    { "name": "cs_germanson", "hash": 224310170, "hex": "0x0D5EB39A" },
+    { "name": "cs_gilbertknightly", "hash": -508339389, "hex": "0xE1B35B43" },
+    { "name": "cs_gloria", "hash": -1688959031, "hex": "0x9B5487C9" },
+    { "name": "cs_grizzledjon", "hash": -1112260815, "hex": "0xBDB43F31" },
+    { "name": "cs_guidomartelli", "hash": -1629501717, "hex": "0x9EDFC6EB" },
+    { "name": "cs_hamish", "hash": 1829259280, "hex": "0x6D084810" },
+    { "name": "cs_hectorfellowes", "hash": 1837845433, "hex": "0x6D8B4BB9" },
+    { "name": "cs_henrilemiux", "hash": 808601893, "hex": "0x30324925" },
+    { "name": "cs_herbalist", "hash": 207636298, "hex": "0x0C60474A" },
+    { "name": "cs_hercule", "hash": 1276534479, "hex": "0x4C165ECF" },
+    { "name": "cs_hestonjameson", "hash": -1520417507, "hex": "0xA560451D" },
+    { "name": "cs_hobartcrawley", "hash": -1329383517, "hex": "0xB0C337A3" },
+    { "name": "cs_hoseamatthews", "hash": 1225208808, "hex": "0x490733E8" },
+    { "name": "cs_iangray", "hash": -2012656841, "hex": "0x88094B37" },
+    { "name": "cs_jackmarston", "hash": 1912073755, "hex": "0x71F7EE1B" },
+    { "name": "cs_jackmarston_teen", "hash": -631664452, "hex": "0xDA5990BC" },
+    { "name": "cs_jamie", "hash": 4991732, "hex": "0x004C2AF4" },
+    { "name": "cs_janson", "hash": -756996682, "hex": "0xD2E125B6" },
+    { "name": "cs_javierescuella", "hash": 1843625996, "hex": "0x6DE3800C" },
+    { "name": "cs_jeb", "hash": 1430843881, "hex": "0x5548F1E9" },
+    { "name": "cs_jimcalloway", "hash": 1815090590, "hex": "0x6C30159E" },
+    { "name": "cs_jockgray", "hash": -1646049752, "hex": "0x9DE34628" },
+    { "name": "cs_joe", "hash": -446093729, "hex": "0xE569265F" },
+    { "name": "cs_joebutler", "hash": 1419055257, "hex": "0x54951099" },
+    { "name": "cs_johnmarston", "hash": 95866989, "hex": "0x05B6D06D" },
+    {
+        "name": "cs_johnthebaptisingmadman",
+        "hash": 1143979484,
+        "hex": "0x442FBDDC"
+    },
+    { "name": "cs_johnweathers", "hash": 2100656433, "hex": "0x7D357931" },
+    { "name": "cs_josiahtrelawny", "hash": 1006468445, "hex": "0x3BFD7D5D" },
+    { "name": "cs_jules", "hash": -1258801034, "hex": "0xB4F83876" },
+    { "name": "cs_karen", "hash": -1707202053, "hex": "0x9A3E29FB" },
+    { "name": "cs_karensjohn_01", "hash": 20251888, "hex": "0x013504F0" },
+    { "name": "cs_kieran", "hash": 1939579094, "hex": "0x739BA0D6" },
+    { "name": "cs_laramie", "hash": -1076294934, "hex": "0xBFD90AEA" },
+    { "name": "cs_leighgray", "hash": -1745321414, "hex": "0x97F8823A" },
+    { "name": "cs_lemiuxassistant", "hash": 988668512, "hex": "0x3AEDE260" },
+    { "name": "cs_lenny", "hash": -122790003, "hex": "0xF8AE5F8D" },
+    { "name": "cs_leon", "hash": -920985758, "hex": "0xC91ADF62" },
+    { "name": "cs_leostrauss", "hash": -100461901, "hex": "0xFA0312B3" },
+    { "name": "cs_levisimon", "hash": 1294255258, "hex": "0x4D24C49A" },
+    {
+        "name": "cs_leviticuscornwall",
+        "hash": -1977628089,
+        "hex": "0x8A1FCA47"
+    },
+    { "name": "cs_lillianpowell", "hash": 426274298, "hex": "0x19686DFA" },
+    { "name": "cs_lillymillet", "hash": 1439158431, "hex": "0x55C7D09F" },
+    { "name": "cs_londonderryson", "hash": 1304311224, "hex": "0x4DBE35B8" },
+    { "name": "cs_lucanapoli", "hash": 2000903921, "hex": "0x77435EF1" },
+    { "name": "cs_magnifico", "hash": 1599685341, "hex": "0x5F5942DD" },
+    { "name": "cs_mamawatson", "hash": 1265552111, "hex": "0x4B6ECAEF" },
+    { "name": "cs_marshall_thurwell", "hash": 960530301, "hex": "0x3940877D" },
+    { "name": "cs_marybeth", "hash": -1690877284, "hex": "0x9B37429C" },
+    { "name": "cs_marylinton", "hash": 1051047356, "hex": "0x3EA5B5BC" },
+    { "name": "cs_meditatingmonk", "hash": -263328130, "hex": "0xF04DEE7E" },
+    { "name": "cs_meredith", "hash": -1070459848, "hex": "0xC0321438" },
+    { "name": "cs_meredithsmother", "hash": 823321772, "hex": "0x3112E4AC" },
+    { "name": "cs_micahbell", "hash": -566878875, "hex": "0xDE361D65" },
+    { "name": "cs_micahsnemesis", "hash": -489515861, "hex": "0xE2D294AB" },
+    { "name": "cs_mickey", "hash": -1579174863, "hex": "0xA1DFB431" },
+    { "name": "cs_miltonandrews", "hash": 16796454, "hex": "0x01004B26" },
+    { "name": "cs_missmarjorie", "hash": -2053326164, "hex": "0x859CBAAC" },
+    { "name": "cs_mixedracekid", "hash": -71527226, "hex": "0xFBBC94C6" },
+    { "name": "cs_moira", "hash": -1683311290, "hex": "0x9BAAB546" },
+    { "name": "cs_mollyoshea", "hash": -346700962, "hex": "0xEB55C35E" },
+    { "name": "cs_mp_alfredo_montez", "hash": 1279543482, "hex": "0x4C4448BA" },
+    { "name": "cs_mp_allison", "hash": -1826684443, "hex": "0x931F01E5" },
+    { "name": "cs_mp_amos_lansing", "hash": 819999946, "hex": "0x30E034CA" },
+    { "name": "cs_mp_bonnie", "hash": 960851950, "hex": "0x39456FEE" },
+    { "name": "cs_mp_bountyhunter", "hash": -1993784123, "hex": "0x892944C5" },
+    { "name": "CS_MP_CAMP_COOK", "hash": -1619564045, "hex": "0x9F7769F3" },
+    { "name": "cs_mp_cliff", "hash": -354573716, "hex": "0xEADDA26C" },
+    { "name": "cs_mp_cripps", "hash": 500320009, "hex": "0x1DD24709" },
+    { "name": "cs_mp_grace_lancing", "hash": 752503573, "hex": "0x2CDA4B15" },
+    { "name": "cs_mp_hans", "hash": -1992397275, "hex": "0x893E6E25" },
+    { "name": "cs_mp_henchman", "hash": -625508879, "hex": "0xDAB77DF1" },
+    { "name": "cs_mp_horley", "hash": 1274804226, "hex": "0x4BFBF802" },
+    { "name": "cs_mp_jeremiah_shaw", "hash": 786364909, "hex": "0x2EDEF9ED" },
+    { "name": "cs_mp_jessica", "hash": 1802870203, "hex": "0x6B759DBB" },
+    { "name": "cs_mp_jorge_montez", "hash": -1946673806, "hex": "0x8BF81D72" },
+    { "name": "cs_mp_langston", "hash": -1711211658, "hex": "0x9A00FB76" },
+    { "name": "cs_mp_lee", "hash": 1977396466, "hex": "0x75DCACF2" },
+    { "name": "cs_mp_mabel", "hash": -1187204055, "hex": "0xB93CB429" },
+    {
+        "name": "cs_mp_marshall_davies",
+        "hash": -498915374,
+        "hex": "0xE24327D2"
+    },
+    { "name": "cs_mp_moonshiner", "hash": 1707414937, "hex": "0x65C51599" },
+    { "name": "cs_mp_mradler", "hash": -1557783539, "hex": "0xA3261C0D" },
+    { "name": "cs_mp_oldman_jones", "hash": -394271395, "hex": "0xE87FE55D" },
+    {
+        "name": "cs_mp_revenge_marshall",
+        "hash": 1162464416,
+        "hex": "0x4549CCA0"
+    },
+    { "name": "cs_mp_samson_finch", "hash": -413671895, "hex": "0xE757DE29" },
+    { "name": "cs_mp_shaky", "hash": -1707666515, "hex": "0x9A3713AD" },
+    { "name": "cs_mp_sherifffreeman", "hash": 682499315, "hex": "0x28AE1CF3" },
+    { "name": "cs_mp_teddybrown", "hash": -1155520715, "hex": "0xBB202735" },
+    { "name": "cs_mp_terrance", "hash": -1284522402, "hex": "0xB36FBE5E" },
+    { "name": "cs_mp_the_boy", "hash": 78936512, "hex": "0x04B479C0" },
+    {
+        "name": "cs_mp_travellingsaleswoman",
+        "hash": -503032343,
+        "hex": "0xE20455E9"
+    },
+    { "name": "cs_mp_went", "hash": -1265179653, "hex": "0xB496E3FB" },
+    { "name": "cs_mradler", "hash": -1423504183, "hex": "0xAB270CC9" },
+    { "name": "cs_mrdevon", "hash": -1466017978, "hex": "0xA89E5746" },
+    { "name": "cs_mrlinton", "hash": -272634447, "hex": "0xEFBFEDB1" },
+    { "name": "cs_mrpearson", "hash": 984264800, "hex": "0x3AAAB060" },
+    { "name": "cs_mrsadler", "hash": 358502875, "hex": "0x155E51DB" },
+    { "name": "cs_mrs_calhoun", "hash": 1149349599, "hex": "0x4481AEDF" },
+    { "name": "cs_mrsfellows", "hash": 716675958, "hex": "0x2AB79B76" },
+    { "name": "cs_mrsgeddes", "hash": -272492171, "hex": "0xEFC21975" },
+    { "name": "cs_mrslondonderry", "hash": 1367851675, "hex": "0x5187C29B" },
+    { "name": "cs_mrs_sinclair", "hash": 1656830110, "hex": "0x62C1389E" },
+    { "name": "cs_mrsweathers", "hash": -17071680, "hex": "0xFEFB81C0" },
+    { "name": "cs_mrwayne", "hash": 1101050871, "hex": "0x41A0B3F7" },
+    { "name": "cs_mud2bigguy", "hash": -2075588078, "hex": "0x84490A12" },
+    {
+        "name": "cs_mysteriousstranger",
+        "hash": -161553439,
+        "hex": "0xF65EE3E1"
+    },
+    { "name": "cs_nbxdrunk", "hash": 1966444740, "hex": "0x753590C4" },
+    { "name": "cs_nbxexecuted", "hash": 2041494024, "hex": "0x79AEBA08" },
+    {
+        "name": "cs_nbxpolicechiefformal",
+        "hash": -1047115350,
+        "hex": "0xC19649AA"
+    },
+    {
+        "name": "cs_nbxreceptionist_01",
+        "hash": -1049237750,
+        "hex": "0xC175E70A"
+    },
+    { "name": "cs_nial_whelan", "hash": -1291535539, "hex": "0xB304BB4D" },
+    { "name": "cs_nicholastimmins", "hash": 1234550949, "hex": "0x4995C0A5" },
+    { "name": "cs_nils", "hash": 51410678, "hex": "0x031076F6" },
+    { "name": "cs_norrisforsythe", "hash": -1263119823, "hex": "0xB4B65231" },
+    { "name": "cs_obediahhinton", "hash": 68512371, "hex": "0x04156A73" },
+    {
+        "name": "cs_oddfellowspinhead",
+        "hash": -1458432563,
+        "hex": "0xA91215CD"
+    },
+    { "name": "cs_odprostitute", "hash": 1649972612, "hex": "0x62589584" },
+    { "name": "cs_operasinger", "hash": 1526765868, "hex": "0x5B00992C" },
+    { "name": "cs_paytah", "hash": -1135378761, "hex": "0xBC537EB7" },
+    {
+        "name": "cs_penelopebraithwaite",
+        "hash": -2045269112,
+        "hex": "0x8617AB88"
+    },
+    { "name": "cs_pinkertongoon", "hash": -1603909164, "hex": "0xA06649D4" },
+    { "name": "cs_poisonwellshaman", "hash": 774211111, "hex": "0x2E258627" },
+    { "name": "cs_poorjoe", "hash": 434730246, "hex": "0x19E97506" },
+    { "name": "cs_priest_wedding", "hash": -580975805, "hex": "0xDD5F0343" },
+    { "name": "cs_princessisabeau", "hash": -1980150291, "hex": "0x89F94DED" },
+    { "name": "cs_professorbell", "hash": 2115504616, "hex": "0x7E1809E8" },
+    { "name": "cs_rainsfall", "hash": -2046943672, "hex": "0x85FE1E48" },
+    { "name": "cs_ramon_cortez", "hash": 2096716952, "hex": "0x7CF95C98" },
+    {
+        "name": "cs_reverendfortheringham",
+        "hash": 1701730764,
+        "hex": "0x656E59CC"
+    },
+    { "name": "cs_revswanson", "hash": 1618031732, "hex": "0x60713474" },
+    { "name": "cs_rhodeputy_01", "hash": -944019243, "hex": "0xC7BB68D5" },
+    { "name": "cs_rhodeputy_02", "hash": 1479772615, "hex": "0x583389C7" },
+    { "name": "cs_rhodesassistant", "hash": 2001384088, "hex": "0x774AB298" },
+    { "name": "cs_rhodeskidnapvictim", "hash": 254009656, "hex": "0x0F23E138" },
+    {
+        "name": "cs_rhodessaloonbouncer",
+        "hash": 2141515026,
+        "hex": "0x7FA4ED12"
+    },
+    { "name": "cs_ringmaster", "hash": 1999476738, "hex": "0x772D9802" },
+    { "name": "cs_rockyseven_widow", "hash": -140869950, "hex": "0xF79A7EC2" },
+    { "name": "cs_samaritan", "hash": -265719023, "hex": "0xF0297311" },
+    { "name": "cs_scottgray", "hash": -814357706, "hex": "0xCF75E336" },
+    { "name": "cs_sddoctor_01", "hash": -820854800, "hex": "0xCF12BFF0" },
+    { "name": "cs_sdpriest", "hash": -454661055, "hex": "0xE4E66C41" },
+    { "name": "cs_sdsaloondrunk_01", "hash": 1841492722, "hex": "0x6DC2F2F2" },
+    { "name": "cs_sd_streetkid_01", "hash": -290265603, "hex": "0xEEB2E5FD" },
+    { "name": "cs_sd_streetkid_01a", "hash": 1737391264, "hex": "0x678E7CA0" },
+    { "name": "cs_sd_streetkid_01b", "hash": 844370484, "hex": "0x32541234" },
+    { "name": "cs_sd_streetkid_02", "hash": 1861707396, "hex": "0x6EF76684" },
+    { "name": "cs_sdstreetkidthief", "hash": 254234482, "hex": "0x0F274F72" },
+    { "name": "cs_sean", "hash": -522739022, "hex": "0xE0D7A2B2" },
+    { "name": "cs_sherifffreeman", "hash": -1047359107, "hex": "0xC192917D" },
+    { "name": "cs_sheriffowens", "hash": -823649241, "hex": "0xCEE81C27" },
+    { "name": "cs_sistercalderon", "hash": -2086875988, "hex": "0x839CCCAC" },
+    { "name": "cs_slavecatcher", "hash": -373817191, "hex": "0xE9B80099" },
+    { "name": "cs_soothsayer", "hash": 1372065533, "hex": "0x51C80EFD" },
+    {
+        "name": "cs_strawberryoutlaw_01",
+        "hash": 1266592839,
+        "hex": "0x4B7EAC47"
+    },
+    {
+        "name": "cs_strawberryoutlaw_02",
+        "hash": -1714108174,
+        "hex": "0x99D4C8F2"
+    },
+    { "name": "cs_strdeputy_01", "hash": -1483559144, "hex": "0xA792AF18" },
+    { "name": "cs_strdeputy_02", "hash": -572941403, "hex": "0xDDD99BA5" },
+    { "name": "cs_strsheriff_01", "hash": -2081966149, "hex": "0x83E7B7BB" },
+    { "name": "cs_sunworshipper", "hash": 426596400, "hex": "0x196D5830" },
+    { "name": "cs_susangrimshaw", "hash": 1695129705, "hex": "0x6509A069" },
+    { "name": "cs_swampfreak", "hash": -1448924971, "hex": "0xA9A328D5" },
+    { "name": "cs_swampweirdosonny", "hash": -2019245895, "hex": "0x87A4C0B9" },
+    { "name": "cs_sworddancer", "hash": -1772823089, "hex": "0x9654DDCF" },
+    { "name": "cs_tavishgray", "hash": 1407740785, "hex": "0x53E86B71" },
+    { "name": "cs_taxidermist", "hash": 563170881, "hex": "0x21914E41" },
+    { "name": "cs_theodorelevin", "hash": 1231309423, "hex": "0x49644A6F" },
+    { "name": "cs_thomasdown", "hash": 65010948, "hex": "0x03DFFD04" },
+    { "name": "cs_tigerhandler", "hash": -695175124, "hex": "0xD690782C" },
+    { "name": "cs_tilly", "hash": 1038525765, "hex": "0x3DE6A545" },
+    { "name": "cs_timothydonahue", "hash": -2006398858, "hex": "0x8868C876" },
+    { "name": "cs_tinyhermit", "hash": -2007761031, "hex": "0x8853FF79" },
+    { "name": "cs_tomdickens", "hash": -1161832176, "hex": "0xBABFD910" },
+    { "name": "cs_towncrier", "hash": 323324563, "hex": "0x13458A93" },
+    { "name": "cs_treasurehunter", "hash": 989172200, "hex": "0x3AF591E8" },
+    { "name": "cs_twinbrother_01", "hash": 907019741, "hex": "0x361005DD" },
+    { "name": "cs_twinbrother_02", "hash": -1533320518, "hex": "0xA49B62BA" },
+    { "name": "cs_twingroupie_01", "hash": -46389610, "hex": "0xFD3C2696" },
+    { "name": "cs_twingroupie_02", "hash": -343178443, "hex": "0xEB8B8335" },
+    { "name": "cs_uncle", "hash": -969464097, "hex": "0xC63726DF" },
+    { "name": "cs_unidusterjail_01", "hash": -2014377075, "hex": "0x87EF0B8D" },
+    { "name": "cs_valauctionboss_01", "hash": 1891548111, "hex": "0x70BEBBCF" },
+    { "name": "cs_valdeputy_01", "hash": 1812458547, "hex": "0x6C07EC33" },
+    { "name": "cs_valprayingman", "hash": 1092921608, "hex": "0x4124A908" },
+    { "name": "cs_valprostitute_01", "hash": 979645508, "hex": "0x3A643444" },
+    { "name": "cs_valprostitute_02", "hash": 729192041, "hex": "0x2B769669" },
+    { "name": "cs_valsheriff", "hash": -1884146832, "hex": "0x8FB23370" },
+    { "name": "cs_vampire", "hash": -648295555, "hex": "0xD95BCB7D" },
+    { "name": "cs_vht_bathgirl", "hash": 913841068, "hex": "0x36781BAC" },
+    { "name": "cs_wapitiboy", "hash": -83201150, "hex": "0xFB0A7382" },
+    { "name": "cs_warvet", "hash": -1676898583, "hex": "0x9C0C8EE9" },
+    { "name": "cs_watson_01", "hash": 1766039305, "hex": "0x69439F09" },
+    { "name": "cs_watson_02", "hash": -1944656721, "hex": "0x8C16E4AF" },
+    { "name": "cs_watson_03", "hash": 1156568686, "hex": "0x44EFD66E" },
+    { "name": "cs_welshfighter", "hash": 48786865, "hex": "0x02E86DB1" },
+    { "name": "cs_wintonholmes", "hash": 54030454, "hex": "0x03387076" },
+    { "name": "cs_wrobel", "hash": -1101883765, "hex": "0xBE52968B" },
+    { "name": "female_skeleton", "hash": 226182679, "hex": "0x0D7B4617" },
+    {
+        "name": "gc_lemoynecaptive_males_01",
+        "hash": -2035029611,
+        "hex": "0x86B3E995"
+    },
+    {
+        "name": "gc_skinnertorture_males_01",
+        "hash": -1944205518,
+        "hex": "0x8C1DC732"
+    },
+    {
+        "name": "ge_delloboparty_females_01",
+        "hash": 1894002663,
+        "hex": "0x70E42FE7"
+    },
+    { "name": "g_f_m_uniduster_01", "hash": 861896523, "hex": "0x335F7F4B" },
+    {
+        "name": "g_m_m_bountyhunters_01",
+        "hash": 427032133,
+        "hex": "0x1973FE45"
+    },
+    {
+        "name": "g_m_m_uniafricanamericangang_01",
+        "hash": -1154205140,
+        "hex": "0xBB343A2C"
+    },
+    { "name": "g_m_m_unibanditos_01", "hash": 424175505, "hex": "0x19486791" },
+    {
+        "name": "g_m_m_unibraithwaites_01",
+        "hash": 731029607,
+        "hex": "0x2B92A067"
+    },
+    {
+        "name": "g_m_m_unibrontegoons_01",
+        "hash": 1478983280,
+        "hex": "0x58277E70"
+    },
+    {
+        "name": "g_m_m_unicornwallgoons_01",
+        "hash": -1818007055,
+        "hex": "0x93A369F1"
+    },
+    {
+        "name": "g_m_m_unicriminals_01",
+        "hash": 1057570823,
+        "hex": "0x3F094007"
+    },
+    {
+        "name": "g_m_m_unicriminals_02",
+        "hash": -1990962020,
+        "hex": "0x8954549C"
+    },
+    { "name": "g_m_m_uniduster_01", "hash": 347599949, "hex": "0x14B7F44D" },
+    { "name": "g_m_m_uniduster_02", "hash": 50483426, "hex": "0x030250E2" },
+    { "name": "g_m_m_uniduster_03", "hash": -1273613561, "hex": "0xB4163307" },
+    { "name": "g_m_m_uniduster_04", "hash": -763072541, "hex": "0xD2846FE3" },
+    { "name": "g_m_m_uniduster_05", "hash": 1336863290, "hex": "0x4FAEEA3A" },
+    { "name": "g_m_m_unigrays_01", "hash": 367739382, "hex": "0x15EB41F6" },
+    { "name": "g_m_m_unigrays_02", "hash": 128034147, "hex": "0x07A1A563" },
+    { "name": "g_m_m_uniinbred_01", "hash": 363815774, "hex": "0x15AF635E" },
+    {
+        "name": "g_m_m_unilangstonboys_01",
+        "hash": 1531244376,
+        "hex": "0x5B44EF58"
+    },
+    {
+        "name": "g_m_m_unimicahgoons_01",
+        "hash": 265884691,
+        "hex": "0x0FD91413"
+    },
+    {
+        "name": "g_m_m_unimountainmen_01",
+        "hash": -1421951598,
+        "hex": "0xAB3EBD92"
+    },
+    {
+        "name": "g_m_m_uniranchers_01",
+        "hash": -1090280091,
+        "hex": "0xBF03A565"
+    },
+    { "name": "g_m_m_uniswamp_01", "hash": -535404896, "hex": "0xE0165EA0" },
+    {
+        "name": "g_m_o_uniexconfeds_01",
+        "hash": -355385988,
+        "hex": "0xEAD13D7C"
+    },
+    {
+        "name": "g_m_y_uniexconfeds_01",
+        "hash": -628956517,
+        "hex": "0xDA82E29B"
+    },
+    {
+        "name": "g_m_y_uniexconfeds_02",
+        "hash": -969819655,
+        "hex": "0xC631B9F9"
+    },
+    {
+        "name": "loansharking_asbminer_males_01",
+        "hash": -1453950896,
+        "hex": "0xA9567850"
+    },
+    {
+        "name": "loansharking_horsechase1_males_01",
+        "hash": -1646777083,
+        "hex": "0x9DD82D05"
+    },
+    {
+        "name": "loansharking_undertaker_females_01",
+        "hash": 1316034839,
+        "hex": "0x4E711917"
+    },
+    {
+        "name": "loansharking_undertaker_males_01",
+        "hash": 1740639739,
+        "hex": "0x67C00DFB"
+    },
+    { "name": "male_skeleton", "hash": -537983218, "hex": "0xDFEF070E" },
+    {
+        "name": "mbh_rhodesrancher_females_01",
+        "hash": -994025462,
+        "hex": "0xC4C0600A"
+    },
+    {
+        "name": "mbh_rhodesrancher_teens_01",
+        "hash": 1594496117,
+        "hex": "0x5F0A1475"
+    },
+    {
+        "name": "mbh_skinnersearch_males_01",
+        "hash": -548778324,
+        "hex": "0xDF4A4EAC"
+    },
+    { "name": "mcclellan_saddle_01", "hash": 504815779, "hex": "0x1E16E0A3" },
+    {
+        "name": "mes_abigail2_males_01",
+        "hash": 1948152900,
+        "hex": "0x741E7444"
+    },
+    {
+        "name": "mes_finale2_females_01",
+        "hash": -1209948823,
+        "hex": "0xB7E1A569"
+    },
+    { "name": "mes_finale2_males_01", "hash": 677480263, "hex": "0x28618747" },
+    { "name": "mes_finale3_males_01", "hash": 949642477, "hex": "0x389A64ED" },
+    {
+        "name": "mes_marston1_males_01",
+        "hash": 1161833594,
+        "hex": "0x45402C7A"
+    },
+    {
+        "name": "mes_marston2_males_01",
+        "hash": -1726458124,
+        "hex": "0x991856F4"
+    },
+    {
+        "name": "mes_marston5_2_males_01",
+        "hash": 1048804699,
+        "hex": "0x3E837D5B"
+    },
+    {
+        "name": "mes_marston6_females_01",
+        "hash": 29407634,
+        "hex": "0x01C0B992"
+    },
+    {
+        "name": "mes_marston6_males_01",
+        "hash": 2078718440,
+        "hex": "0x7BE6B9E8"
+    },
+    { "name": "mes_marston6_teens_01", "hash": 501744437, "hex": "0x1DE80335" },
+    { "name": "mes_sadie4_males_01", "hash": 1958238057, "hex": "0x74B85769" },
+    { "name": "mes_sadie5_males_01", "hash": 167491564, "hex": "0x09FBB7EC" },
+    {
+        "name": "motherhubbard_saddle_01",
+        "hash": -344240309,
+        "hex": "0xEB7B4F4B"
+    },
+    {
+        "name": "MP_A_C_HORSECORPSE_01",
+        "hash": 1482686671,
+        "hex": "0x586000CF"
+    },
+    {
+        "name": "MP_A_F_M_CARDGAMEPLAYERS_01",
+        "hash": -294911754,
+        "hex": "0xEE6C00F6"
+    },
+    { "name": "MP_A_F_M_UniCorpse_01", "hash": 937367983, "hex": "0x37DF19AF" },
+    {
+        "name": "MP_A_M_M_LABORUPRISERS_01",
+        "hash": -939660848,
+        "hex": "0xC7FDE9D0"
+    },
+    {
+        "name": "MP_A_M_M_UniCorpse_01",
+        "hash": -2105110696,
+        "hex": "0x82868F58"
+    },
+    {
+        "name": "MP_ASN_BENEDICTPOINT_FEMALES_01",
+        "hash": -485685256,
+        "hex": "0xE30D07F8"
+    },
+    {
+        "name": "MP_ASN_BENEDICTPOINT_MALES_01",
+        "hash": -1891400204,
+        "hex": "0x8F4385F4"
+    },
+    {
+        "name": "MP_ASN_BLACKWATER_MALES_01",
+        "hash": -1707932915,
+        "hex": "0x9A33030D"
+    },
+    {
+        "name": "MP_ASN_BRAITHWAITEMANOR_MALES_01",
+        "hash": -13708041,
+        "hex": "0xFF2ED4F7"
+    },
+    {
+        "name": "MP_ASN_BRAITHWAITEMANOR_MALES_02",
+        "hash": -1494244226,
+        "hex": "0xA6EFA47E"
+    },
+    {
+        "name": "MP_ASN_BRAITHWAITEMANOR_MALES_03",
+        "hash": -1582786064,
+        "hex": "0xA1A899F0"
+    },
+    {
+        "name": "MP_ASN_CIVILWARFORT_MALES_01",
+        "hash": 360055996,
+        "hex": "0x157604BC"
+    },
+    {
+        "name": "MP_ASN_GAPTOOTHBREACH_MALES_01",
+        "hash": 976345333,
+        "hex": "0x3A31D8F5"
+    },
+    {
+        "name": "MP_ASN_PikesBasin_Males_01",
+        "hash": -2082655850,
+        "hex": "0x83DD3196"
+    },
+    {
+        "name": "MP_ASN_SDPOLICESTATION_MALES_01",
+        "hash": 1976775007,
+        "hex": "0x75D3315F"
+    },
+    {
+        "name": "MP_ASN_SDWEDDING_FEMALES_01",
+        "hash": -1606331738,
+        "hex": "0xA04152A6"
+    },
+    {
+        "name": "MP_ASN_SDWEDDING_MALES_01",
+        "hash": -350312914,
+        "hex": "0xEB1EA62E"
+    },
+    {
+        "name": "MP_ASN_SHADYBELLE_FEMALES_01",
+        "hash": 1262542833,
+        "hex": "0x4B40DFF1"
+    },
+    {
+        "name": "MP_ASN_STILLWATER_MALES_01",
+        "hash": -1160757008,
+        "hex": "0xBAD040F0"
+    },
+    {
+        "name": "MP_ASNTRK_ELYSIANPOOL_MALES_01",
+        "hash": -1753896431,
+        "hex": "0x9775AA11"
+    },
+    {
+        "name": "mp_ASNTRK_GRIZZLIESWEST_MALES_01",
+        "hash": -1462276114,
+        "hex": "0xA8D76FEE"
+    },
+    {
+        "name": "MP_ASNTRK_HAGENORCHARD_MALES_01",
+        "hash": 1866188001,
+        "hex": "0x6F3BC4E1"
+    },
+    {
+        "name": "MP_ASNTRK_ISABELLA_MALES_01",
+        "hash": -372969613,
+        "hex": "0xE9C4EF73"
+    },
+    {
+        "name": "MP_ASNTRK_TALLTREES_MALES_01",
+        "hash": 1629647619,
+        "hex": "0x61227303"
+    },
+    {
+        "name": "MP_CAMPDEF_BLUEWATER_FEMALES_01",
+        "hash": 2045136657,
+        "hex": "0x79E64F11"
+    },
+    {
+        "name": "MP_CAMPDEF_BLUEWATER_MALES_01",
+        "hash": -764739432,
+        "hex": "0xD26B0098"
+    },
+    {
+        "name": "MP_CAMPDEF_CHOLLASPRINGS_FEMALES_01",
+        "hash": -2111666905,
+        "hex": "0x82228527"
+    },
+    {
+        "name": "MP_CAMPDEF_CHOLLASPRINGS_MALES_01",
+        "hash": -1322714751,
+        "hex": "0xB128F981"
+    },
+    {
+        "name": "MP_CAMPDEF_EASTNEWHANOVER_FEMALES_01",
+        "hash": -1850956368,
+        "hex": "0x91ACA5B0"
+    },
+    {
+        "name": "mp_campdef_EASTNEWHANOVER_MALES_01",
+        "hash": 1328901957,
+        "hex": "0x4F356F45"
+    },
+    {
+        "name": "MP_CAMPDEF_GAPTOOTHBREACH_FEMALES_01",
+        "hash": -238890053,
+        "hex": "0xF1C2D3BB"
+    },
+    {
+        "name": "MP_CAMPDEF_GAPTOOTHBREACH_MALES_01",
+        "hash": -1428936406,
+        "hex": "0xAAD4292A"
+    },
+    {
+        "name": "MP_CAMPDEF_GAPTOOTHRIDGE_FEMALES_01",
+        "hash": 563561429,
+        "hex": "0x219743D5"
+    },
+    {
+        "name": "MP_CAMPDEF_GAPTOOTHRIDGE_MALES_01",
+        "hash": -1241586158,
+        "hex": "0xB5FEE612"
+    },
+    {
+        "name": "MP_CAMPDEF_GREATPLAINS_MALES_01",
+        "hash": -1045023714,
+        "hex": "0xC1B6341E"
+    },
+    {
+        "name": "mp_CAMPDEF_GRIZZLIES_MALES_01",
+        "hash": 1413417056,
+        "hex": "0x543F0860"
+    },
+    {
+        "name": "MP_CAMPDEF_HEARTLANDS1_MALES_01",
+        "hash": 1197672138,
+        "hex": "0x476306CA"
+    },
+    {
+        "name": "MP_CAMPDEF_HEARTLANDS2_FEMALES_01",
+        "hash": -819975310,
+        "hex": "0xCF202B72"
+    },
+    {
+        "name": "MP_CAMPDEF_HEARTLANDS2_MALES_01",
+        "hash": 994493568,
+        "hex": "0x3B46C480"
+    },
+    {
+        "name": "MP_CAMPDEF_HENNIGANS_FEMALES_01",
+        "hash": 1097257967,
+        "hex": "0x4166D3EF"
+    },
+    {
+        "name": "MP_CAMPDEF_HENNIGANS_MALES_01",
+        "hash": 1650015176,
+        "hex": "0x62593BC8"
+    },
+    {
+        "name": "MP_CAMPDEF_LITTLECREEK_FEMALES_01",
+        "hash": -173909378,
+        "hex": "0xF5A25A7E"
+    },
+    {
+        "name": "MP_CAMPDEF_LITTLECREEK_MALES_01",
+        "hash": -188047329,
+        "hex": "0xF4CAA01F"
+    },
+    {
+        "name": "MP_CAMPDEF_RADLEYSPASTURE_FEMALES_01",
+        "hash": -445472684,
+        "hex": "0xE572A054"
+    },
+    {
+        "name": "mp_CAMPDEF_RADLEYSPASTURE_MALES_01",
+        "hash": 1246122565,
+        "hex": "0x4A465245"
+    },
+    {
+        "name": "MP_CAMPDEF_RIOBRAVO_FEMALES_01",
+        "hash": -992268031,
+        "hex": "0xC4DB3101"
+    },
+    {
+        "name": "MP_CAMPDEF_RIOBRAVO_MALES_01",
+        "hash": 1558272569,
+        "hex": "0x5CE15A39"
+    },
+    {
+        "name": "MP_CAMPDEF_ROANOKE_FEMALES_01",
+        "hash": -362236926,
+        "hex": "0xEA68B402"
+    },
+    {
+        "name": "MP_CAMPDEF_ROANOKE_MALES_01",
+        "hash": 610745168,
+        "hex": "0x24673B50"
+    },
+    {
+        "name": "MP_CAMPDEF_TALLTREES_FEMALES_01",
+        "hash": 1443406370,
+        "hex": "0x5608A222"
+    },
+    {
+        "name": "MP_CAMPDEF_TALLTREES_MALES_01",
+        "hash": -735449351,
+        "hex": "0xD429EEF9"
+    },
+    {
+        "name": "MP_CAMPDEF_TWOROCKS_FEMALES_01",
+        "hash": -1335913022,
+        "hex": "0xB05F95C2"
+    },
+    {
+        "name": "MP_CHU_KID_ARMADILLO_MALES_01",
+        "hash": 551145983,
+        "hex": "0x20D9D1FF"
+    },
+    {
+        "name": "MP_CHU_KID_DIABLORIDGE_MALES_01",
+        "hash": -796803042,
+        "hex": "0xD081C01E"
+    },
+    {
+        "name": "MP_CHU_KID_EMRSTATION_MALES_01",
+        "hash": -1000503378,
+        "hex": "0xC45D87AE"
+    },
+    {
+        "name": "MP_CHU_KID_GREATPLAINS2_MALES_01",
+        "hash": -709399056,
+        "hex": "0xD5B76DF0"
+    },
+    {
+        "name": "MP_CHU_KID_GREATPLAINS_MALES_01",
+        "hash": -609170672,
+        "hex": "0xDBB0CB10"
+    },
+    {
+        "name": "MP_CHU_KID_HEARTLANDS_MALES_01",
+        "hash": 1316658127,
+        "hex": "0x4E7A9BCF"
+    },
+    {
+        "name": "MP_CHU_KID_LAGRAS_MALES_01",
+        "hash": -1081154924,
+        "hex": "0xBF8EE294"
+    },
+    {
+        "name": "mp_CHU_KID_LEMOYNE_FEMALES_01",
+        "hash": 651551567,
+        "hex": "0x26D5E34F"
+    },
+    {
+        "name": "mp_CHU_KID_LEMOYNE_MALES_01",
+        "hash": 618873084,
+        "hex": "0x24E340FC"
+    },
+    {
+        "name": "MP_CHU_KID_RECIPIENT_MALES_01",
+        "hash": -838418860,
+        "hex": "0xCE06BE54"
+    },
+    {
+        "name": "MP_CHU_KID_RHODES_MALES_01",
+        "hash": 1445163709,
+        "hex": "0x562372BD"
+    },
+    {
+        "name": "MP_CHU_KID_SAINTDENIS_FEMALES_01",
+        "hash": -139449922,
+        "hex": "0xF7B029BE"
+    },
+    {
+        "name": "MP_CHU_KID_SAINTDENIS_MALES_01",
+        "hash": -232844578,
+        "hex": "0xF21F12DE"
+    },
+    {
+        "name": "MP_CHU_KID_SCARLETTMEADOWS_MALES_01",
+        "hash": -1151906408,
+        "hex": "0xBB574D98"
+    },
+    {
+        "name": "MP_CHU_KID_TUMBLEWEED_MALES_01",
+        "hash": 429001203,
+        "hex": "0x199209F3"
+    },
+    {
+        "name": "MP_CHU_KID_VALENTINE_MALES_01",
+        "hash": -1248192436,
+        "hex": "0xB59A184C"
+    },
+    {
+        "name": "MP_CHU_ROB_AMBARINO_MALES_01",
+        "hash": -1858757559,
+        "hex": "0x91359C49"
+    },
+    {
+        "name": "MP_CHU_ROB_ANNESBURG_MALES_01",
+        "hash": -390599922,
+        "hex": "0xE8B7EB0E"
+    },
+    {
+        "name": "MP_CHU_ROB_BENEDICTPOINT_FEMALES_01",
+        "hash": -313102936,
+        "hex": "0xED566DA8"
+    },
+    {
+        "name": "MP_CHU_ROB_BENEDICTPOINT_MALES_01",
+        "hash": 593605887,
+        "hex": "0x2361B4FF"
+    },
+    {
+        "name": "MP_CHU_ROB_BLACKWATER_MALES_01",
+        "hash": 1307976003,
+        "hex": "0x4DF62143"
+    },
+    {
+        "name": "MP_CHU_ROB_CALIGAHALL_MALES_01",
+        "hash": -774024333,
+        "hex": "0xD1DD5373"
+    },
+    {
+        "name": "MP_CHU_ROB_CORONADO_MALES_01",
+        "hash": -384779855,
+        "hex": "0xE910B9B1"
+    },
+    {
+        "name": "MP_CHU_ROB_CUMBERLAND_MALES_01",
+        "hash": -290375866,
+        "hex": "0xEEB13746"
+    },
+    {
+        "name": "MP_CHU_ROB_FORTMERCER_FEMALES_01",
+        "hash": 1032489089,
+        "hex": "0x3D8A8881"
+    },
+    {
+        "name": "MP_CHU_ROB_FORTMERCER_MALES_01",
+        "hash": -1547435488,
+        "hex": "0xA3C40220"
+    },
+    {
+        "name": "MP_CHU_ROB_GREENHOLLOW_MALES_01",
+        "hash": 729790505,
+        "hex": "0x2B7FB829"
+    },
+    {
+        "name": "MP_CHU_ROB_MACFARLANES_FEMALES_01",
+        "hash": -1878562588,
+        "hex": "0x900768E4"
+    },
+    {
+        "name": "MP_CHU_ROB_MACFARLANES_MALES_01",
+        "hash": 202483256,
+        "hex": "0x0C11A638"
+    },
+    {
+        "name": "MP_CHU_ROB_MACLEANS_MALES_01",
+        "hash": -1573123977,
+        "hex": "0xA23C0877"
+    },
+    {
+        "name": "MP_CHU_ROB_MILLESANI_MALES_01",
+        "hash": 1911959833,
+        "hex": "0x71F63119"
+    },
+    {
+        "name": "MP_CHU_ROB_MONTANARIVER_MALES_01",
+        "hash": -1556118171,
+        "hex": "0xA33F8565"
+    },
+    {
+        "name": "MP_CHU_ROB_PAINTEDSKY_MALES_01",
+        "hash": -1367220440,
+        "hex": "0xAE81DF28"
+    },
+    {
+        "name": "MP_CHU_ROB_RATHSKELLER_MALES_01",
+        "hash": 638852484,
+        "hex": "0x26141D84"
+    },
+    {
+        "name": "MP_CHU_ROB_RECIPIENT_MALES_01",
+        "hash": -1250334314,
+        "hex": "0xB5796996"
+    },
+    {
+        "name": "MP_CHU_ROB_RHODES_MALES_01",
+        "hash": 1741244700,
+        "hex": "0x67C9491C"
+    },
+    {
+        "name": "MP_CHU_ROB_STRAWBERRY_MALES_01",
+        "hash": 933892170,
+        "hex": "0x37AA104A"
+    },
+    { "name": "mp_CLAY", "hash": -557781132, "hex": "0xDEC0EF74" },
+    {
+        "name": "MP_CONVOY_RECIPIENT_FEMALES_01",
+        "hash": 918586840,
+        "hex": "0x36C085D8"
+    },
+    {
+        "name": "MP_CONVOY_RECIPIENT_MALES_01",
+        "hash": -437426994,
+        "hex": "0xE5ED64CE"
+    },
+    {
+        "name": "MP_DE_U_F_M_BIGVALLEY_01",
+        "hash": -760231934,
+        "hex": "0xD2AFC802"
+    },
+    {
+        "name": "MP_DE_U_F_M_BLUEWATERMARSH_01",
+        "hash": -344184531,
+        "hex": "0xEB7C292D"
+    },
+    {
+        "name": "mp_de_u_f_m_BRAITHWAITE_01",
+        "hash": -971643682,
+        "hex": "0xC615E4DE"
+    },
+    {
+        "name": "mp_de_u_f_m_DOVERHILL_01",
+        "hash": -9358116,
+        "hex": "0xFF7134DC"
+    },
+    {
+        "name": "MP_DE_U_F_M_GREATPLAINS_01",
+        "hash": -578203294,
+        "hex": "0xDD895162"
+    },
+    {
+        "name": "mp_dE_U_F_M_HANGINGROCK_01",
+        "hash": -884824177,
+        "hex": "0xCB42A78F"
+    },
+    {
+        "name": "mp_de_u_f_m_HEARTLANDS_01",
+        "hash": 1091404479,
+        "hex": "0x410D82BF"
+    },
+    {
+        "name": "mp_dE_U_F_M_HENNIGANSSTEAD_01",
+        "hash": -2008958510,
+        "hex": "0x8841B9D2"
+    },
+    {
+        "name": "MP_DE_U_F_M_SILENTSTEAD_01",
+        "hash": -989189476,
+        "hex": "0xC50A2A9C"
+    },
+    {
+        "name": "MP_DE_U_M_M_AURORABASIN_01",
+        "hash": -528910707,
+        "hex": "0xE079768D"
+    },
+    {
+        "name": "mp_de_u_m_m_BARROWLAGOON_01",
+        "hash": 436662880,
+        "hex": "0x1A06F260"
+    },
+    {
+        "name": "mp_de_u_m_m_BIGVALLEYGRAVES_01",
+        "hash": 821230530,
+        "hex": "0x30F2FBC2"
+    },
+    {
+        "name": "MP_DE_U_M_M_CENTRALUNIONRR_01",
+        "hash": 1415999476,
+        "hex": "0x54666FF4"
+    },
+    {
+        "name": "MP_DE_U_M_M_PLEASANCE_01",
+        "hash": 1768232843,
+        "hex": "0x6965178B"
+    },
+    {
+        "name": "MP_DE_U_M_M_RILEYSCHARGE_01",
+        "hash": 2088227231,
+        "hex": "0x7C77D19F"
+    },
+    {
+        "name": "MP_DE_U_M_M_VANHORN_01",
+        "hash": 2057751623,
+        "hex": "0x7AA6CC47"
+    },
+    {
+        "name": "MP_DE_U_M_M_WESTERNHOMESTEAD_01",
+        "hash": 426465760,
+        "hex": "0x196B59E0"
+    },
+    {
+        "name": "mp_dr_u_f_m_bayougatorfood_01",
+        "hash": 271170287,
+        "hex": "0x1029BAEF"
+    },
+    {
+        "name": "MP_DR_U_F_M_BIGVALLEYCAVE_01",
+        "hash": -2143534249,
+        "hex": "0x803C4357"
+    },
+    {
+        "name": "MP_DR_U_F_M_BIGVALLEYCLIFF_01",
+        "hash": -410866850,
+        "hex": "0xE782AB5E"
+    },
+    {
+        "name": "MP_DR_U_F_M_BLUEWATERKIDNAP_01",
+        "hash": 1519250806,
+        "hex": "0x5A8DED76"
+    },
+    {
+        "name": "MP_DR_U_F_M_COLTERBANDITS_01",
+        "hash": -1553372114,
+        "hex": "0xA3696C2E"
+    },
+    {
+        "name": "MP_DR_U_F_M_COLTERBANDITS_02",
+        "hash": -1860483182,
+        "hex": "0x911B4792"
+    },
+    {
+        "name": "mp_dr_u_f_m_MISSINGFISHERMAN_01",
+        "hash": -1175852879,
+        "hex": "0xB9E9E8B1"
+    },
+    {
+        "name": "mp_dr_u_f_m_MISSINGFISHERMAN_02",
+        "hash": -2018802635,
+        "hex": "0x87AB8435"
+    },
+    {
+        "name": "mp_dr_u_f_m_MISTAKENBOUNTIES_01",
+        "hash": -1530501044,
+        "hex": "0xA4C6684C"
+    },
+    {
+        "name": "MP_DR_U_F_M_PLAGUETOWN_01",
+        "hash": -1942535971,
+        "hex": "0x8C3740DD"
+    },
+    {
+        "name": "mp_dr_u_f_m_QUAKERSCOVE_01",
+        "hash": -276705334,
+        "hex": "0xEF81CFCA"
+    },
+    {
+        "name": "mp_dr_u_f_m_QUAKERSCOVE_02",
+        "hash": -45585577,
+        "hex": "0xFD486B57"
+    },
+    {
+        "name": "MP_DR_U_F_M_SDGRAVEYARD_01",
+        "hash": 547922260,
+        "hex": "0x20A8A154"
+    },
+    {
+        "name": "MP_DR_U_M_M_BIGVALLEYCAVE_01",
+        "hash": -941738882,
+        "hex": "0xC7DE347E"
+    },
+    {
+        "name": "MP_DR_U_M_M_BIGVALLEYCLIFF_01",
+        "hash": -639081135,
+        "hex": "0xD9E86551"
+    },
+    {
+        "name": "MP_DR_U_M_M_BLUEWATERKIDNAP_01",
+        "hash": -1538935337,
+        "hex": "0xA445B5D7"
+    },
+    {
+        "name": "mp_dr_u_m_m_CANOEESCAPE_01",
+        "hash": 588470901,
+        "hex": "0x23135A75"
+    },
+    {
+        "name": "MP_DR_U_M_M_HWYROBBERY_01",
+        "hash": 841730705,
+        "hex": "0x322BCA91"
+    },
+    {
+        "name": "mp_dr_u_m_m_MISTAKENBOUNTIES_01",
+        "hash": 272583922,
+        "hex": "0x103F4CF2"
+    },
+    {
+        "name": "MP_DR_U_M_M_PIKESBASIN_01",
+        "hash": -700542529,
+        "hex": "0xD63E91BF"
+    },
+    {
+        "name": "MP_DR_U_M_M_PIKESBASIN_02",
+        "hash": -221394211,
+        "hex": "0xF2CDCADD"
+    },
+    {
+        "name": "MP_DR_U_M_M_PLAGUETOWN_01",
+        "hash": 1507371875,
+        "hex": "0x59D8AB63"
+    },
+    {
+        "name": "mp_dr_u_m_m_ROANOKESTANDOFF_01",
+        "hash": -1702168165,
+        "hex": "0x9A8AF99B"
+    },
+    {
+        "name": "MP_DR_U_M_M_SDGRAVEYARD_01",
+        "hash": -401972648,
+        "hex": "0xE80A6258"
+    },
+    {
+        "name": "MP_DR_U_M_M_SDMUGGING_01",
+        "hash": -1020123993,
+        "hex": "0xC33224A7"
+    },
+    {
+        "name": "MP_DR_U_M_M_SDMUGGING_02",
+        "hash": -1786787517,
+        "hex": "0x957FC943"
+    },
+    { "name": "mp_female", "hash": -1481695040, "hex": "0xA7AF20C0" },
+    {
+        "name": "MP_FREEROAM_TUT_FEMALES_01",
+        "hash": -1440322020,
+        "hex": "0xAA266E1C"
+    },
+    {
+        "name": "MP_FREEROAM_TUT_MALES_01",
+        "hash": 561644948,
+        "hex": "0x217A0594"
+    },
+    {
+        "name": "MP_G_F_M_LAPERLEGANG_01",
+        "hash": 1433066052,
+        "hex": "0x556ADA44"
+    },
+    {
+        "name": "MP_G_F_M_LAPERLEVIPS_01",
+        "hash": 1693937534,
+        "hex": "0x64F76F7E"
+    },
+    {
+        "name": "MP_G_F_M_OWLHOOTFAMILY_01",
+        "hash": -139974799,
+        "hex": "0xF7A82771"
+    },
+    {
+        "name": "MP_G_M_M_ARMOREDJUGGERNAUTS_01",
+        "hash": -1644148946,
+        "hex": "0x9E00472E"
+    },
+    {
+        "name": "MP_G_M_M_BOUNTYHUNTERS_01",
+        "hash": -960561977,
+        "hex": "0xC6BEFCC7"
+    },
+    {
+        "name": "MP_G_M_M_OWLHOOTFAMILY_01",
+        "hash": -2070522502,
+        "hex": "0x8496557A"
+    },
+    {
+        "name": "MP_G_M_M_REDBENGANG_01",
+        "hash": -934757191,
+        "hex": "0xC848BCB9"
+    },
+    {
+        "name": "MP_G_M_M_UniAfricanAmericanGang_01",
+        "hash": -1133944559,
+        "hex": "0xBC696111"
+    },
+    {
+        "name": "MP_G_M_M_UniBanditos_01",
+        "hash": -640132444,
+        "hex": "0xD9D85AA4"
+    },
+    {
+        "name": "MP_G_M_M_UniBraithwaites_01",
+        "hash": -1062865157,
+        "hex": "0xC0A5F6FB"
+    },
+    {
+        "name": "MP_G_M_M_UniBronteGoons_01",
+        "hash": 127731696,
+        "hex": "0x079D07F0"
+    },
+    {
+        "name": "MP_G_M_M_UniCornwallGoons_01",
+        "hash": -1230947661,
+        "hex": "0xB6A13AB3"
+    },
+    {
+        "name": "MP_G_M_M_UniCriminals_01",
+        "hash": -1397252733,
+        "hex": "0xACB79D83"
+    },
+    {
+        "name": "MP_G_M_M_UniCriminals_02",
+        "hash": -32554959,
+        "hex": "0xFE0F4031"
+    },
+    {
+        "name": "MP_G_M_M_UNIDUSTER_01",
+        "hash": 1801234827,
+        "hex": "0x6B5CA98B"
+    },
+    {
+        "name": "MP_G_M_M_UNIDUSTER_02",
+        "hash": 1498580343,
+        "hex": "0x59528577"
+    },
+    {
+        "name": "MP_G_M_M_UNIDUSTER_03",
+        "hash": -2028904204,
+        "hex": "0x871160F4"
+    },
+    { "name": "MP_G_M_M_UniGrays_01", "hash": 1897888291, "hex": "0x711F7A23" },
+    { "name": "MP_G_M_M_UniInbred_01", "hash": 20080804, "hex": "0x013268A4" },
+    {
+        "name": "MP_G_M_M_UNILANGSTONBOYS_01",
+        "hash": -735163229,
+        "hex": "0xD42E4CA3"
+    },
+    {
+        "name": "MP_G_M_M_UniMountainMen_01",
+        "hash": -1363755153,
+        "hex": "0xAEB6BF6F"
+    },
+    {
+        "name": "MP_G_M_M_UniRanchers_01",
+        "hash": -1864069963,
+        "hex": "0x90E48CB5"
+    },
+    {
+        "name": "MP_G_M_M_UNISWAMP_01",
+        "hash": -1537318339,
+        "hex": "0xA45E623D"
+    },
+    {
+        "name": "MP_G_M_O_UniExConfeds_01",
+        "hash": 401876763,
+        "hex": "0x17F4271B"
+    },
+    {
+        "name": "MP_G_M_Y_UniExConfeds_01",
+        "hash": 1722511552,
+        "hex": "0x66AB70C0"
+    },
+    {
+        "name": "MP_GUNVOUTD2_MALES_01",
+        "hash": -1016095860,
+        "hex": "0xC36F9B8C"
+    },
+    { "name": "MP_GUNVOUTD3_BHT_01", "hash": 1029723363, "hex": "0x3D6054E3" },
+    {
+        "name": "MP_GUNVOUTD3_MALES_01",
+        "hash": -1385740716,
+        "hex": "0xAD674654"
+    },
+    {
+        "name": "MP_HORSE_OWLHOOTVICTIM_01",
+        "hash": 1956914720,
+        "hex": "0x74A42620"
+    },
+    {
+        "name": "MP_INTERCEPT_RECIPIENT_FEMALES_01",
+        "hash": -1535091473,
+        "hex": "0xA4805CEF"
+    },
+    {
+        "name": "MP_INTERCEPT_RECIPIENT_MALES_01",
+        "hash": 1342112940,
+        "hex": "0x4FFF04AC"
+    },
+    { "name": "MP_INTRO_FEMALES_01", "hash": -947290797, "hex": "0xC7897D53" },
+    { "name": "MP_INTRO_MALES_01", "hash": 449203326, "hex": "0x1AC64C7E" },
+    {
+        "name": "MP_JAILBREAK_MALES_01",
+        "hash": -1661855997,
+        "hex": "0x9CF21703"
+    },
+    {
+        "name": "MP_JAILBREAK_RECIPIENT_MALES_01",
+        "hash": -710598951,
+        "hex": "0xD5A51ED9"
+    },
+    { "name": "MP_LBT_M3_MALES_01", "hash": 445961202, "hex": "0x1A94D3F2" },
+    {
+        "name": "MP_LBT_M6_FEMALES_01",
+        "hash": -1295261208,
+        "hex": "0xB2CBE1E8"
+    },
+    { "name": "MP_LBT_M6_MALES_01", "hash": -259230234, "hex": "0xF08C75E6" },
+    { "name": "MP_LBT_M7_MALES_01", "hash": -754660372, "hex": "0xD304CBEC" },
+    { "name": "mp_male", "hash": -171876066, "hex": "0xF5C1611E" },
+    {
+        "name": "MP_OTH_RECIPIENT_MALES_01",
+        "hash": 643575518,
+        "hex": "0x265C2EDE"
+    },
+    { "name": "MP_OUTLAW1_MALES_01", "hash": -505112475, "hex": "0xE1E49865" },
+    { "name": "MP_OUTLAW2_MALES_01", "hash": 802992490, "hex": "0x2FDCB16A" },
+    {
+        "name": "MP_POST_MULTIPACKAGE_FEMALES_01",
+        "hash": 2093904839,
+        "hex": "0x7CCE73C7"
+    },
+    {
+        "name": "MP_POST_MULTIPACKAGE_MALES_01",
+        "hash": -1683823071,
+        "hex": "0x9BA2E621"
+    },
+    {
+        "name": "MP_POST_MULTIRELAY_FEMALES_01",
+        "hash": -159092887,
+        "hex": "0xF6846F69"
+    },
+    {
+        "name": "MP_POST_MULTIRELAY_MALES_01",
+        "hash": 1227894203,
+        "hex": "0x49302DBB"
+    },
+    {
+        "name": "MP_POST_RELAY_FEMALES_01",
+        "hash": -1161781409,
+        "hex": "0xBAC09F5F"
+    },
+    {
+        "name": "MP_POST_RELAY_MALES_01",
+        "hash": 1837976742,
+        "hex": "0x6D8D4CA6"
+    },
+    { "name": "MP_PREDATOR", "hash": 746399560, "hex": "0x2C7D2748" },
+    {
+        "name": "MP_PRSN_ASN_MALES_01",
+        "hash": -1681106048,
+        "hex": "0x9BCC5B80"
+    },
+    {
+        "name": "MP_RE_ANIMALATTACK_FEMALES_01",
+        "hash": -1993145727,
+        "hex": "0x89330281"
+    },
+    {
+        "name": "MP_RE_ANIMALATTACK_MALES_01",
+        "hash": 739677348,
+        "hex": "0x2C1694A4"
+    },
+    {
+        "name": "MP_RECOVER_RECIPIENT_FEMALES_01",
+        "hash": -800017411,
+        "hex": "0xD050B3FD"
+    },
+    {
+        "name": "MP_RECOVER_RECIPIENT_MALES_01",
+        "hash": -18735481,
+        "hex": "0xFEE21E87"
+    },
+    {
+        "name": "MP_RE_DUEL_FEMALES_01",
+        "hash": -1651459012,
+        "hex": "0x9D90BC3C"
+    },
+    { "name": "MP_RE_DUEL_MALES_01", "hash": 888152471, "hex": "0x34F02197" },
+    {
+        "name": "MP_RE_GRAVEROBBER_FEMALES_01",
+        "hash": 2087484445,
+        "hex": "0x7C6C7C1D"
+    },
+    {
+        "name": "MP_RE_GRAVEROBBER_MALES_01",
+        "hash": 1438071047,
+        "hex": "0x55B73907"
+    },
+    {
+        "name": "MP_RE_HOBODOG_FEMALES_01",
+        "hash": 641402963,
+        "hex": "0x263B0853"
+    },
+    {
+        "name": "MP_RE_HOBODOG_MALES_01",
+        "hash": 1075605185,
+        "hex": "0x401C6EC1"
+    },
+    {
+        "name": "MP_RE_KIDNAPPED_FEMALES_01",
+        "hash": 1159171519,
+        "hex": "0x45178DBF"
+    },
+    {
+        "name": "MP_RE_KIDNAPPED_MALES_01",
+        "hash": 1582696387,
+        "hex": "0x5E5607C3"
+    },
+    {
+        "name": "MP_RE_PHOTOGRAPHY_FEMALES_01",
+        "hash": 1462825054,
+        "hex": "0x5730F05E"
+    },
+    {
+        "name": "MP_RE_PHOTOGRAPHY_FEMALES_02",
+        "hash": 1708527016,
+        "hex": "0x65D60DA8"
+    },
+    {
+        "name": "MP_RE_PHOTOGRAPHY_MALES_01",
+        "hash": -1964611878,
+        "hex": "0x8AE666DA"
+    },
+    {
+        "name": "MP_REPOBOAT_RECIPIENT_FEMALES_01",
+        "hash": -1978562698,
+        "hex": "0x8A118776"
+    },
+    {
+        "name": "MP_REPOBOAT_RECIPIENT_MALES_01",
+        "hash": -2122411326,
+        "hex": "0x817E92C2"
+    },
+    {
+        "name": "MP_REPO_RECIPIENT_FEMALES_01",
+        "hash": 1213395665,
+        "hex": "0x4852F2D1"
+    },
+    {
+        "name": "MP_REPO_RECIPIENT_MALES_01",
+        "hash": -1817598468,
+        "hex": "0x93A9A5FC"
+    },
+    {
+        "name": "MP_RE_RIVALCOLLECTOR_MALES_01",
+        "hash": -1731070285,
+        "hex": "0x98D1F6B3"
+    },
+    {
+        "name": "MP_RE_RUNAWAYWAGON_FEMALES_01",
+        "hash": -99878679,
+        "hex": "0xFA0BF8E9"
+    },
+    {
+        "name": "MP_RE_RUNAWAYWAGON_MALES_01",
+        "hash": -644062535,
+        "hex": "0xD99C62B9"
+    },
+    {
+        "name": "MP_RESCUE_BOTTLETREE_FEMALES_01",
+        "hash": -288040042,
+        "hex": "0xEED4DB96"
+    },
+    {
+        "name": "MP_RESCUE_BOTTLETREE_MALES_01",
+        "hash": 1429272924,
+        "hex": "0x5530F95C"
+    },
+    {
+        "name": "MP_RESCUE_COLTER_MALES_01",
+        "hash": -1879011471,
+        "hex": "0x90008F71"
+    },
+    {
+        "name": "MP_Rescue_Cratersacrifice_Males_01",
+        "hash": 1190990160,
+        "hex": "0x46FD1150"
+    },
+    {
+        "name": "MP_RESCUE_HEARTLANDS_MALES_01",
+        "hash": 709901649,
+        "hex": "0x2A503D51"
+    },
+    {
+        "name": "MP_RESCUE_LOFTKIDNAP_MALES_01",
+        "hash": -1096780064,
+        "hex": "0xBEA076E0"
+    },
+    {
+        "name": "MP_RESCUE_LONNIESSHACK_MALES_01",
+        "hash": -1934851394,
+        "hex": "0x8CAC82BE"
+    },
+    {
+        "name": "MP_RESCUE_MOONSTONE_MALES_01",
+        "hash": 908282755,
+        "hex": "0x36234B83"
+    },
+    {
+        "name": "MP_RESCUE_MTNMANSHACK_MALES_01",
+        "hash": 1957793295,
+        "hex": "0x74B18E0F"
+    },
+    {
+        "name": "MP_RESCUE_RECIPIENT_FEMALES_01",
+        "hash": -432147415,
+        "hex": "0xE63DF429"
+    },
+    {
+        "name": "MP_RESCUE_RECIPIENT_MALES_01",
+        "hash": 389588751,
+        "hex": "0x1738A70F"
+    },
+    {
+        "name": "MP_Rescue_RivalShack_Males_01",
+        "hash": -628029137,
+        "hex": "0xDA91092F"
+    },
+    {
+        "name": "MP_RESCUE_SCARLETTMEADOWS_MALES_01",
+        "hash": 273165516,
+        "hex": "0x10482CCC"
+    },
+    {
+        "name": "MP_RESCUE_SDDOGFIGHT_FEMALES_01",
+        "hash": 28077219,
+        "hex": "0x01AC6CA3"
+    },
+    {
+        "name": "MP_RESCUE_SDDOGFIGHT_MALES_01",
+        "hash": -2136261216,
+        "hex": "0x80AB3DA0"
+    },
+    {
+        "name": "MP_RESUPPLY_RECIPIENT_FEMALES_01",
+        "hash": -1983606159,
+        "hex": "0x89C49271"
+    },
+    {
+        "name": "MP_RESUPPLY_RECIPIENT_MALES_01",
+        "hash": 42752278,
+        "hex": "0x028C5916"
+    },
+    {
+        "name": "MP_RE_TREASUREHUNTER_FEMALES_01",
+        "hash": 1052258653,
+        "hex": "0x3EB8315D"
+    },
+    {
+        "name": "MP_RE_TREASUREHUNTER_MALES_01",
+        "hash": 913656510,
+        "hex": "0x36754ABE"
+    },
+    { "name": "MP_REVENGE1_MALES_01", "hash": 873360635, "hex": "0x340E6CFB" },
+    {
+        "name": "MP_RE_WILDMAN_MALES_01",
+        "hash": 1086354818,
+        "hex": "0x40C07582"
+    },
+    {
+        "name": "MP_S_M_M_CornwallGuard_01",
+        "hash": 210306328,
+        "hex": "0x0C890518"
+    },
+    { "name": "MP_S_M_M_PinLaw_01", "hash": -1383601827, "hex": "0xAD87E95D" },
+    {
+        "name": "MP_STEALBOAT_RECIPIENT_MALES_01",
+        "hash": 1837134522,
+        "hex": "0x6D8072BA"
+    },
+    {
+        "name": "MP_STEALHORSE_RECIPIENT_MALES_01",
+        "hash": 1811049854,
+        "hex": "0x6BF26D7E"
+    },
+    {
+        "name": "MP_STEALWAGON_RECIPIENT_MALES_01",
+        "hash": 96224158,
+        "hex": "0x05BC439E"
+    },
+    { "name": "MP_TATTOO_FEMALE", "hash": -399859979, "hex": "0xE82A9EF5" },
+    { "name": "MP_TATTOO_MALE", "hash": 49032183, "hex": "0x02EC2BF7" },
+    {
+        "name": "mp_u_f_m_bountytarget_001",
+        "hash": 817214999,
+        "hex": "0x30B5B617"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_002",
+        "hash": -1964610953,
+        "hex": "0x8AE66A77"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_003",
+        "hash": 1397783372,
+        "hex": "0x53507B4C"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_004",
+        "hash": 605920487,
+        "hex": "0x241D9CE7"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_005",
+        "hash": -439345079,
+        "hex": "0xE5D02049"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_006",
+        "hash": 949568990,
+        "hex": "0x389945DE"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_007",
+        "hash": 116744851,
+        "hex": "0x06F56293"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_008",
+        "hash": -656177552,
+        "hex": "0xD8E38670"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_009",
+        "hash": -1414976516,
+        "hex": "0xABA92BFC"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_010",
+        "hash": 471601524,
+        "hex": "0x1C1C1174"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_011",
+        "hash": 769766655,
+        "hex": "0x2DE1B4FF"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_012",
+        "hash": 1066915947,
+        "hex": "0x3F97D86B"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_013",
+        "hash": 1335130212,
+        "hex": "0x4F947864"
+    },
+    {
+        "name": "mp_u_f_m_bountytarget_014",
+        "hash": -714177502,
+        "hex": "0xD56E8422"
+    },
+    {
+        "name": "MP_U_F_M_GUNSLINGER3_RIFLEMAN_02",
+        "hash": 250955728,
+        "hex": "0x0EF547D0"
+    },
+    {
+        "name": "mp_u_f_m_GUNSLINGER3_SHARPSHOOTER_01",
+        "hash": -907492413,
+        "hex": "0xC9E8C3C3"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPMASKED_01",
+        "hash": -1767336308,
+        "hex": "0x96A8968C"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPMASKED_02",
+        "hash": -832535049,
+        "hex": "0xCE6085F7"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPMASKED_03",
+        "hash": -542529399,
+        "hex": "0xDFA9A889"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPMASKED_04",
+        "hash": -1544539917,
+        "hex": "0xA3F030F3"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPUNMASKED_01",
+        "hash": 687145409,
+        "hex": "0x28F501C1"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPUNMASKED_02",
+        "hash": 976921676,
+        "hex": "0x3A3AA44C"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPUNMASKED_03",
+        "hash": 1286850878,
+        "hex": "0x4CB3C93E"
+    },
+    {
+        "name": "MP_U_F_M_LAPERLEVIPUNMASKED_04",
+        "hash": 1592683955,
+        "hex": "0x5EEE6DB3"
+    },
+    {
+        "name": "MP_U_F_M_LBT_OWLHOOTVICTIM_01",
+        "hash": 753237759,
+        "hex": "0x2CE57EFF"
+    },
+    {
+        "name": "MP_U_F_M_LEGENDARYBOUNTY_001",
+        "hash": 1350185894,
+        "hex": "0x507A33A6"
+    },
+    {
+        "name": "MP_U_F_M_LEGENDARYBOUNTY_002",
+        "hash": -2002508803,
+        "hex": "0x88A423FD"
+    },
+    {
+        "name": "MP_U_F_M_OUTLAW3_WARNER_01",
+        "hash": -1578141009,
+        "hex": "0xA1EF7AAF"
+    },
+    {
+        "name": "MP_U_F_M_OUTLAW3_WARNER_02",
+        "hash": 867966538,
+        "hex": "0x33BC1E4A"
+    },
+    {
+        "name": "MP_U_F_M_REVENGE2_PASSERBY_01",
+        "hash": -965091625,
+        "hex": "0xC679DED7"
+    },
+    {
+        "name": "MP_U_M_M_ARMSHERIFF_01",
+        "hash": 725140468,
+        "hex": "0x2B38C3F4"
+    },
+    {
+        "name": "MP_U_M_M_BOUNTYINJUREDMAN_01",
+        "hash": 1723292184,
+        "hex": "0x66B75A18"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_001",
+        "hash": -1372778688,
+        "hex": "0xAE2D0F40"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_002",
+        "hash": -1872309328,
+        "hex": "0x9066D3B0"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_003",
+        "hash": -1600818163,
+        "hex": "0xA095740D"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_005",
+        "hash": -216753906,
+        "hex": "0xF314990E"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_008",
+        "hash": -675585444,
+        "hex": "0xD7BB625C"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_009",
+        "hash": 1547070292,
+        "hex": "0x5C366B54"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_010",
+        "hash": -1760501764,
+        "hex": "0x9710DFFC"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_011",
+        "hash": -145907592,
+        "hex": "0xF74DA078"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_012",
+        "hash": -377223963,
+        "hex": "0xE98404E5"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_013",
+        "hash": -561975585,
+        "hex": "0xDE80EEDF"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_014",
+        "hash": -843428526,
+        "hex": "0xCDBA4D52"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_015",
+        "hash": 13153110,
+        "hex": "0x00C8B356"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_016",
+        "hash": -276098853,
+        "hex": "0xEF8B10DB"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_017",
+        "hash": -461768007,
+        "hex": "0xE479FAB9"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_018",
+        "hash": -701014476,
+        "hex": "0xD6375E34"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_019",
+        "hash": 937173376,
+        "hex": "0x37DC2180"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_020",
+        "hash": 1742337443,
+        "hex": "0x67D9F5A3"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_021",
+        "hash": 874679861,
+        "hex": "0x34228E35"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_022",
+        "hash": 190954668,
+        "hex": "0x0B61BCAC"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_023",
+        "hash": 1505548649,
+        "hex": "0x59BCD969"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_024",
+        "hash": 220479537,
+        "hex": "0x0D244031"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_025",
+        "hash": -77783901,
+        "hex": "0xFB5D1CA3"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_026",
+        "hash": -1320810378,
+        "hex": "0xB1460876"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_027",
+        "hash": -1056430086,
+        "hex": "0xC10827FA"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_028",
+        "hash": -706555473,
+        "hex": "0xD5E2D1AF"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_029",
+        "hash": -476320479,
+        "hex": "0xE39BED21"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_030",
+        "hash": -199520448,
+        "hex": "0xF41B8F40"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_031",
+        "hash": 1441944308,
+        "hex": "0x55F252F4"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_032",
+        "hash": 279627870,
+        "hex": "0x10AAC85E"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_033",
+        "hash": 40381401,
+        "hex": "0x02682BD9"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_034",
+        "hash": -1386905163,
+        "hex": "0xAD5581B5"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_035",
+        "hash": 523429230,
+        "hex": "0x1F32E56E"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_036",
+        "hash": -647800368,
+        "hex": "0xD96359D0"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_037",
+        "hash": -875643225,
+        "hex": "0xCBCEBEA7"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_038",
+        "hash": 1981289275,
+        "hex": "0x7618133B"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_039",
+        "hash": -400066728,
+        "hex": "0xE8277758"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_044",
+        "hash": 763437778,
+        "hex": "0x2D8122D2"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_045",
+        "hash": 1061930599,
+        "hex": "0x3F4BC667"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_046",
+        "hash": 1369238281,
+        "hex": "0x519CEB09"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_047",
+        "hash": -531265428,
+        "hex": "0xE055886C"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_048",
+        "hash": -265115610,
+        "hex": "0xF032A826"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_049",
+        "hash": 99603360,
+        "hex": "0x05EFD3A0"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_050",
+        "hash": 1220097602,
+        "hex": "0x48B93642"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_051",
+        "hash": -1769778731,
+        "hex": "0x968351D5"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_052",
+        "hash": 1781856569,
+        "hex": "0x6A34F939"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_053",
+        "hash": 940938491,
+        "hex": "0x381594FB"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_054",
+        "hash": -39477228,
+        "hex": "0xFDA5A014"
+    },
+    {
+        "name": "mp_u_m_m_bountytarget_055",
+        "hash": 1334428643,
+        "hex": "0x4F89C3E3"
+    },
+    {
+        "name": "MP_U_M_M_GUNFORHIRECLERK_01",
+        "hash": 983116154,
+        "hex": "0x3A99297A"
+    },
+    {
+        "name": "MP_U_M_M_GUNSLINGER3_RIFLEMAN_01",
+        "hash": -1465099416,
+        "hex": "0xA8AC5B68"
+    },
+    {
+        "name": "mp_U_M_M_GUNSLINGER3_SHARPSHOOTER_02",
+        "hash": -1196274583,
+        "hex": "0xB8B24C69"
+    },
+    {
+        "name": "MP_U_M_M_GUNSLINGER3_SHOTGUNNER_01",
+        "hash": -371151161,
+        "hex": "0xE9E0AEC7"
+    },
+    {
+        "name": "MP_U_M_M_GUNSLINGER3_SHOTGUNNER_02",
+        "hash": 329908825,
+        "hex": "0x13AA0259"
+    },
+    {
+        "name": "MP_U_M_M_GUNSLINGER4_WARNER_01",
+        "hash": -1019003665,
+        "hex": "0xC3433CEF"
+    },
+    {
+        "name": "MP_U_M_M_LBT_ACCOMPLICE_01",
+        "hash": -1067017031,
+        "hex": "0xC0669CB9"
+    },
+    {
+        "name": "MP_U_M_M_LBT_BARBSVICTIM_01",
+        "hash": -706765119,
+        "hex": "0xD5DF9EC1"
+    },
+    {
+        "name": "MP_U_M_M_LBT_BRIBEINFORMANT_01",
+        "hash": 923331471,
+        "hex": "0x3708EB8F"
+    },
+    {
+        "name": "MP_U_M_M_LBT_COACHDRIVER_01",
+        "hash": 598487093,
+        "hex": "0x23AC3035"
+    },
+    {
+        "name": "MP_U_M_M_LBT_HOSTAGEMARSHAL_01",
+        "hash": -817435925,
+        "hex": "0xCF46EAEB"
+    },
+    {
+        "name": "MP_U_M_M_LBT_OWLHOOTVICTIM_01",
+        "hash": 2083695931,
+        "hex": "0x7C32AD3B"
+    },
+    {
+        "name": "MP_U_M_M_LBT_OWLHOOTVICTIM_02",
+        "hash": -899888754,
+        "hex": "0xCA5CC98E"
+    },
+    {
+        "name": "MP_U_M_M_LBT_PHILIPSVICTIM_01",
+        "hash": 1479763227,
+        "hex": "0x5833651B"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_001",
+        "hash": -1600746814,
+        "hex": "0xA0968AC2"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_002",
+        "hash": -1300943233,
+        "hex": "0xB2752E7F"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_003",
+        "hash": -1125104779,
+        "hex": "0xBCF04375"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_004",
+        "hash": -819861544,
+        "hex": "0xCF21E7D8"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_005",
+        "hash": -411953028,
+        "hex": "0xE772187C"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_006",
+        "hash": -105071343,
+        "hex": "0xF9BCBD11"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_007",
+        "hash": 65392995,
+        "hex": "0x03E5D163"
+    },
+    {
+        "name": "MP_U_M_M_OUTLAW3_PRISONER_01",
+        "hash": -770377455,
+        "hex": "0xD214F911"
+    },
+    {
+        "name": "MP_U_M_M_OUTLAW3_PRISONER_02",
+        "hash": -1606314645,
+        "hex": "0xA041956B"
+    },
+    {
+        "name": "MP_U_M_M_OUTLAW3_WARNER_01",
+        "hash": -884856248,
+        "hex": "0xCB422A48"
+    },
+    {
+        "name": "MP_U_M_M_OUTLAW3_WARNER_02",
+        "hash": -1643556909,
+        "hex": "0x9E094FD3"
+    },
+    {
+        "name": "MP_U_M_M_PRISONWAGON_01",
+        "hash": -1879916235,
+        "hex": "0x8FF2C135"
+    },
+    {
+        "name": "MP_U_M_M_PRISONWAGON_02",
+        "hash": 967545988,
+        "hex": "0x39AB9484"
+    },
+    {
+        "name": "MP_U_M_M_PRISONWAGON_03",
+        "hash": 1332068344,
+        "hex": "0x4F65BFF8"
+    },
+    {
+        "name": "MP_U_M_M_PRISONWAGON_04",
+        "hash": 413028970,
+        "hex": "0x189E526A"
+    },
+    {
+        "name": "MP_U_M_M_PRISONWAGON_05",
+        "hash": 719648503,
+        "hex": "0x2AE4F6F7"
+    },
+    {
+        "name": "MP_U_M_M_PRISONWAGON_06",
+        "hash": 1949796755,
+        "hex": "0x74378993"
+    },
+    {
+        "name": "MP_U_M_M_REVENGE2_HANDSHAKER_01",
+        "hash": 1393287729,
+        "hex": "0x530BE231"
+    },
+    {
+        "name": "MP_U_M_M_REVENGE2_PASSERBY_01",
+        "hash": 131543460,
+        "hex": "0x07D731A4"
+    },
+    { "name": "MP_U_M_M_TRADER_01", "hash": 2140589879, "hex": "0x7F96CF37" },
+    {
+        "name": "MP_U_M_M_TRADERINTROCLERK_01",
+        "hash": -851170496,
+        "hex": "0xCD442B40"
+    },
+    {
+        "name": "MP_U_M_M_TVLFENCE_01",
+        "hash": -1318399075,
+        "hex": "0xB16AD39D"
+    },
+    {
+        "name": "MP_U_M_O_BlWPoliceChief_01",
+        "hash": 852673901,
+        "hex": "0x32D2C56D"
+    },
+    {
+        "name": "MP_WGNBRKOUT_RECIPIENT_MALES_01",
+        "hash": 1956502498,
+        "hex": "0x749DDBE2"
+    },
+    {
+        "name": "MP_WGNTHIEF_RECIPIENT_MALES_01",
+        "hash": -39991840,
+        "hex": "0xFD9DC5E0"
+    },
+    {
+        "name": "msp_bountyhunter1_females_01",
+        "hash": -165824674,
+        "hex": "0xF61DB75E"
+    },
+    {
+        "name": "msp_braithwaites1_males_01",
+        "hash": -187772068,
+        "hex": "0xF4CED35C"
+    },
+    { "name": "msp_feud1_males_01", "hash": 298270654, "hex": "0x11C73FBE" },
+    { "name": "msp_fussar2_males_01", "hash": 2003441048, "hex": "0x776A1598" },
+    { "name": "msp_gang2_males_01", "hash": -663641338, "hex": "0xD871A306" },
+    { "name": "msp_gang3_males_01", "hash": 340021975, "hex": "0x144452D7" },
+    { "name": "msp_grays1_males_01", "hash": 973046652, "hex": "0x39FF837C" },
+    { "name": "msp_grays2_males_01", "hash": -364228531, "hex": "0xEA4A504D" },
+    { "name": "msp_guarma2_males_01", "hash": -609449568, "hex": "0xDBAC89A0" },
+    {
+        "name": "msp_industry1_females_01",
+        "hash": 513100234,
+        "hex": "0x1E9549CA"
+    },
+    {
+        "name": "msp_industry1_males_01",
+        "hash": -1298864950,
+        "hex": "0xB294E4CA"
+    },
+    {
+        "name": "msp_industry3_females_01",
+        "hash": 1504896564,
+        "hex": "0x59B2E634"
+    },
+    { "name": "msp_industry3_males_01", "hash": 14905271, "hex": "0x00E36FB7" },
+    { "name": "msp_mary1_females_01", "hash": 624009015, "hex": "0x25319F37" },
+    { "name": "msp_mary1_males_01", "hash": 674950397, "hex": "0x283AECFD" },
+    { "name": "msp_mary3_males_01", "hash": -1056699092, "hex": "0xC1040D2C" },
+    { "name": "msp_mob0_males_01", "hash": 687248812, "hex": "0x28F695AC" },
+    { "name": "msp_mob1_females_01", "hash": -246883338, "hex": "0xF148DBF6" },
+    { "name": "msp_mob1_males_01", "hash": 1162162580, "hex": "0x45453194" },
+    { "name": "msp_mob1_teens_01", "hash": 958101616, "hex": "0x391B7870" },
+    { "name": "msp_mob3_females_01", "hash": -1867663375, "hex": "0x90ADB7F1" },
+    { "name": "msp_mob3_males_01", "hash": -243249647, "hex": "0xF1804E11" },
+    {
+        "name": "msp_mudtown3b_females_01",
+        "hash": -1259176408,
+        "hex": "0xB4F27E28"
+    },
+    {
+        "name": "msp_mudtown3b_males_01",
+        "hash": -1866846861,
+        "hex": "0x90BA2D73"
+    },
+    {
+        "name": "msp_mudtown3_males_01",
+        "hash": -1036537073,
+        "hex": "0xC237B30F"
+    },
+    { "name": "msp_mudtown5_males_01", "hash": 695757242, "hex": "0x297869BA" },
+    {
+        "name": "msp_native1_males_01",
+        "hash": -1268228636,
+        "hex": "0xB4685DE4"
+    },
+    {
+        "name": "msp_reverend1_males_01",
+        "hash": -1751580026,
+        "hex": "0x97990286"
+    },
+    {
+        "name": "msp_saintdenis1_females_01",
+        "hash": 2004906833,
+        "hex": "0x77807351"
+    },
+    {
+        "name": "msp_saintdenis1_males_01",
+        "hash": -232859331,
+        "hex": "0xF21ED93D"
+    },
+    {
+        "name": "msp_saloon1_females_01",
+        "hash": -1776473555,
+        "hex": "0x961D2A2D"
+    },
+    {
+        "name": "msp_saloon1_males_01",
+        "hash": -1895580159,
+        "hex": "0x8F03BE01"
+    },
+    {
+        "name": "msp_smuggler2_males_01",
+        "hash": 438589899,
+        "hex": "0x1A2459CB"
+    },
+    {
+        "name": "msp_trainrobbery2_males_01",
+        "hash": 391444527,
+        "hex": "0x1754F82F"
+    },
+    {
+        "name": "msp_trelawny1_males_01",
+        "hash": -2079348275,
+        "hex": "0x840FA9CD"
+    },
+    { "name": "msp_utopia1_males_01", "hash": 317578190, "hex": "0x12EDDBCE" },
+    { "name": "msp_winter4_males_01", "hash": -570302215, "hex": "0xDE01E0F9" },
+    { "name": "p_c_horse_01", "hash": -363708904, "hex": "0xEA523E18" },
+    { "name": "player_three", "hash": 11966224, "hex": "0x00B69710" },
+    { "name": "player_zero", "hash": 225514697, "hex": "0x0D7114C9" },
+    {
+        "name": "rces_abigail3_females_01",
+        "hash": 1546836623,
+        "hex": "0x5C32DA8F"
+    },
+    {
+        "name": "rces_abigail3_males_01",
+        "hash": 2074507271,
+        "hex": "0x7BA67807"
+    },
+    {
+        "name": "rces_beechers1_males_01",
+        "hash": -514432175,
+        "hex": "0xE1566351"
+    },
+    {
+        "name": "rces_evelynmiller_males_01",
+        "hash": -163706971,
+        "hex": "0xF63E07A5"
+    },
+    {
+        "name": "rcsp_beauandpenelope1_females_01",
+        "hash": -82000500,
+        "hex": "0xFB1CC58C"
+    },
+    {
+        "name": "rcsp_beauandpenelope_males_01",
+        "hash": 2077812612,
+        "hex": "0x7BD8E784"
+    },
+    {
+        "name": "rcsp_calderon_males_01",
+        "hash": 1383645598,
+        "hex": "0x5278C19E"
+    },
+    {
+        "name": "rcsp_calderonstage2_males_01",
+        "hash": 1782608709,
+        "hex": "0x6A407345"
+    },
+    {
+        "name": "rcsp_calderonstage2_teens_01",
+        "hash": 568276285,
+        "hex": "0x21DF353D"
+    },
+    {
+        "name": "rcsp_calloway_males_01",
+        "hash": -890158702,
+        "hex": "0xCAF14192"
+    },
+    {
+        "name": "rcsp_coachrobbery_males_01",
+        "hash": -100702726,
+        "hex": "0xF9FF65FA"
+    },
+    {
+        "name": "rcsp_crackpot_females_01",
+        "hash": -543727662,
+        "hex": "0xDF975FD2"
+    },
+    {
+        "name": "rcsp_crackpot_males_01",
+        "hash": 2041143870,
+        "hex": "0x79A9623E"
+    },
+    { "name": "rcsp_creole_males_01", "hash": 2140748461, "hex": "0x7F993AAD" },
+    { "name": "rcsp_dutch1_males_01", "hash": -102027626, "hex": "0xF9EB2E96" },
+    {
+        "name": "rcsp_dutch3_males_01",
+        "hash": -2012913439,
+        "hex": "0x880560E1"
+    },
+    {
+        "name": "rcsp_edithdownes2_males_01",
+        "hash": 729893963,
+        "hex": "0x2B814C4B"
+    },
+    {
+        "name": "rcsp_formyart_females_01",
+        "hash": -993682732,
+        "hex": "0xC4C59AD4"
+    },
+    {
+        "name": "rcsp_formyart_males_01",
+        "hash": 361758091,
+        "hex": "0x158FFD8B"
+    },
+    {
+        "name": "rcsp_gunslingerduel4_males_01",
+        "hash": 1229964955,
+        "hex": "0x494FC69B"
+    },
+    {
+        "name": "rcsp_herekittykitty_males_01",
+        "hash": 308850889,
+        "hex": "0x1268B0C9"
+    },
+    {
+        "name": "rcsp_hunting1_males_01",
+        "hash": 320465243,
+        "hex": "0x1319E95B"
+    },
+    {
+        "name": "rcsp_mrmayor_males_01",
+        "hash": 1223585809,
+        "hex": "0x48EE7011"
+    },
+    {
+        "name": "rcsp_native1s2_males_01",
+        "hash": -1324313678,
+        "hex": "0xB11093B2"
+    },
+    {
+        "name": "rcsp_native_americanfathers_males_01",
+        "hash": 1252941730,
+        "hex": "0x4AAE5FA2"
+    },
+    {
+        "name": "rcsp_oddfellows_males_01",
+        "hash": 462617185,
+        "hex": "0x1B92FA61"
+    },
+    {
+        "name": "rcsp_odriscolls2_females_01",
+        "hash": -1153999133,
+        "hex": "0xBB375EE3"
+    },
+    {
+        "name": "rcsp_poisonedwell_females_01",
+        "hash": -1072715734,
+        "hex": "0xC00FA82A"
+    },
+    {
+        "name": "rcsp_poisonedwell_males_01",
+        "hash": 918898309,
+        "hex": "0x36C54685"
+    },
+    {
+        "name": "rcsp_poisonedwell_teens_01",
+        "hash": 1326245298,
+        "hex": "0x4F0CE5B2"
+    },
+    {
+        "name": "rcsp_ridethelightning_males_01",
+        "hash": 1663429896,
+        "hex": "0x6325ED08"
+    },
+    {
+        "name": "rcsp_sadie1_males_01",
+        "hash": -1552780000,
+        "hex": "0xA3727520"
+    },
+    {
+        "name": "rcsp_slavecatcher_males_01",
+        "hash": -654859219,
+        "hex": "0xD8F7A42D"
+    },
+    {
+        "name": "re_animalattack_females_01",
+        "hash": -460918927,
+        "hex": "0xE486EF71"
+    },
+    {
+        "name": "re_animalattack_males_01",
+        "hash": 1657260860,
+        "hex": "0x62C7CB3C"
+    },
+    {
+        "name": "re_animalmauling_males_01",
+        "hash": 1883225747,
+        "hex": "0x703FBE93"
+    },
+    { "name": "re_approach_males_01", "hash": -898964331, "hex": "0xCA6AE495" },
+    { "name": "re_beartrap_males_01", "hash": 1555425002, "hex": "0x5CB5E6EA" },
+    {
+        "name": "re_boatattack_males_01",
+        "hash": -79611918,
+        "hex": "0xFB4137F2"
+    },
+    {
+        "name": "re_burningbodies_males_01",
+        "hash": 914263404,
+        "hex": "0x367E8D6C"
+    },
+    {
+        "name": "re_checkpoint_males_01",
+        "hash": -1779655213,
+        "hex": "0x95EC9DD3"
+    },
+    {
+        "name": "re_coachrobbery_females_01",
+        "hash": 1654592375,
+        "hex": "0x629F1377"
+    },
+    {
+        "name": "re_coachrobbery_males_01",
+        "hash": 1150940727,
+        "hex": "0x4499F637"
+    },
+    {
+        "name": "re_consequence_males_01",
+        "hash": -514423293,
+        "hex": "0xE1568603"
+    },
+    {
+        "name": "re_corpsecart_females_01",
+        "hash": -726742856,
+        "hex": "0xD4AEC8B8"
+    },
+    {
+        "name": "re_corpsecart_males_01",
+        "hash": 1377894334,
+        "hex": "0x5220FFBE"
+    },
+    {
+        "name": "re_crashedwagon_males_01",
+        "hash": 2041325498,
+        "hex": "0x79AC27BA"
+    },
+    {
+        "name": "re_darkalleyambush_males_01",
+        "hash": -834077830,
+        "hex": "0xCE48FB7A"
+    },
+    {
+        "name": "re_darkalleybum_males_01",
+        "hash": 812237684,
+        "hex": "0x3069C374"
+    },
+    {
+        "name": "re_darkalleystabbing_males_01",
+        "hash": -1495957338,
+        "hex": "0xA6D580A6"
+    },
+    {
+        "name": "re_deadbodies_males_01",
+        "hash": 870067954,
+        "hex": "0x33DC2EF2"
+    },
+    {
+        "name": "re_deadjohn_females_01",
+        "hash": -1394699518,
+        "hex": "0xACDE9302"
+    },
+    { "name": "re_deadjohn_males_01", "hash": -34912592, "hex": "0xFDEB46B0" },
+    {
+        "name": "re_disabledbeggar_males_01",
+        "hash": 533342531,
+        "hex": "0x1FCA2943"
+    },
+    {
+        "name": "re_domesticdispute_females_01",
+        "hash": -1648904191,
+        "hex": "0x9DB7B801"
+    },
+    {
+        "name": "re_domesticdispute_males_01",
+        "hash": 1779523967,
+        "hex": "0x6A11617F"
+    },
+    {
+        "name": "re_drownmurder_females_01",
+        "hash": 239173857,
+        "hex": "0x0E4180E1"
+    },
+    {
+        "name": "re_drownmurder_males_01",
+        "hash": -1360462387,
+        "hex": "0xAEE8FDCD"
+    },
+    {
+        "name": "re_drunkcamp_males_01",
+        "hash": -443131503,
+        "hex": "0xE5965991"
+    },
+    {
+        "name": "re_drunkdueler_males_01",
+        "hash": 1487888533,
+        "hex": "0x58AF6095"
+    },
+    {
+        "name": "re_duelboaster_males_01",
+        "hash": -282719801,
+        "hex": "0xEF2609C7"
+    },
+    {
+        "name": "re_duelwinner_females_01",
+        "hash": -915783151,
+        "hex": "0xC96A4211"
+    },
+    {
+        "name": "re_duelwinner_males_01",
+        "hash": 233635031,
+        "hex": "0x0DECFCD7"
+    },
+    {
+        "name": "re_escort_females_01",
+        "hash": -2120774360,
+        "hex": "0x81978D28"
+    },
+    {
+        "name": "re_executions_males_01",
+        "hash": 589423499,
+        "hex": "0x2321E38B"
+    },
+    {
+        "name": "re_fleeingfamily_females_01",
+        "hash": -1297328501,
+        "hex": "0xB2AC568B"
+    },
+    {
+        "name": "re_fleeingfamily_males_01",
+        "hash": 167525537,
+        "hex": "0x09FC3CA1"
+    },
+    {
+        "name": "re_footrobbery_males_01",
+        "hash": 1727461697,
+        "hex": "0x66F6F941"
+    },
+    {
+        "name": "re_friendlyoutdoorsman_males_01",
+        "hash": -2118163918,
+        "hex": "0x81BF6232"
+    },
+    {
+        "name": "re_frozentodeath_females_01",
+        "hash": -2024407605,
+        "hex": "0x8755FDCB"
+    },
+    {
+        "name": "re_frozentodeath_males_01",
+        "hash": -909128083,
+        "hex": "0xC9CFCE6D"
+    },
+    {
+        "name": "re_fundraiser_females_01",
+        "hash": 774944456,
+        "hex": "0x2E30B6C8"
+    },
+    {
+        "name": "re_fussarchase_males_01",
+        "hash": -463887195,
+        "hex": "0xE459A4A5"
+    },
+    {
+        "name": "re_goldpanner_males_01",
+        "hash": 1313883008,
+        "hex": "0x4E504380"
+    },
+    {
+        "name": "re_horserace_females_01",
+        "hash": -184379555,
+        "hex": "0xF502975D"
+    },
+    {
+        "name": "re_horserace_males_01",
+        "hash": 1824544608,
+        "hex": "0x6CC05760"
+    },
+    {
+        "name": "re_hostagerescue_females_01",
+        "hash": 1563840704,
+        "hex": "0x5D3650C0"
+    },
+    {
+        "name": "re_hostagerescue_males_01",
+        "hash": 1707489324,
+        "hex": "0x65C6382C"
+    },
+    {
+        "name": "re_inbredkidnap_females_01",
+        "hash": -773759899,
+        "hex": "0xD1E15C65"
+    },
+    {
+        "name": "re_inbredkidnap_males_01",
+        "hash": 947689151,
+        "hex": "0x387C96BF"
+    },
+    {
+        "name": "re_injuredrider_males_01",
+        "hash": 1724617660,
+        "hex": "0x66CB93BC"
+    },
+    {
+        "name": "re_kidnappedvictim_females_01",
+        "hash": 299390196,
+        "hex": "0x11D854F4"
+    },
+    {
+        "name": "re_laramiegangrustling_males_01",
+        "hash": 440831189,
+        "hex": "0x1A468CD5"
+    },
+    {
+        "name": "re_loneprisoner_males_01",
+        "hash": -1096778781,
+        "hex": "0xBEA07BE3"
+    },
+    { "name": "re_lostdog_dogs_01", "hash": 947786394, "hex": "0x387E129A" },
+    { "name": "re_lostdog_teens_01", "hash": -592887111, "hex": "0xDCA942B9" },
+    {
+        "name": "re_lostdrunk_females_01",
+        "hash": 1119964042,
+        "hex": "0x42C14B8A"
+    },
+    {
+        "name": "re_lostdrunk_males_01",
+        "hash": -1968014304,
+        "hex": "0x8AB27C20"
+    },
+    {
+        "name": "re_lostfriend_males_01",
+        "hash": 109365347,
+        "hex": "0x0684C863"
+    },
+    { "name": "re_lostman_males_01", "hash": 619335984, "hex": "0x24EA5130" },
+    {
+        "name": "re_moonshinecamp_males_01",
+        "hash": 2031161762,
+        "hex": "0x791111A2"
+    },
+    {
+        "name": "re_murdercamp_males_01",
+        "hash": -894288304,
+        "hex": "0xCAB23E50"
+    },
+    {
+        "name": "re_murdersuicide_females_01",
+        "hash": 1806946182,
+        "hex": "0x6BB3CF86"
+    },
+    {
+        "name": "re_murdersuicide_males_01",
+        "hash": 1141626180,
+        "hex": "0x440BD544"
+    },
+    {
+        "name": "re_nakedswimmer_males_01",
+        "hash": 697338775,
+        "hex": "0x29908B97"
+    },
+    {
+        "name": "re_ontherun_males_01",
+        "hash": -1905521618,
+        "hex": "0x8E6C0C2E"
+    },
+    {
+        "name": "re_outlawlooter_males_01",
+        "hash": -285866914,
+        "hex": "0xEEF6045E"
+    },
+    {
+        "name": "re_parlorambush_males_01",
+        "hash": -1328353693,
+        "hex": "0xB0D2EE63"
+    },
+    {
+        "name": "re_peepingtom_females_01",
+        "hash": 533829074,
+        "hex": "0x1FD195D2"
+    },
+    {
+        "name": "re_peepingtom_males_01",
+        "hash": -546133941,
+        "hex": "0xDF72A84B"
+    },
+    {
+        "name": "re_pickpocket_males_01",
+        "hash": -1853734330,
+        "hex": "0x91824246"
+    },
+    {
+        "name": "re_pisspot_females_01",
+        "hash": -269152223,
+        "hex": "0xEFF51021"
+    },
+    { "name": "re_pisspot_males_01", "hash": -684673946, "hex": "0xD730B466" },
+    {
+        "name": "re_playercampstrangers_females_01",
+        "hash": 1394301813,
+        "hex": "0x531B5B75"
+    },
+    {
+        "name": "re_playercampstrangers_males_01",
+        "hash": 717863599,
+        "hex": "0x2AC9BAAF"
+    },
+    { "name": "re_poisoned_males_01", "hash": 2077006979, "hex": "0x7BCC9C83" },
+    {
+        "name": "re_policechase_males_01",
+        "hash": 738189935,
+        "hex": "0x2BFFE26F"
+    },
+    {
+        "name": "re_prisonwagon_females_01",
+        "hash": 1053410492,
+        "hex": "0x3EC9C4BC"
+    },
+    {
+        "name": "re_prisonwagon_males_01",
+        "hash": 759402348,
+        "hex": "0x2D438F6C"
+    },
+    {
+        "name": "re_publichanging_females_01",
+        "hash": -1292599555,
+        "hex": "0xB2F47EFD"
+    },
+    {
+        "name": "re_publichanging_males_01",
+        "hash": 1747371532,
+        "hex": "0x6826C60C"
+    },
+    {
+        "name": "re_publichanging_teens_01",
+        "hash": -1297016068,
+        "hex": "0xB2B11AFC"
+    },
+    {
+        "name": "re_rallydispute_males_01",
+        "hash": -1150462894,
+        "hex": "0xBB6D5452"
+    },
+    { "name": "re_rally_males_01", "hash": 138961043, "hex": "0x08486093" },
+    {
+        "name": "re_rallysetup_males_01",
+        "hash": 969427509,
+        "hex": "0x39C84A35"
+    },
+    {
+        "name": "re_ratinfestation_males_01",
+        "hash": -1980004848,
+        "hex": "0x89FB8610"
+    },
+    {
+        "name": "re_rowdydrunks_males_01",
+        "hash": 1216219942,
+        "hex": "0x487E0B26"
+    },
+    {
+        "name": "re_savageaftermath_females_01",
+        "hash": -1462699017,
+        "hex": "0xA8D0FBF7"
+    },
+    {
+        "name": "re_savageaftermath_males_01",
+        "hash": -138084980,
+        "hex": "0xF7C4FD8C"
+    },
+    {
+        "name": "re_savagefight_females_01",
+        "hash": 223180727,
+        "hex": "0x0D4D77B7"
+    },
+    {
+        "name": "re_savagefight_males_01",
+        "hash": -1167774274,
+        "hex": "0xBA652DBE"
+    },
+    {
+        "name": "re_savagewagon_females_01",
+        "hash": -5062748,
+        "hex": "0xFFB2BFA4"
+    },
+    {
+        "name": "re_savagewagon_males_01",
+        "hash": -1446119767,
+        "hex": "0xA9CDF6A9"
+    },
+    {
+        "name": "re_savagewarning_males_01",
+        "hash": 1684104525,
+        "hex": "0x6461654D"
+    },
+    {
+        "name": "re_sharpshooter_males_01",
+        "hash": 1769094554,
+        "hex": "0x69723D9A"
+    },
+    { "name": "re_showoff_males_01", "hash": -461722858, "hex": "0xE47AAB16" },
+    {
+        "name": "re_skippingstones_males_01",
+        "hash": 1418081997,
+        "hex": "0x548636CD"
+    },
+    {
+        "name": "re_skippingstones_teens_01",
+        "hash": 953896601,
+        "hex": "0x38DB4E99"
+    },
+    {
+        "name": "re_slumambush_females_01",
+        "hash": 1903971679,
+        "hex": "0x717C4D5F"
+    },
+    {
+        "name": "re_snakebite_males_01",
+        "hash": 1857291027,
+        "hex": "0x6EB40313"
+    },
+    {
+        "name": "re_stalkinghunter_males_01",
+        "hash": -201677013,
+        "hex": "0xF3FAA72B"
+    },
+    {
+        "name": "re_strandedrider_males_01",
+        "hash": -1934076308,
+        "hex": "0x8CB8566C"
+    },
+    {
+        "name": "re_street_fight_males_01",
+        "hash": 137638734,
+        "hex": "0x0834334E"
+    },
+    { "name": "re_taunting_01", "hash": -26529079, "hex": "0xFE6B32C9" },
+    { "name": "re_taunting_males_01", "hash": 1802929426, "hex": "0x6B768512" },
+    {
+        "name": "re_torturingcaptive_males_01",
+        "hash": 2022712280,
+        "hex": "0x789023D8"
+    },
+    {
+        "name": "re_townburial_males_01",
+        "hash": 329996111,
+        "hex": "0x13AB574F"
+    },
+    {
+        "name": "re_townconfrontation_females_01",
+        "hash": 1815821147,
+        "hex": "0x6C3B3B5B"
+    },
+    {
+        "name": "re_townconfrontation_males_01",
+        "hash": -1100953088,
+        "hex": "0xBE60CA00"
+    },
+    {
+        "name": "re_townrobbery_males_01",
+        "hash": 255596169,
+        "hex": "0x0F3C1689"
+    },
+    {
+        "name": "re_townwidow_females_01",
+        "hash": 1131330924,
+        "hex": "0x436EBD6C"
+    },
+    {
+        "name": "re_trainholdup_females_01",
+        "hash": 1066028917,
+        "hex": "0x3F8A4F75"
+    },
+    {
+        "name": "re_trainholdup_males_01",
+        "hash": -1182404303,
+        "hex": "0xB985F131"
+    },
+    {
+        "name": "re_trappedwoman_females_01",
+        "hash": -1449944654,
+        "hex": "0xA99399B2"
+    },
+    {
+        "name": "re_treasurehunter_males_01",
+        "hash": -236730704,
+        "hex": "0xF1E3C6B0"
+    },
+    { "name": "re_voice_females_01", "hash": 1784356385, "hex": "0x6A5B1E21" },
+    {
+        "name": "re_wagonthreat_females_01",
+        "hash": -292796790,
+        "hex": "0xEE8C468A"
+    },
+    {
+        "name": "re_wagonthreat_males_01",
+        "hash": -900398648,
+        "hex": "0xCA5501C8"
+    },
+    {
+        "name": "re_washedashore_males_01",
+        "hash": -1345801615,
+        "hex": "0xAFC8B271"
+    },
+    {
+        "name": "re_wealthycouple_females_01",
+        "hash": 2125931358,
+        "hex": "0x7EB7235E"
+    },
+    {
+        "name": "re_wealthycouple_males_01",
+        "hash": 1992906732,
+        "hex": "0x76C957EC"
+    },
+    { "name": "re_wildman_01", "hash": 634594407, "hex": "0x25D32467" },
+    { "name": "s_f_m_bwmworker_01", "hash": -1835684027, "hex": "0x9295AF45" },
+    { "name": "s_f_m_cghworker_01", "hash": -588355879, "hex": "0xDCEE66D9" },
+    { "name": "s_f_m_mapworker_01", "hash": -1000093363, "hex": "0xC463C94D" },
+    {
+        "name": "shack_missinghusband_males_01",
+        "hash": 1385399145,
+        "hex": "0x52938369"
+    },
+    {
+        "name": "shack_ontherun_males_01",
+        "hash": -1737978570,
+        "hex": "0x98688D36"
+    },
+    {
+        "name": "s_m_m_ambientblwpolice_01",
+        "hash": -1891246613,
+        "hex": "0x8F45DDEB"
+    },
+    {
+        "name": "s_m_m_ambientlawrural_01",
+        "hash": 1830978939,
+        "hex": "0x6D22857B"
+    },
+    {
+        "name": "s_m_m_ambientsdpolice_01",
+        "hash": -1448273283,
+        "hex": "0xA9AD1A7D"
+    },
+    { "name": "s_m_m_army_01", "hash": 722236839, "hex": "0x2B0C75A7" },
+    { "name": "s_m_m_asbcowpoke_01", "hash": -1135312041, "hex": "0xBC548357" },
+    { "name": "s_m_m_asbdealer_01", "hash": -1486681919, "hex": "0xA76308C1" },
+    { "name": "s_m_m_bankclerk_01", "hash": 1086659483, "hex": "0x40C51B9B" },
+    { "name": "s_m_m_barber_01", "hash": -755343600, "hex": "0xD2FA5F10" },
+    { "name": "s_m_m_blwcowpoke_01", "hash": 1169277545, "hex": "0x45B1C269" },
+    { "name": "s_m_m_blwdealer_01", "hash": -1766535683, "hex": "0x96B4CDFD" },
+    { "name": "s_m_m_bwmworker_01", "hash": 2141696151, "hex": "0x7FA7B097" },
+    { "name": "s_m_m_cghworker_01", "hash": -1642483742, "hex": "0x9E19AFE2" },
+    { "name": "s_m_m_cktworker_01", "hash": -869574551, "hex": "0xCC2B5869" },
+    {
+        "name": "s_m_m_coachtaxidriver_01",
+        "hash": 1995969965,
+        "hex": "0x76F815AD"
+    },
+    {
+        "name": "s_m_m_cornwallguard_01",
+        "hash": -1088485514,
+        "hex": "0xBF1F0776"
+    },
+    {
+        "name": "s_m_m_dispatchlawrural_01",
+        "hash": -369841376,
+        "hex": "0xE9F4AB20"
+    },
+    {
+        "name": "s_m_m_dispatchleaderpolice_01",
+        "hash": 2115431565,
+        "hex": "0x7E16EC8D"
+    },
+    {
+        "name": "s_m_m_dispatchleaderrural_01",
+        "hash": 1346436956,
+        "hex": "0x5040FF5C"
+    },
+    {
+        "name": "s_m_m_dispatchpolice_01",
+        "hash": -4539399,
+        "hex": "0xFFBABBF9"
+    },
+    {
+        "name": "s_m_m_fussarhenchman_01",
+        "hash": -384354290,
+        "hex": "0xE917380E"
+    },
+    {
+        "name": "s_m_m_genconductor_01",
+        "hash": 1442933459,
+        "hex": "0x56016AD3"
+    },
+    { "name": "s_m_m_hofguard_01", "hash": 747462423, "hex": "0x2C8D5F17" },
+    {
+        "name": "s_m_m_liveryworker_01",
+        "hash": -2041975017,
+        "hex": "0x8649EF17"
+    },
+    { "name": "s_m_m_magiclantern_01", "hash": 594254304, "hex": "0x236B99E0" },
+    { "name": "s_m_m_mapworker_01", "hash": 1248528309, "hex": "0x4A6B07B5" },
+    {
+        "name": "s_m_m_marketvendor_01",
+        "hash": 1396302955,
+        "hex": "0x5339E46B"
+    },
+    {
+        "name": "s_m_m_marshallsrural_01",
+        "hash": 826385717,
+        "hex": "0x3141A535"
+    },
+    { "name": "s_m_m_micguard_01", "hash": -648879076, "hex": "0xD952E41C" },
+    {
+        "name": "s_m_m_nbxriverboatdealers_01",
+        "hash": 1566847401,
+        "hex": "0x5D6431A9"
+    },
+    {
+        "name": "s_m_m_nbxriverboatguards_01",
+        "hash": -553582603,
+        "hex": "0xDF00FFF5"
+    },
+    { "name": "s_m_m_orpguard_01", "hash": 1783515503, "hex": "0x6A4E496F" },
+    { "name": "s_m_m_pinlaw_01", "hash": 737910671, "hex": "0x2BFB9F8F" },
+    {
+        "name": "s_m_m_racrailguards_01",
+        "hash": -1222479678,
+        "hex": "0xB72270C2"
+    },
+    {
+        "name": "s_m_m_racrailworker_01",
+        "hash": 1825169840,
+        "hex": "0x6CC9E1B0"
+    },
+    { "name": "s_m_m_rhdcowpoke_01", "hash": -302637951, "hex": "0xEDF61C81" },
+    { "name": "s_m_m_rhddealer_01", "hash": -669394275, "hex": "0xD819DA9D" },
+    { "name": "s_m_m_sdcowpoke_01", "hash": -926591360, "hex": "0xC8C55680" },
+    { "name": "s_m_m_sddealer_01", "hash": 1818250007, "hex": "0x6C604B17" },
+    {
+        "name": "s_m_m_sdticketseller_01",
+        "hash": -534058408,
+        "hex": "0xE02AEA58"
+    },
+    { "name": "s_m_m_skpguard_01", "hash": 1167462574, "hex": "0x459610AE" },
+    { "name": "s_m_m_stgsailor_01", "hash": -983719561, "hex": "0xC55DA177" },
+    { "name": "s_m_m_strcowpoke_01", "hash": -51068900, "hex": "0xFCF4C01C" },
+    { "name": "s_m_m_strdealer_01", "hash": 1709294431, "hex": "0x65E1C35F" },
+    {
+        "name": "s_m_m_strlumberjack_01",
+        "hash": 413771941,
+        "hex": "0x18A9A8A5"
+    },
+    { "name": "s_m_m_tailor_01", "hash": 719681311, "hex": "0x2AE5771F" },
+    {
+        "name": "s_m_m_trainstationworker_01",
+        "hash": -378974401,
+        "hex": "0xE9694F3F"
+    },
+    {
+        "name": "s_m_m_tumdeputies_01",
+        "hash": -1300496362,
+        "hex": "0xB27C0016"
+    },
+    { "name": "s_m_m_unibutchers_01", "hash": 104062879, "hex": "0x0633DF9F" },
+    {
+        "name": "s_m_m_unitrainengineer_01",
+        "hash": -786018483,
+        "hex": "0xD1264F4D"
+    },
+    {
+        "name": "s_m_m_unitrainguards_01",
+        "hash": 138130985,
+        "hex": "0x083BB629"
+    },
+    {
+        "name": "s_m_m_valbankguards_01",
+        "hash": -1767139687,
+        "hex": "0x96AB9699"
+    },
+    { "name": "s_m_m_valcowpoke_01", "hash": 1124384604, "hex": "0x4304BF5C" },
+    { "name": "s_m_m_valdealer_01", "hash": -1680931998, "hex": "0x9BCF0362" },
+    { "name": "s_m_m_valdeputy_01", "hash": -189525382, "hex": "0xF4B4127A" },
+    { "name": "s_m_m_vhtdealer_01", "hash": 964905443, "hex": "0x398349E3" },
+    { "name": "s_m_o_cktworker_01", "hash": 1343564320, "hex": "0x50152A20" },
+    { "name": "s_m_y_army_01", "hash": -2144902919, "hex": "0x802760F9" },
+    { "name": "s_m_y_newspaperboy_01", "hash": 286955722, "hex": "0x111A98CA" },
+    {
+        "name": "s_m_y_racrailworker_01",
+        "hash": -2064282163,
+        "hex": "0x84F58DCD"
+    },
+    { "name": "u_f_m_bht_wife", "hash": 1361127922, "hex": "0x512129F2" },
+    { "name": "u_f_m_circuswagon_01", "hash": 1597957331, "hex": "0x5F3EE4D3" },
+    { "name": "u_f_m_emrdaughter_01", "hash": -650182355, "hex": "0xD93F012D" },
+    {
+        "name": "u_f_m_fussar1lady_01",
+        "hash": -1310930881,
+        "hex": "0xB1DCC83F"
+    },
+    { "name": "u_f_m_htlwife_01", "hash": 1992580848, "hex": "0x76C45EF0" },
+    { "name": "u_f_m_lagmother_01", "hash": 1101842364, "hex": "0x41ACC7BC" },
+    {
+        "name": "u_f_m_nbxresident_01",
+        "hash": -1351631545,
+        "hex": "0xAF6FBD47"
+    },
+    {
+        "name": "u_f_m_rhdnudewoman_01",
+        "hash": -1724440025,
+        "hex": "0x99372227"
+    },
+    {
+        "name": "u_f_m_rkshomesteadtenant_01",
+        "hash": -378814141,
+        "hex": "0xE96BC143"
+    },
+    {
+        "name": "u_f_m_story_blackbelle_01",
+        "hash": -954469935,
+        "hex": "0xC71BF1D1"
+    },
+    {
+        "name": "u_f_m_story_nightfolk_01",
+        "hash": 1008528096,
+        "hex": "0x3C1CEAE0"
+    },
+    { "name": "u_f_m_tljbartender_01", "hash": 169973797, "hex": "0x0A219825" },
+    {
+        "name": "u_f_m_tumgeneralstoreowner_01",
+        "hash": -244246985,
+        "hex": "0xF1711637"
+    },
+    {
+        "name": "u_f_m_valtownfolk_01",
+        "hash": -1890279610,
+        "hex": "0x8F549F46"
+    },
+    { "name": "u_f_m_valtownfolk_02", "hash": 2093152803, "hex": "0x7CC2FA23" },
+    {
+        "name": "u_f_m_vhtbartender_01",
+        "hash": 1044845632,
+        "hex": "0x3E471440"
+    },
+    {
+        "name": "u_f_o_hermit_woman_01",
+        "hash": -306120918,
+        "hex": "0xEDC0F72A"
+    },
+    {
+        "name": "u_f_o_wtctownfolk_01",
+        "hash": -1372052980,
+        "hex": "0xAE38220C"
+    },
+    {
+        "name": "u_f_y_braithwaitessecret_01",
+        "hash": 1960786232,
+        "hex": "0x74DF3938"
+    },
+    {
+        "name": "u_f_y_czphomesteaddaughter_01",
+        "hash": -1127689377,
+        "hex": "0xBCC8D35F"
+    },
+    { "name": "u_m_m_announcer_01", "hash": -1935733155, "hex": "0x8C9F0E5D" },
+    { "name": "u_m_m_apfdeadman_01", "hash": 118999545, "hex": "0x0717C9F9" },
+    {
+        "name": "u_m_m_armgeneralstoreowner_01",
+        "hash": -975237890,
+        "hex": "0xC5DF0CFE"
+    },
+    {
+        "name": "u_m_m_armtrainstationworker_01",
+        "hash": 716704079,
+        "hex": "0x2AB8094F"
+    },
+    {
+        "name": "u_m_m_armundertaker_01",
+        "hash": -1907373307,
+        "hex": "0x8E4FCB05"
+    },
+    { "name": "u_m_m_armytrn4_01", "hash": 1335097022, "hex": "0x4F93F6BE" },
+    {
+        "name": "u_m_m_asbgunsmith_01",
+        "hash": -2133834671,
+        "hex": "0x80D04451"
+    },
+    { "name": "u_m_m_asbprisoner_01", "hash": 193808733, "hex": "0x0B8D495D" },
+    { "name": "u_m_m_asbprisoner_02", "hash": 500100576, "hex": "0x1DCEEDE0" },
+    {
+        "name": "u_m_m_bht_banditomine",
+        "hash": -1008616424,
+        "hex": "0xC3E1BC18"
+    },
+    {
+        "name": "u_m_m_bht_banditoshack",
+        "hash": -1011228908,
+        "hex": "0xC3B9DF14"
+    },
+    {
+        "name": "u_m_m_bht_benedictallbright",
+        "hash": 722156226,
+        "hex": "0x2B0B3AC2"
+    },
+    {
+        "name": "u_m_m_bht_blackwaterhunt",
+        "hash": -1397059493,
+        "hex": "0xACBA905B"
+    },
+    {
+        "name": "U_M_M_BHT_EXCONFEDCAMPRETURN",
+        "hash": 1697515844,
+        "hex": "0x652E0944"
+    },
+    {
+        "name": "U_M_M_BHT_LARAMIESLEEPING",
+        "hash": -872333558,
+        "hex": "0xCC013F0A"
+    },
+    { "name": "u_m_m_bht_lover", "hash": -1222108912, "hex": "0xB7281910" },
+    {
+        "name": "u_m_m_bht_mineforeman",
+        "hash": 1624257462,
+        "hex": "0x60D033B6"
+    },
+    { "name": "u_m_m_bht_nathankirk", "hash": 580144909, "hex": "0x22944F0D" },
+    {
+        "name": "u_m_m_bht_odriscolldrunk",
+        "hash": -977480216,
+        "hex": "0xC5BCD5E8"
+    },
+    {
+        "name": "u_m_m_bht_odriscollmauled",
+        "hash": -1564938276,
+        "hex": "0xA2B8EFDC"
+    },
+    {
+        "name": "u_m_m_bht_odriscollsleeping",
+        "hash": 778775984,
+        "hex": "0x2E6B2DB0"
+    },
+    { "name": "u_m_m_bht_oldman", "hash": -936934718, "hex": "0xC82782C2" },
+    {
+        "name": "u_m_m_bht_outlawmauled",
+        "hash": 1650458665,
+        "hex": "0x62600029"
+    },
+    {
+        "name": "u_m_m_bht_saintdenissaloon",
+        "hash": 717679744,
+        "hex": "0x2AC6EC80"
+    },
+    {
+        "name": "u_m_m_bht_shackescape",
+        "hash": -2044758506,
+        "hex": "0x861F7616"
+    },
+    {
+        "name": "u_m_m_bht_skinnerbrother",
+        "hash": 1921874948,
+        "hex": "0x728D7C04"
+    },
+    {
+        "name": "u_m_m_bht_skinnersearch",
+        "hash": -1910990966,
+        "hex": "0x8E18978A"
+    },
+    {
+        "name": "u_m_m_bht_strawberryduel",
+        "hash": 1726657594,
+        "hex": "0x66EAB43A"
+    },
+    { "name": "u_m_m_bivforeman_01", "hash": -1206299098, "hex": "0xB8195626" },
+    {
+        "name": "u_m_m_blwtrainstationworker_01",
+        "hash": -744221547,
+        "hex": "0xD3A41495"
+    },
+    {
+        "name": "u_m_m_bulletcatchvolunteer_01",
+        "hash": 339709868,
+        "hex": "0x143F8FAC"
+    },
+    {
+        "name": "u_m_m_bwmstablehand_01",
+        "hash": -1568967682,
+        "hex": "0xA27B73FE"
+    },
+    {
+        "name": "U_M_M_CABARETFIREHAT_01",
+        "hash": -141596905,
+        "hex": "0xF78F6717"
+    },
+    {
+        "name": "u_m_m_cajhomestead_01",
+        "hash": 1734038839,
+        "hex": "0x675B5537"
+    },
+    {
+        "name": "u_m_m_chelonianjumper_01",
+        "hash": -1560668379,
+        "hex": "0xA2FA1725"
+    },
+    {
+        "name": "u_m_m_chelonianjumper_02",
+        "hash": -1858112592,
+        "hex": "0x913F73B0"
+    },
+    {
+        "name": "u_m_m_chelonianjumper_03",
+        "hash": 2145308911,
+        "hex": "0x7FDED0EF"
+    },
+    {
+        "name": "u_m_m_chelonianjumper_04",
+        "hash": 1578995053,
+        "hex": "0x5E1D8D6D"
+    },
+    { "name": "u_m_m_circuswagon_01", "hash": 1734364448, "hex": "0x67604D20" },
+    { "name": "u_m_m_cktmanager_01", "hash": -1021362867, "hex": "0xC31F3D4D" },
+    {
+        "name": "u_m_m_cornwalldriver_01",
+        "hash": 1286871718,
+        "hex": "0x4CB41AA6"
+    },
+    {
+        "name": "u_m_m_crdhomesteadtenant_01",
+        "hash": 847448713,
+        "hex": "0x32830A89"
+    },
+    {
+        "name": "u_m_m_crdhomesteadtenant_02",
+        "hash": 1765636093,
+        "hex": "0x693D77FD"
+    },
+    { "name": "u_m_m_crdwitness_01", "hash": -670746618, "hex": "0xD8053806" },
+    {
+        "name": "u_m_m_creolecaptain_01",
+        "hash": -628794682,
+        "hex": "0xDA855AC6"
+    },
+    {
+        "name": "u_m_m_czphomesteadfather_01",
+        "hash": 147427595,
+        "hex": "0x08C9910B"
+    },
+    {
+        "name": "u_m_m_dorhomesteadhusband_01",
+        "hash": -1448813815,
+        "hex": "0xA9A4DB09"
+    },
+    { "name": "u_m_m_emrfarmhand_03", "hash": -901833437, "hex": "0xCA3F1D23" },
+    { "name": "u_m_m_emrfather_01", "hash": -795893780, "hex": "0xD08F9FEC" },
+    {
+        "name": "u_m_m_executioner_01",
+        "hash": -1722482035,
+        "hex": "0x9955028D"
+    },
+    { "name": "u_m_m_fatduster_01", "hash": 215164947, "hex": "0x0CD32813" },
+    {
+        "name": "u_m_m_finale2_aa_upperclass_01",
+        "hash": 687302557,
+        "hex": "0x28F7679D"
+    },
+    {
+        "name": "u_m_m_galastringquartet_01",
+        "hash": 244009657,
+        "hex": "0x0E8B4AB9"
+    },
+    {
+        "name": "u_m_m_galastringquartet_02",
+        "hash": 1142470111,
+        "hex": "0x4418B5DF"
+    },
+    {
+        "name": "u_m_m_galastringquartet_03",
+        "hash": 826216492,
+        "hex": "0x313F102C"
+    },
+    {
+        "name": "u_m_m_galastringquartet_04",
+        "hash": 1736277160,
+        "hex": "0x677D7CA8"
+    },
+    { "name": "u_m_m_gamdoorman_01", "hash": 1370968326, "hex": "0x51B75106" },
+    { "name": "u_m_m_hhrrancher_01", "hash": -438696255, "hex": "0xE5DA06C1" },
+    { "name": "u_m_m_htlforeman_01", "hash": 512211978, "hex": "0x1E87BC0A" },
+    { "name": "u_m_m_htlhusband_01", "hash": -775610875, "hex": "0xD1C51E05" },
+    {
+        "name": "u_m_m_htlrancherbounty_01",
+        "hash": -1694480560,
+        "hex": "0x9B004750"
+    },
+    { "name": "u_m_m_islbum_01", "hash": -1889138987, "hex": "0x8F6606D5" },
+    { "name": "u_m_m_lnsoutlaw_01", "hash": 502238862, "hex": "0x1DEF8E8E" },
+    { "name": "u_m_m_lnsoutlaw_02", "hash": 736176753, "hex": "0x2BE12A71" },
+    { "name": "u_m_m_lnsoutlaw_03", "hash": 1760797833, "hex": "0x68F3A489" },
+    { "name": "u_m_m_lnsoutlaw_04", "hash": 948028330, "hex": "0x3881C3AA" },
+    { "name": "u_m_m_lnsworker_01", "hash": -867338226, "hex": "0xCC4D780E" },
+    { "name": "u_m_m_lnsworker_02", "hash": -1290910320, "hex": "0xB30E4590" },
+    { "name": "u_m_m_lnsworker_03", "hash": -1594908333, "hex": "0xA0EFA153" },
+    { "name": "u_m_m_lnsworker_04", "hash": -1849883922, "hex": "0x91BD02EE" },
+    {
+        "name": "u_m_m_lrshomesteadtenant_01",
+        "hash": -101801426,
+        "hex": "0xF9EEA22E"
+    },
+    { "name": "u_m_m_mfrrancher_01", "hash": -115660769, "hex": "0xF91B281F" },
+    { "name": "u_m_m_mud3pimp_01", "hash": 1825745663, "hex": "0x6CD2AAFF" },
+    {
+        "name": "u_m_m_nbxbankerbounty_01",
+        "hash": 775492026,
+        "hex": "0x2E3911BA"
+    },
+    { "name": "u_m_m_nbxbartender_01", "hash": 518339740, "hex": "0x1EE53C9C" },
+    { "name": "u_m_m_nbxbartender_02", "hash": 219322615, "hex": "0x0D1298F7" },
+    {
+        "name": "u_m_m_nbxboatticketseller_01",
+        "hash": -1219301969,
+        "hex": "0xB752EDAF"
+    },
+    {
+        "name": "u_m_m_nbxbronteasc_01",
+        "hash": 1112571710,
+        "hex": "0x42507F3E"
+    },
+    {
+        "name": "u_m_m_nbxbrontegoon_01",
+        "hash": -1208814201,
+        "hex": "0xB7F2F587"
+    },
+    {
+        "name": "u_m_m_nbxbrontesecform_01",
+        "hash": -390289284,
+        "hex": "0xE8BCA87C"
+    },
+    {
+        "name": "u_m_m_nbxgeneralstoreowner_01",
+        "hash": 1410479894,
+        "hex": "0x54123716"
+    },
+    {
+        "name": "u_m_m_nbxgraverobber_01",
+        "hash": -63103461,
+        "hex": "0xFC3D1E1B"
+    },
+    {
+        "name": "u_m_m_nbxgraverobber_02",
+        "hash": 2088541856,
+        "hex": "0x7C7C9EA0"
+    },
+    {
+        "name": "u_m_m_nbxgraverobber_03",
+        "hash": -1883388638,
+        "hex": "0x8FBDC522"
+    },
+    {
+        "name": "u_m_m_nbxgraverobber_04",
+        "hash": 1035510041,
+        "hex": "0x3DB8A119"
+    },
+    {
+        "name": "u_m_m_nbxgraverobber_05",
+        "hash": 871271813,
+        "hex": "0x33EE8D85"
+    },
+    { "name": "u_m_m_nbxgunsmith_01", "hash": 711387733, "hex": "0x2A66EA55" },
+    {
+        "name": "u_m_m_nbxliveryworker_01",
+        "hash": 2052319075,
+        "hex": "0x7A53E763"
+    },
+    { "name": "u_m_m_nbxmusician_01", "hash": 1720092134, "hex": "0x668685E6" },
+    { "name": "u_m_m_nbxpriest_01", "hash": -577761603, "hex": "0xDD900EBD" },
+    { "name": "u_m_m_nbxresident_01", "hash": 1809883183, "hex": "0x6BE0A02F" },
+    { "name": "u_m_m_nbxresident_02", "hash": 1270374363, "hex": "0x4BB85FDB" },
+    { "name": "u_m_m_nbxresident_03", "hash": 1501428582, "hex": "0x597DFB66" },
+    { "name": "u_m_m_nbxresident_04", "hash": 656184996, "hex": "0x271C96A4" },
+    {
+        "name": "u_m_m_nbxriverboatpitboss_01",
+        "hash": -439873673,
+        "hex": "0xE5C80F77"
+    },
+    {
+        "name": "u_m_m_nbxriverboattarget_01",
+        "hash": 380865559,
+        "hex": "0x16B38C17"
+    },
+    {
+        "name": "u_m_m_nbxshadydealer_01",
+        "hash": 455567824,
+        "hex": "0x1B2769D0"
+    },
+    {
+        "name": "u_m_m_nbxskiffdriver_01",
+        "hash": -734336984,
+        "hex": "0xD43AE828"
+    },
+    {
+        "name": "u_m_m_oddfellowparticipant_01",
+        "hash": 1110781448,
+        "hex": "0x42352E08"
+    },
+    {
+        "name": "u_m_m_odriscollbrawler_01",
+        "hash": -1228868259,
+        "hex": "0xB6C0F55D"
+    },
+    { "name": "u_m_m_orpguard_01", "hash": -1005179481, "hex": "0xC4162DA7" },
+    { "name": "u_m_m_racforeman_01", "hash": -532378284, "hex": "0xE0448D54" },
+    {
+        "name": "u_m_m_racquartermaster_01",
+        "hash": 1843899663,
+        "hex": "0x6DE7AD0F"
+    },
+    {
+        "name": "u_m_m_rhdbackupdeputy_01",
+        "hash": -1904849241,
+        "hex": "0x8E764EA7"
+    },
+    {
+        "name": "u_m_m_rhdbackupdeputy_02",
+        "hash": 2074847506,
+        "hex": "0x7BABA912"
+    },
+    { "name": "u_m_m_rhdbartender_01", "hash": 601521823, "hex": "0x23DA7E9F" },
+    { "name": "u_m_m_rhddoctor_01", "hash": 708284478, "hex": "0x2A37903E" },
+    {
+        "name": "u_m_m_rhdfiddleplayer_01",
+        "hash": 983550520,
+        "hex": "0x3A9FCA38"
+    },
+    {
+        "name": "u_m_m_rhdgenstoreowner_01",
+        "hash": -1684080969,
+        "hex": "0x9B9EF6B7"
+    },
+    {
+        "name": "u_m_m_rhdgenstoreowner_02",
+        "hash": -1992863256,
+        "hex": "0x893751E8"
+    },
+    {
+        "name": "u_m_m_rhdgunsmith_01",
+        "hash": -1378192434,
+        "hex": "0xADDA73CE"
+    },
+    { "name": "u_m_m_rhdpreacher_01", "hash": 112254571, "hex": "0x06B0DE6B" },
+    { "name": "u_m_m_rhdsheriff_01", "hash": -949242502, "hex": "0xC76BB57A" },
+    {
+        "name": "u_m_m_rhdtrainstationworker_01",
+        "hash": 1057932105,
+        "hex": "0x3F0EC349"
+    },
+    {
+        "name": "u_m_m_rhdundertaker_01",
+        "hash": 559457635,
+        "hex": "0x2158A563"
+    },
+    {
+        "name": "u_m_m_riodonkeyrider_01",
+        "hash": 1668739822,
+        "hex": "0x6376F2EE"
+    },
+    { "name": "u_m_m_rkfrancher_01", "hash": 998604860, "hex": "0x3B85803C" },
+    {
+        "name": "u_m_m_rkrdonkeyrider_01",
+        "hash": -1520910353,
+        "hex": "0xA558BFEF"
+    },
+    { "name": "u_m_m_rwfrancher_01", "hash": -1576416470, "hex": "0xA209CB2A" },
+    { "name": "u_m_m_sdbankguard_01", "hash": 311221568, "hex": "0x128CDD40" },
+    {
+        "name": "u_m_m_sdcustomvendor_01",
+        "hash": 1074672809,
+        "hex": "0x400E34A9"
+    },
+    {
+        "name": "u_m_m_sdexoticsshopkeeper_01",
+        "hash": -251486557,
+        "hex": "0xF1029EA3"
+    },
+    {
+        "name": "u_m_m_sdphotographer_01",
+        "hash": -1096976415,
+        "hex": "0xBE9D77E1"
+    },
+    {
+        "name": "u_m_m_sdpolicechief_01",
+        "hash": 1553588674,
+        "hex": "0x5C99E1C2"
+    },
+    {
+        "name": "u_m_m_sdstrongwomanassistant_01",
+        "hash": -860316745,
+        "hex": "0xCCB89BB7"
+    },
+    { "name": "u_m_m_sdtrapper_01", "hash": 590444944, "hex": "0x23317990" },
+    {
+        "name": "u_m_m_sdwealthytraveller_01",
+        "hash": 1072575506,
+        "hex": "0x3FEE3412"
+    },
+    {
+        "name": "u_m_m_shackserialkiller_01",
+        "hash": 1655532652,
+        "hex": "0x62AD6C6C"
+    },
+    { "name": "u_m_m_shacktwin_01", "hash": 2105107848, "hex": "0x7D796588" },
+    { "name": "u_m_m_shacktwin_02", "hash": 2049924852, "hex": "0x7A2F5EF4" },
+    { "name": "u_m_m_skinnyoldguy_01", "hash": 139676400, "hex": "0x08534AF0" },
+    {
+        "name": "u_m_m_story_armadillo_01",
+        "hash": 429612335,
+        "hex": "0x199B5D2F"
+    },
+    {
+        "name": "u_m_m_story_cannibal_01",
+        "hash": 26913812,
+        "hex": "0x019AAC14"
+    },
+    {
+        "name": "u_m_m_story_chelonian_01",
+        "hash": -1459771423,
+        "hex": "0xA8FDA7E1"
+    },
+    {
+        "name": "u_m_m_story_copperhead_01",
+        "hash": 778449680,
+        "hex": "0x2E663310"
+    },
+    {
+        "name": "u_m_m_story_creeper_01",
+        "hash": 1341900636,
+        "hex": "0x4FFBC75C"
+    },
+    {
+        "name": "u_m_m_story_emeraldranch_01",
+        "hash": 2122367085,
+        "hex": "0x7E80C06D"
+    },
+    {
+        "name": "u_m_m_story_hunter_01",
+        "hash": 1706246174,
+        "hex": "0x65B3401E"
+    },
+    {
+        "name": "u_m_m_story_manzanita_01",
+        "hash": -2099781628,
+        "hex": "0x82D7E004"
+    },
+    {
+        "name": "u_m_m_story_murfee_01",
+        "hash": 1195409633,
+        "hex": "0x474080E1"
+    },
+    {
+        "name": "u_m_m_story_pigfarm_01",
+        "hash": -691156851,
+        "hex": "0xD6CDC88D"
+    },
+    {
+        "name": "u_m_m_story_princess_01",
+        "hash": 1123298495,
+        "hex": "0x42F42CBF"
+    },
+    {
+        "name": "u_m_m_story_redharlow_01",
+        "hash": -2111755507,
+        "hex": "0x82212B0D"
+    },
+    {
+        "name": "u_m_m_story_rhodes_01",
+        "hash": -304376856,
+        "hex": "0xEDDB93E8"
+    },
+    {
+        "name": "u_m_m_story_sdstatue_01",
+        "hash": -811023519,
+        "hex": "0xCFA8C361"
+    },
+    {
+        "name": "u_m_m_story_spectre_01",
+        "hash": 217176582,
+        "hex": "0x0CF1DA06"
+    },
+    {
+        "name": "u_m_m_story_treasure_01",
+        "hash": 1419909267,
+        "hex": "0x54A21893"
+    },
+    {
+        "name": "u_m_m_story_tumbleweed_01",
+        "hash": 1653521800,
+        "hex": "0x628EBD88"
+    },
+    {
+        "name": "u_m_m_story_valentine_01",
+        "hash": 1449129819,
+        "hex": "0x565FF75B"
+    },
+    {
+        "name": "u_m_m_strfreightstationowner_01",
+        "hash": 292812873,
+        "hex": "0x1173F849"
+    },
+    {
+        "name": "u_m_m_strgenstoreowner_01",
+        "hash": 273671859,
+        "hex": "0x104FE6B3"
+    },
+    { "name": "u_m_m_strsherriff_01", "hash": 2012148102, "hex": "0x77EEF186" },
+    {
+        "name": "u_m_m_strwelcomecenter_01",
+        "hash": 1093170527,
+        "hex": "0x4128755F"
+    },
+    {
+        "name": "u_m_m_tumbartender_01",
+        "hash": -753196385,
+        "hex": "0xD31B229F"
+    },
+    { "name": "u_m_m_tumbutcher_01", "hash": -1855407989, "hex": "0x9168B88B" },
+    { "name": "u_m_m_tumgunsmith_01", "hash": 2046492700, "hex": "0x79FB001C" },
+    {
+        "name": "u_m_m_tumtrainstationworker_01",
+        "hash": 1729294941,
+        "hex": "0x6712F25D"
+    },
+    {
+        "name": "u_m_m_unibountyhunter_01",
+        "hash": 2052768310,
+        "hex": "0x7A5AC236"
+    },
+    {
+        "name": "u_m_m_unibountyhunter_02",
+        "hash": -1332334928,
+        "hex": "0xB0962EB0"
+    },
+    {
+        "name": "u_m_m_unidusterhenchman_01",
+        "hash": 247176142,
+        "hex": "0x0EBB9BCE"
+    },
+    {
+        "name": "u_m_m_unidusterhenchman_02",
+        "hash": -486390692,
+        "hex": "0xE302445C"
+    },
+    {
+        "name": "u_m_m_unidusterhenchman_03",
+        "hash": -776789570,
+        "hex": "0xD1B321BE"
+    },
+    {
+        "name": "u_m_m_unidusterleader_01",
+        "hash": 1017000466,
+        "hex": "0x3C9E3212"
+    },
+    {
+        "name": "u_m_m_uniexconfedsbounty_01",
+        "hash": 466209020,
+        "hex": "0x1BC9C8FC"
+    },
+    { "name": "u_m_m_unionleader_01", "hash": 1606988569, "hex": "0x5FC8B319" },
+    { "name": "u_m_m_unionleader_02", "hash": 1830538687, "hex": "0x6D1BCDBF" },
+    {
+        "name": "u_m_m_unipeepingtom_01",
+        "hash": 1578191039,
+        "hex": "0x5E1148BF"
+    },
+    {
+        "name": "u_m_m_valauctionforman_01",
+        "hash": 122919097,
+        "hex": "0x075398B9"
+    },
+    {
+        "name": "u_m_m_valauctionforman_02",
+        "hash": 1322985415,
+        "hex": "0x4EDB27C7"
+    },
+    { "name": "u_m_m_valbarber_01", "hash": -747524508, "hex": "0xD371AE64" },
+    {
+        "name": "u_m_m_valbartender_01",
+        "hash": -1221341425,
+        "hex": "0xB733CF0F"
+    },
+    { "name": "u_m_m_valbeartrap_01", "hash": 1761712744, "hex": "0x69019A68" },
+    { "name": "u_m_m_valbutcher_01", "hash": 601909643, "hex": "0x23E0698B" },
+    { "name": "u_m_m_valdoctor_01", "hash": 1901354405, "hex": "0x71545DA5" },
+    {
+        "name": "u_m_m_valgenstoreowner_01",
+        "hash": -1690413797,
+        "hex": "0x9B3E551B"
+    },
+    {
+        "name": "u_m_m_valgunsmith_01",
+        "hash": -1144663425,
+        "hex": "0xBBC5D27F"
+    },
+    {
+        "name": "u_m_m_valhotelowner_01",
+        "hash": -1234234638,
+        "hex": "0xB66F12F2"
+    },
+    {
+        "name": "u_m_m_valpokerplayer_01",
+        "hash": -692960126,
+        "hex": "0xD6B24482"
+    },
+    {
+        "name": "u_m_m_valpokerplayer_02",
+        "hash": 60202542,
+        "hex": "0x03969E2E"
+    },
+    {
+        "name": "u_m_m_valpoopingman_01",
+        "hash": 375919668,
+        "hex": "0x16681434"
+    },
+    { "name": "u_m_m_valsheriff_01", "hash": -1817144219, "hex": "0x93B09465" },
+    { "name": "u_m_m_valtheman_01", "hash": -791405787, "hex": "0xD0D41B25" },
+    { "name": "u_m_m_valtownfolk_01", "hash": -993239322, "hex": "0xC4CC5EE6" },
+    {
+        "name": "u_m_m_valtownfolk_02",
+        "hash": -1510399680,
+        "hex": "0xA5F92140"
+    },
+    {
+        "name": "u_m_m_vhtstationclerk_01",
+        "hash": -972643259,
+        "hex": "0xC606A445"
+    },
+    {
+        "name": "u_m_m_walgeneralstoreowner_01",
+        "hash": 1121798079,
+        "hex": "0x42DD47BF"
+    },
+    { "name": "u_m_m_wapofficial_01", "hash": 1591511410, "hex": "0x5EDC8972" },
+    { "name": "u_m_m_wtccowboy_04", "hash": -544190016, "hex": "0xDF9051C0" },
+    {
+        "name": "u_m_o_armbartender_01",
+        "hash": -580052172,
+        "hex": "0xDD6D1B34"
+    },
+    { "name": "u_m_o_asbsheriff_01", "hash": 485431621, "hex": "0x1CEF1945" },
+    {
+        "name": "u_m_o_bht_docwormwood",
+        "hash": -1607312562,
+        "hex": "0xA0325B4E"
+    },
+    {
+        "name": "u_m_o_blwbartender_01",
+        "hash": -1904097193,
+        "hex": "0x8E81C857"
+    },
+    {
+        "name": "u_m_o_blwgeneralstoreowner_01",
+        "hash": 1767420034,
+        "hex": "0x6958B082"
+    },
+    {
+        "name": "u_m_o_blwphotographer_01",
+        "hash": 999891838,
+        "hex": "0x3B99237E"
+    },
+    {
+        "name": "u_m_o_blwpolicechief_01",
+        "hash": 1744529953,
+        "hex": "0x67FB6A21"
+    },
+    { "name": "u_m_o_cajhomestead_01", "hash": 283141989, "hex": "0x10E06765" },
+    {
+        "name": "u_m_o_cmrcivilwarcommando_01",
+        "hash": -324807411,
+        "hex": "0xECA3D50D"
+    },
+    {
+        "name": "u_m_o_mapwiseoldman_01",
+        "hash": -561610178,
+        "hex": "0xDE86823E"
+    },
+    { "name": "u_m_o_oldcajun_01", "hash": -1342246546, "hex": "0xAFFEF16E" },
+    { "name": "u_m_o_pshrancher_01", "hash": -585363224, "hex": "0xDD1C10E8" },
+    {
+        "name": "u_m_o_rigtrainstationworker_01",
+        "hash": -1413338433,
+        "hex": "0xABC22ABF"
+    },
+    {
+        "name": "u_m_o_valbartender_01",
+        "hash": -1874017143,
+        "hex": "0x904CC489"
+    },
+    {
+        "name": "u_m_o_vhtexoticshopkeeper_01",
+        "hash": -831368594,
+        "hex": "0xCE72526E"
+    },
+    { "name": "u_m_y_cajhomestead_01", "hash": 462409959, "hex": "0x1B8FD0E7" },
+    {
+        "name": "u_m_y_czphomesteadson_01",
+        "hash": 460261178,
+        "hex": "0x1B6F073A"
+    },
+    {
+        "name": "u_m_y_czphomesteadson_02",
+        "hash": 87087802,
+        "hex": "0x0530DABA"
+    },
+    {
+        "name": "u_m_y_czphomesteadson_03",
+        "hash": -1375097747,
+        "hex": "0xAE09AC6D"
+    },
+    {
+        "name": "u_m_y_czphomesteadson_04",
+        "hash": -1718451329,
+        "hex": "0x9992837F"
+    },
+    {
+        "name": "u_m_y_czphomesteadson_05",
+        "hash": -768117560,
+        "hex": "0xD23774C8"
+    },
+    {
+        "name": "u_m_y_duellistbounty_01",
+        "hash": 1095937531,
+        "hex": "0x4152ADFB"
+    },
+    { "name": "u_m_y_emrson_01", "hash": 1436275127, "hex": "0x559BD1B7" },
+    { "name": "u_m_y_htlworker_01", "hash": -1240499429, "hex": "0xB60F7B1B" },
+    { "name": "u_m_y_htlworker_02", "hash": -932831284, "hex": "0xC8661FCC" },
+    {
+        "name": "u_m_y_shackstarvingkid_01",
+        "hash": -1134756023,
+        "hex": "0xBC5CFF49"
+    },
+    {
+        "name": "a_c_horse_gypsycob_palominoblagdon",
+        "hash": -1142861801,
+        "hex": "0xBBE15017"
+    },
+    {
+        "name": "a_c_horse_gypsycob_piebald",
+        "hash": -390136947,
+        "hex": "0xE8BEFB8D"
+    },
+    {
+        "name": "a_c_horse_gypsycob_skewbald",
+        "hash": -417416199,
+        "hex": "0xE71EBBF9"
+    },
+    {
+        "name": "a_c_horse_gypsycob_splashedbay",
+        "hash": -1460773772,
+        "hex": "0xA8EE5C74"
+    },
+    {
+        "name": "a_c_horse_gypsycob_splashedpiebald",
+        "hash": 1476007840,
+        "hex": "0x57FA17A0"
+    },
+    {
+        "name": "a_c_horse_gypsycob_whiteblagdon",
+        "hash": 1104566530,
+        "hex": "0x41D65902"
+    },
+    {
+        "name": "a_c_horse_missourifoxtrotter_blacktovero",
+        "hash": 1387035765,
+        "hex": "0x52AC7C75"
+    },
+    {
+        "name": "a_c_horse_missourifoxtrotter_blueroan",
+        "hash": 506531963,
+        "hex": "0x1E31107B"
+    },
+    {
+        "name": "a_c_horse_missourifoxtrotter_buckskinbrindle",
+        "hash": 2038357529,
+        "hex": "0x797EDE19"
+    },
+    {
+        "name": "a_c_horse_missourifoxtrotter_dapplegrey",
+        "hash": 1599848740,
+        "hex": "0x5F5BC124"
+    },
+    {
+        "name": "a_c_horse_mustang_blackovero",
+        "hash": 1887211198,
+        "hex": "0x707C8EBE"
+    },
+    {
+        "name": "a_c_horse_mustang_buckskin",
+        "hash": 1645353708,
+        "hex": "0x62121AEC"
+    },
+    {
+        "name": "a_c_horse_mustang_chestnuttovero",
+        "hash": 1154747978,
+        "hex": "0x44D40E4A"
+    },
+    {
+        "name": "a_c_horse_mustang_reddunovero",
+        "hash": 74569170,
+        "hex": "0x0471D5D2"
+    },
+    {
+        "name": "A_C_HORSE_NORFOLKROADSTER_BLACK",
+        "hash": 1007570567,
+        "hex": "0x3C0E4E87"
+    },
+    {
+        "name": "A_C_HORSE_NORFOLKROADSTER_DAPPLEDBUCKSKIN",
+        "hash": -156439156,
+        "hex": "0xF6ACED8C"
+    },
+    {
+        "name": "A_C_HORSE_NORFOLKROADSTER_PIEBALDROAN",
+        "hash": -1424767799,
+        "hex": "0xAB13C4C9"
+    },
+    {
+        "name": "A_C_HORSE_NORFOLKROADSTER_ROSEGREY",
+        "hash": -217135948,
+        "hex": "0xF30EC4B4"
+    },
+    {
+        "name": "A_C_HORSE_NORFOLKROADSTER_SPECKLEDGREY",
+        "hash": 1029339151,
+        "hex": "0x3D5A780F"
+    },
+    {
+        "name": "A_C_HORSE_NORFOLKROADSTER_SPOTTEDTRICOLOR",
+        "hash": 1344011125,
+        "hex": "0x501BFB75"
+    },
+    {
+        "name": "a_c_horse_turkoman_black",
+        "hash": -2004712574,
+        "hex": "0x88828382"
+    },
+    {
+        "name": "a_c_horse_turkoman_chestnut",
+        "hash": 699227695,
+        "hex": "0x29AD5E2F"
+    },
+    {
+        "name": "a_c_horse_turkoman_grey",
+        "hash": 1514230770,
+        "hex": "0x5A4153F2"
+    },
+    {
+        "name": "a_c_horse_turkoman_perlino",
+        "hash": 704938950,
+        "hex": "0x2A0483C6"
+    },
+    { "name": "cs_mp_agent_hixon", "hash": 1351073489, "hex": "0x5087BED1" },
+    { "name": "cs_mp_bessie_adair", "hash": -1703586744, "hex": "0x9A755448" },
+    { "name": "cs_mp_dannylee", "hash": -2117927593, "hex": "0x81C2FD57" },
+    { "name": "cs_mp_gus_macmillan", "hash": 38528190, "hex": "0x024BE4BE" },
+    {
+        "name": "cs_mp_harriet_davenport",
+        "hash": -1680267930,
+        "hex": "0x9BD92566"
+    },
+    { "name": "cs_mp_lem", "hash": 76532262, "hex": "0x048FCA26" },
+    { "name": "CS_MP_MAGGIE", "hash": -254133531, "hex": "0xF0DA3AE5" },
+    { "name": "cs_mp_seth", "hash": 1986433307, "hex": "0x7666911B" },
+    { "name": "MP_A_C_ALLIGATOR_01", "hash": 674287411, "hex": "0x2830CF33" },
+    { "name": "MP_A_C_BEAR_01", "hash": -551216071, "hex": "0xDF251C39" },
+    { "name": "MP_A_C_BEAVER_01", "hash": -1149999295, "hex": "0xBB746741" },
+    { "name": "MP_A_C_BIGHORNRAM_01", "hash": -511163808, "hex": "0xE1884260" },
+    { "name": "MP_A_C_BOAR_01", "hash": -389300196, "hex": "0xE8CBC01C" },
+    { "name": "MP_A_C_BUCK_01", "hash": -1754211037, "hex": "0x9770DD23" },
+    { "name": "MP_A_C_BUFFALO_01", "hash": -915290938, "hex": "0xC971C4C6" },
+    { "name": "mp_a_c_chicken_01", "hash": 692475673, "hex": "0x29465719" },
+    { "name": "MP_A_C_COUGAR_01", "hash": -1433814131, "hex": "0xAA89BB8D" },
+    { "name": "MP_A_C_COYOTE_01", "hash": -1307757043, "hex": "0xB20D360D" },
+    { "name": "mp_a_c_deer_01", "hash": 782723549, "hex": "0x2EA769DD" },
+    {
+        "name": "mp_a_c_dogamericanfoxhound_01",
+        "hash": -1076093654,
+        "hex": "0xBFDC1D2A"
+    },
+    { "name": "MP_A_C_ELK_01", "hash": -781967776, "hex": "0xD1641E60" },
+    { "name": "MP_A_C_FOX_01", "hash": -557149691, "hex": "0xDECA9205" },
+    { "name": "MP_A_C_MOOSE_01", "hash": -117665949, "hex": "0xF8FC8F63" },
+    { "name": "mp_a_c_owl_01", "hash": 616937088, "hex": "0x24C5B680" },
+    { "name": "MP_A_C_PANTHER_01", "hash": -1189368951, "hex": "0xB91BAB89" },
+    { "name": "mp_a_c_possum_01", "hash": -556870915, "hex": "0xDECED2FD" },
+    { "name": "mp_a_c_pronghorn_01", "hash": -29303690, "hex": "0xFE40DC76" },
+    { "name": "mp_a_c_rabbit_01", "hash": -185975991, "hex": "0xF4EA3B49" },
+    { "name": "mp_a_c_sheep_01", "hash": -1704854344, "hex": "0x9A61FCB8" },
+    { "name": "MP_A_C_WOLF_01", "hash": -1392359921, "hex": "0xAD02460F" },
+    {
+        "name": "mp_a_f_m_saloonband_females_01",
+        "hash": 997972179,
+        "hex": "0x3B7BD8D3"
+    },
+    {
+        "name": "MP_A_F_M_SALOONPATRONS_01",
+        "hash": 765651515,
+        "hex": "0x2DA2EA3B"
+    },
+    {
+        "name": "MP_A_F_M_SALOONPATRONS_02",
+        "hash": 1362243929,
+        "hex": "0x51323159"
+    },
+    {
+        "name": "MP_A_F_M_SALOONPATRONS_03",
+        "hash": 1664537954,
+        "hex": "0x6336D562"
+    },
+    {
+        "name": "MP_A_F_M_SALOONPATRONS_04",
+        "hash": 1901949359,
+        "hex": "0x715D71AF"
+    },
+    {
+        "name": "MP_A_F_M_SALOONPATRONS_05",
+        "hash": -2095573720,
+        "hex": "0x83181528"
+    },
+    {
+        "name": "MP_A_M_M_MOONSHINEMAKERS_01",
+        "hash": -2142956142,
+        "hex": "0x80451592"
+    },
+    {
+        "name": "mp_a_m_m_saloonband_males_01",
+        "hash": -1157809126,
+        "hex": "0xBAFD3C1A"
+    },
+    {
+        "name": "MP_A_M_M_SALOONPATRONS_01",
+        "hash": -1708902473,
+        "hex": "0x9A2437B7"
+    },
+    {
+        "name": "MP_A_M_M_SALOONPATRONS_02",
+        "hash": 1370171070,
+        "hex": "0x51AB26BE"
+    },
+    {
+        "name": "MP_A_M_M_SALOONPATRONS_03",
+        "hash": 1088783667,
+        "hex": "0x40E58533"
+    },
+    {
+        "name": "MP_A_M_M_SALOONPATRONS_04",
+        "hash": 1980821385,
+        "hex": "0x7610EF89"
+    },
+    {
+        "name": "MP_A_M_M_SALOONPATRONS_05",
+        "hash": 1674988308,
+        "hex": "0x63D64B14"
+    },
+    {
+        "name": "MP_BEAU_BINK_FEMALES_01",
+        "hash": -1050548060,
+        "hex": "0xC161E8A4"
+    },
+    {
+        "name": "MP_BEAU_BINK_MALES_01",
+        "hash": -302706057,
+        "hex": "0xEDF51277"
+    },
+    {
+        "name": "MP_CARMELA_BINK_VICTIM_MALES_01",
+        "hash": -1697744624,
+        "hex": "0x9ACE7910"
+    },
+    {
+        "name": "MP_CD_REVENGEMAYOR_01",
+        "hash": -2021637900,
+        "hex": "0x878040F4"
+    },
+    {
+        "name": "mp_fm_bounty_caged_males_01",
+        "hash": -142402427,
+        "hex": "0xF7831C85"
+    },
+    {
+        "name": "mp_fm_bounty_ct_corpses_01",
+        "hash": 1065739076,
+        "hex": "0x3F85E344"
+    },
+    {
+        "name": "mp_fm_bounty_hideout_males_01",
+        "hash": -2054660969,
+        "hex": "0x85885C97"
+    },
+    {
+        "name": "mp_fm_bounty_horde_law_01",
+        "hash": -1877825342,
+        "hex": "0x9012A8C2"
+    },
+    {
+        "name": "mp_fm_bounty_horde_males_01",
+        "hash": 1768777444,
+        "hex": "0x696D66E4"
+    },
+    {
+        "name": "mp_fm_bounty_infiltration_males_01",
+        "hash": -2126553389,
+        "hex": "0x813F5ED3"
+    },
+    {
+        "name": "MP_FM_BOUNTYTARGET_FEMALES_DLC008_01",
+        "hash": 1055716353,
+        "hex": "0x3EECF401"
+    },
+    {
+        "name": "MP_FM_BOUNTYTARGET_MALES_DLC008_01",
+        "hash": -163217047,
+        "hex": "0xF6458169"
+    },
+    {
+        "name": "mp_fm_knownbounty_guards_01",
+        "hash": -1040358508,
+        "hex": "0xC1FD6394"
+    },
+    {
+        "name": "MP_FM_KNOWNBOUNTY_INFORMANTS_FEMALES_01",
+        "hash": -652857559,
+        "hex": "0xD9162F29"
+    },
+    {
+        "name": "mp_fm_knownbounty_informants_males_01",
+        "hash": -1451348635,
+        "hex": "0xA97E2D65"
+    },
+    {
+        "name": "mp_fm_multitrack_victims_males_01",
+        "hash": 851714646,
+        "hex": "0x32C42256"
+    },
+    {
+        "name": "mp_fm_stakeout_corpses_males_01",
+        "hash": 1230491631,
+        "hex": "0x4957CFEF"
+    },
+    {
+        "name": "mp_fm_stakeout_poker_males_01",
+        "hash": 608795327,
+        "hex": "0x24497ABF"
+    },
+    {
+        "name": "mp_fm_stakeout_target_males_01",
+        "hash": -1510451310,
+        "hex": "0xA5F85792"
+    },
+    {
+        "name": "mp_fm_track_prospector_01",
+        "hash": 504631406,
+        "hex": "0x1E14106E"
+    },
+    {
+        "name": "mp_fm_track_sd_lawman_01",
+        "hash": -928912308,
+        "hex": "0xC8A1EC4C"
+    },
+    {
+        "name": "mp_fm_track_targets_males_01",
+        "hash": -1435704803,
+        "hex": "0xAA6CE21D"
+    },
+    {
+        "name": "mp_g_f_m_armyoffear_01",
+        "hash": -1302444521,
+        "hex": "0xB25E4617"
+    },
+    {
+        "name": "MP_G_F_M_CULTGUARDS_01",
+        "hash": -2083882058,
+        "hex": "0x83CA7BB6"
+    },
+    {
+        "name": "mp_g_f_m_cultmembers_01",
+        "hash": -930962450,
+        "hex": "0xC882A3EE"
+    },
+    {
+        "name": "MP_G_M_M_ANIMALPOACHERS_01",
+        "hash": -1160158290,
+        "hex": "0xBAD963AE"
+    },
+    {
+        "name": "mp_g_m_m_armyoffear_01",
+        "hash": 423112700,
+        "hex": "0x19382FFC"
+    },
+    {
+        "name": "MP_G_M_M_CULTGUARDS_01",
+        "hash": -790647156,
+        "hex": "0xD0DFAE8C"
+    },
+    {
+        "name": "mp_g_m_m_cultmembers_01",
+        "hash": -1371484980,
+        "hex": "0xAE40CCCC"
+    },
+    { "name": "MP_G_M_M_MERCS_01", "hash": 2131982263, "hex": "0x7F1377B7" },
+    {
+        "name": "MP_G_M_M_RIFLECRONIES_01",
+        "hash": -416078258,
+        "hex": "0xE733264E"
+    },
+    {
+        "name": "MP_G_M_M_UNICRIMINALS_03",
+        "hash": -222025305,
+        "hex": "0xF2C429A7"
+    },
+    {
+        "name": "MP_G_M_M_UNICRIMINALS_04",
+        "hash": 1152011634,
+        "hex": "0x44AA4D72"
+    },
+    {
+        "name": "MP_G_M_M_UNICRIMINALS_05",
+        "hash": 1463186058,
+        "hex": "0x5736728A"
+    },
+    {
+        "name": "MP_G_M_M_UNICRIMINALS_06",
+        "hash": 690525807,
+        "hex": "0x2928966F"
+    },
+    {
+        "name": "MP_G_M_M_UNICRIMINALS_07",
+        "hash": 1032437553,
+        "hex": "0x3D89BF31"
+    },
+    {
+        "name": "MP_G_M_M_UNICRIMINALS_08",
+        "hash": -1892457853,
+        "hex": "0x8F336283"
+    },
+    {
+        "name": "MP_G_M_M_UNICRIMINALS_09",
+        "hash": 1577418792,
+        "hex": "0x5E058028"
+    },
+    {
+        "name": "MP_LBM_CARMELA_BANDITOS_01",
+        "hash": -1675706663,
+        "hex": "0x9C1EBED9"
+    },
+    {
+        "name": "MP_LM_STEALHORSE_BUYERS_01",
+        "hash": -1764842861,
+        "hex": "0x96CEA293"
+    },
+    {
+        "name": "mp_re_moonshinecamp_males_01",
+        "hash": -747286969,
+        "hex": "0xD3754E47"
+    },
+    {
+        "name": "mp_re_slumpedhunter_females_01",
+        "hash": 1211068025,
+        "hex": "0x482F6E79"
+    },
+    {
+        "name": "mp_re_slumpedhunter_males_01",
+        "hash": 1223834952,
+        "hex": "0x48F23D48"
+    },
+    {
+        "name": "mp_re_suspendedhunter_males_01",
+        "hash": -757935404,
+        "hex": "0xD2D2D2D4"
+    },
+    {
+        "name": "MP_S_M_M_REVENUEAGENTS_01",
+        "hash": -793999676,
+        "hex": "0xD0AC86C4"
+    },
+    {
+        "name": "mp_u_f_m_buyer_improved_01",
+        "hash": -1478027276,
+        "hex": "0xA7E717F4"
+    },
+    {
+        "name": "mp_u_f_m_buyer_improved_02",
+        "hash": -1208207330,
+        "hex": "0xB7FC381E"
+    },
+    {
+        "name": "mp_u_f_m_buyer_regular_01",
+        "hash": -1967967990,
+        "hex": "0x8AB3310A"
+    },
+    {
+        "name": "mp_u_f_m_buyer_regular_02",
+        "hash": -530195346,
+        "hex": "0xE065DC6E"
+    },
+    {
+        "name": "mp_u_f_m_buyer_special_01",
+        "hash": 1574941478,
+        "hex": "0x5DDFB326"
+    },
+    {
+        "name": "mp_u_f_m_buyer_special_02",
+        "hash": 1403100842,
+        "hex": "0x53A19EAA"
+    },
+    {
+        "name": "MP_U_F_M_CULTPRIEST_01",
+        "hash": -1939899444,
+        "hex": "0x8C5F7BCC"
+    },
+    {
+        "name": "MP_U_F_M_LEGENDARYBOUNTY_03",
+        "hash": 1516151519,
+        "hex": "0x5A5EA2DF"
+    },
+    {
+        "name": "mp_u_f_m_nat_traveler_01",
+        "hash": -294352912,
+        "hex": "0xEE7487F0"
+    },
+    {
+        "name": "mp_u_f_m_nat_worker_01",
+        "hash": 1910952102,
+        "hex": "0x71E6D0A6"
+    },
+    {
+        "name": "mp_u_f_m_nat_worker_02",
+        "hash": -1534347789,
+        "hex": "0xA48BB5F3"
+    },
+    {
+        "name": "mp_u_f_m_saloonpianist_01",
+        "hash": -2073417944,
+        "hex": "0x846A2728"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_01",
+        "hash": -267754260,
+        "hex": "0xF00A64EC"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_02",
+        "hash": -505984890,
+        "hex": "0xE1D74886"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_03",
+        "hash": -1839912573,
+        "hex": "0x92552983"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_04",
+        "hash": -2077651668,
+        "hex": "0x84298D2C"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_05",
+        "hash": -1494035778,
+        "hex": "0xA6F2D2BE"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_06",
+        "hash": 1486206469,
+        "hex": "0x5895B605"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_07",
+        "hash": 1034420266,
+        "hex": "0x3DA8002A"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_08",
+        "hash": 1879172317,
+        "hex": "0x7001E4DD"
+    },
+    {
+        "name": "mp_u_m_m_animalpoacher_09",
+        "hash": 1649133937,
+        "hex": "0x624BC971"
+    },
+    {
+        "name": "MP_U_M_M_BANKPRISONER_01",
+        "hash": -107017975,
+        "hex": "0xF99F0909"
+    },
+    {
+        "name": "MP_U_M_M_BINKMERCS_01",
+        "hash": -1463901435,
+        "hex": "0xA8BEA305"
+    },
+    {
+        "name": "MP_U_M_M_BUYER_DEFAULT_01",
+        "hash": 854422193,
+        "hex": "0x32ED72B1"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_01",
+        "hash": 1626764965,
+        "hex": "0x60F676A5"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_02",
+        "hash": -407010251,
+        "hex": "0xE7BD8435"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_03",
+        "hash": 58768315,
+        "hex": "0x0380BBBB"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_04",
+        "hash": -1754799221,
+        "hex": "0x9767E38B"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_05",
+        "hash": 1764296462,
+        "hex": "0x6929070E"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_06",
+        "hash": 986032708,
+        "hex": "0x3AC5AA44"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_07",
+        "hash": -1969567247,
+        "hex": "0x8A9AC9F1"
+    },
+    {
+        "name": "mp_u_m_m_buyer_improved_08",
+        "hash": 1976541223,
+        "hex": "0x75CFA027"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_01",
+        "hash": 498963320,
+        "hex": "0x1DBD9378"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_02",
+        "hash": 804009941,
+        "hex": "0x2FEC37D5"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_03",
+        "hash": 1092835907,
+        "hex": "0x41235A43"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_04",
+        "hash": 1398341294,
+        "hex": "0x5358FEAE"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_05",
+        "hash": 1091721757,
+        "hex": "0x41125A1D"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_06",
+        "hash": 1400110816,
+        "hex": "0x5373FEE0"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_07",
+        "hash": -423942800,
+        "hex": "0xE6BB2570"
+    },
+    {
+        "name": "mp_u_m_m_buyer_regular_08",
+        "hash": -118142492,
+        "hex": "0xF8F549E4"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_01",
+        "hash": 824344220,
+        "hex": "0x31227E9C"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_02",
+        "hash": -19359223,
+        "hex": "0xFED89A09"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_03",
+        "hash": 234305606,
+        "hex": "0x0DF73846"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_04",
+        "hash": -461773500,
+        "hex": "0xE479E544"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_05",
+        "hash": -1304756025,
+        "hex": "0xB23B00C7"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_06",
+        "hash": -939185061,
+        "hex": "0xC8052C5B"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_07",
+        "hash": -1224766892,
+        "hex": "0xB6FF8A54"
+    },
+    {
+        "name": "mp_u_m_m_buyer_special_08",
+        "hash": -842352662,
+        "hex": "0xCDCAB7EA"
+    },
+    {
+        "name": "MP_U_M_M_CULTPRIEST_01",
+        "hash": -1089793552,
+        "hex": "0xBF0B11F0"
+    },
+    {
+        "name": "MP_U_M_M_DROPOFF_JOSIAH_01",
+        "hash": -1168530911,
+        "hex": "0xBA59A221"
+    },
+    {
+        "name": "mp_u_m_m_dyingpoacher_01",
+        "hash": -811739119,
+        "hex": "0xCF9DD811"
+    },
+    {
+        "name": "mp_u_m_m_dyingpoacher_02",
+        "hash": -547620979,
+        "hex": "0xDF5BF78D"
+    },
+    {
+        "name": "mp_u_m_m_dyingpoacher_03",
+        "hash": 1817284986,
+        "hex": "0x6C51917A"
+    },
+    {
+        "name": "mp_u_m_m_dyingpoacher_04",
+        "hash": -1980183352,
+        "hex": "0x89F8CCC8"
+    },
+    {
+        "name": "mp_u_m_m_dyingpoacher_05",
+        "hash": -1699320253,
+        "hex": "0x9AB66E43"
+    },
+    {
+        "name": "mp_u_m_m_lawcamp_lawman_01",
+        "hash": 194484067,
+        "hex": "0x0B979763"
+    },
+    {
+        "name": "mp_u_m_m_lawcamp_lawman_02",
+        "hash": -106564736,
+        "hex": "0xF9A5F380"
+    },
+    {
+        "name": "mp_u_m_m_lawcamp_leadofficer_01",
+        "hash": 2067241947,
+        "hex": "0x7B379BDB"
+    },
+    {
+        "name": "mp_u_m_m_lawcamp_prisoner_01",
+        "hash": 1420937330,
+        "hex": "0x54B1C872"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_08",
+        "hash": -1701747487,
+        "hex": "0x9A9164E1"
+    },
+    {
+        "name": "MP_U_M_M_LEGENDARYBOUNTY_09",
+        "hash": -2027274733,
+        "hex": "0x872A3E13"
+    },
+    {
+        "name": "mp_u_m_m_nat_farmer_01",
+        "hash": 1491719412,
+        "hex": "0x58E9D4F4"
+    },
+    {
+        "name": "mp_u_m_m_nat_farmer_02",
+        "hash": -619325106,
+        "hex": "0xDB15D94E"
+    },
+    {
+        "name": "mp_u_m_m_nat_farmer_03",
+        "hash": 222084507,
+        "hex": "0x0D3CBD9B"
+    },
+    {
+        "name": "mp_u_m_m_nat_farmer_04",
+        "hash": -270761253,
+        "hex": "0xEFDC82DB"
+    },
+    {
+        "name": "mp_u_m_m_nat_photographer_01",
+        "hash": 752846327,
+        "hex": "0x2CDF85F7"
+    },
+    {
+        "name": "mp_u_m_m_nat_photographer_02",
+        "hash": 1049799005,
+        "hex": "0x3E92A95D"
+    },
+    {
+        "name": "mp_u_m_m_nat_rancher_01",
+        "hash": 736672924,
+        "hex": "0x2BE8BC9C"
+    },
+    {
+        "name": "mp_u_m_m_nat_rancher_02",
+        "hash": 2057755159,
+        "hex": "0x7AA6DA17"
+    },
+    {
+        "name": "mp_u_m_m_nat_townfolk_01",
+        "hash": 44602472,
+        "hex": "0x02A89468"
+    },
+    {
+        "name": "mp_U_M_M_RHD_BOUNTYTARGET_01",
+        "hash": 294989664,
+        "hex": "0x11952F60"
+    },
+    {
+        "name": "mp_U_M_M_RHD_BOUNTYTARGET_02",
+        "hash": -1864707,
+        "hex": "0xFFE38BFD"
+    },
+    {
+        "name": "mp_U_M_M_RHD_BOUNTYTARGET_03",
+        "hash": 757261947,
+        "hex": "0x2D22E67B"
+    },
+    {
+        "name": "mp_U_M_M_RHD_BOUNTYTARGET_03B",
+        "hash": 1993399012,
+        "hex": "0x76D0DAE4"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_01",
+        "hash": 1623629575,
+        "hex": "0x60C69F07"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_02",
+        "hash": -1000380889,
+        "hex": "0xC45F6627"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_03",
+        "hash": -1836285310,
+        "hex": "0x928C8282"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_04",
+        "hash": -308332370,
+        "hex": "0xED9F38AE"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_05",
+        "hash": -1272461896,
+        "hex": "0xB427C5B8"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_06",
+        "hash": 1537053861,
+        "hex": "0x5B9D94A5"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_07",
+        "hash": 1798779864,
+        "hex": "0x6B3733D8"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_08",
+        "hash": -1459900576,
+        "hex": "0xA8FBAF60"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_09",
+        "hash": 1992149733,
+        "hex": "0x76BDCAE5"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_10",
+        "hash": 290520745,
+        "hex": "0x1150FEA9"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_11",
+        "hash": -493182659,
+        "hex": "0xE29AA13D"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_12",
+        "hash": 766490470,
+        "hex": "0x2DAFB766"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_13",
+        "hash": -2335808,
+        "hex": "0xFFDC5BC0"
+    },
+    {
+        "name": "MP_U_M_M_SALOONBRAWLER_14",
+        "hash": -1774647181,
+        "hex": "0x96390873"
+    },
+    {
+        "name": "mp_u_m_m_strwelcomecenter_02",
+        "hash": -1184719108,
+        "hex": "0xB9629EFC"
+    }
+]

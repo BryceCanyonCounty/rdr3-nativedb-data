@@ -1,0 +1,50 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#", 
+	"$id": "https://example.com/object1676682395.json", 
+	"title": "Root", 
+	"type": "array",
+	"default": [],
+	"items":{
+		"$id": "#root/items", 
+		"title": "Items", 
+		"type": "object",
+		"required": [
+			"name",
+			"hash",
+			"hex"
+		],
+		"properties": {
+			"name": {
+				"$id": "#root/items/name", 
+				"title": "Name", 
+				"type": "string",
+				"default": "",
+				"examples": [
+					"p_skylightnbx01x"
+				],
+				"pattern": "^.*$"
+			},
+			"hash": {
+				"$id": "#root/items/hash", 
+				"title": "Hash", 
+				"type": "integer",
+				"examples": [
+					461367395
+				],
+				"default": 0
+			},
+			"hex": {
+				"$id": "#root/items/hex", 
+				"title": "Hex", 
+				"type": "string",
+				"default": "",
+				"examples": [
+					"0x1B7FE863"
+				],
+				"pattern": "^.*$"
+			}
+		}
+	}
+
+}

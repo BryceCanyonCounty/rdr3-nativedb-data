@@ -1,6 +1,14 @@
-# rdr3-nativedb-data
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/10902965/219849734-3bf246ab-48ab-4598-b8f2-12bcc0649a59.png" alt="Material Bread logo">
+</p>
 
-## BCC x RedLookup DataBase
+<h1 align="center">
+  BCC x RedLookup DataBase
+</h1>
+
+<h2 align="center">
+    rdr3-nativedb-data
+</h2>
 
 This is a community maintained database of RDR3 information, specifically to power the  [RedLookup.com](https://redlookup.com)
 

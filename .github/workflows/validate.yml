@@ -14,55 +14,55 @@ jobs:
       - name: Validate Natives JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/natives.json
-          INPUT_JSONS: ./natives/natives.json
+          INPUT_SCHEMA: schemas/natives.json
+          INPUT_JSONS: natives/natives.json
       - name: Validate Objects JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/objects.json
-          INPUT_JSONS: ./objects/objects.json
+          INPUT_SCHEMA: schemas/objects.json
+          INPUT_JSONS: objects/objects.json
       - name: Validate Peds JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/objects.json
-          INPUT_JSONS: ./objects/peds.json
+          INPUT_SCHEMA: schemas/objects.json
+          INPUT_JSONS: objects/peds.json
       - name: Validate Vehicles JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/objects.json
-          INPUT_JSONS: ./objects/vehicles.json
+          INPUT_SCHEMA: schemas/objects.json
+          INPUT_JSONS: objects/vehicles.json
       - name: Validate AutoComplete Objects JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/autocomplete.json
-          INPUT_JSONS: ./objects/autocomplete/autoobjects.json
+          INPUT_SCHEMA: schemas/autocomplete.json
+          INPUT_JSONS: objects/autocomplete/autoobjects.json
       - name: Validate AutoComplete Peds JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/autocomplete.json
-          INPUT_JSONS: ./objects/autocomplete/autopeds.json
+          INPUT_SCHEMA: schemas/autocomplete.json
+          INPUT_JSONS: objects/autocomplete/autopeds.json
       - name: Validate AutoComplete Vehicles JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/autocomplete.json
-          INPUT_JSONS: ./objects/autocomplete/autovehicles.json
+          INPUT_SCHEMA: schemas/autocomplete.json
+          INPUT_JSONS: objects/autocomplete/autovehicles.json
       - name: Validate Filter Peds JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/filters.json
+          INPUT_SCHEMA: schemas/filters.json
           INPUT_JSONS: ./objects/filters/peds.json
       - name: Validate Filter Objects JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/filters.json
-          INPUT_JSONS: ./objects/filters/objects.json
+          INPUT_SCHEMA: schemas/filters.json
+          INPUT_JSONS: objects/filters/objects.json
       - name: Validate Filter Natives JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/filters.json
-          INPUT_JSONS: ./objects/filters/natives.json
+          INPUT_SCHEMA: schemas/filters.json
+          INPUT_JSONS: objects/filters/natives.json
       - name: Validate Filter Vehicles JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ./schemas/filters.json
-          INPUT_JSONS: ./objects/filters/vehicles.json
+          INPUT_SCHEMA: schemas/filters.json
+          INPUT_JSONS: objects/filters/vehicles.json

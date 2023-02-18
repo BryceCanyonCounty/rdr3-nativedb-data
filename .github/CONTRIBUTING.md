@@ -1,5 +1,16 @@
 # Contributing
 
+## Images
+Within `objects/images` 
+
+Images should be as small in size as possible. (Preferably under 500kb)
+
+__Images are structures as:__
+
+`object_namex1.png` for the first image (Image first slot)
+
+`onject_namgex2.png` for the second image (Image second slot)
+
 ## Request for changes/ Pull Requests
 You first need to create a fork this repository to commit your changes to it. Methods to fork a repository can be found in the [GitHub Documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 

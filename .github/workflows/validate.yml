@@ -6,7 +6,10 @@ jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout files
+        uses: Bhacaz/checkout-files@v2
+        with:
+          files: schemas blips controls natives objects/autocomplete objects/filters objects/objects.json objects/peds.json objects/vehicles.json
       - name: Validate Natives JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:

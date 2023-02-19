@@ -11,8 +11,7 @@
 		"type": "object",
 		"required": [
 			"name",
-			"hash",
-			"image"
+			"hash"
 		],
 		"properties": {
 			"name": {
@@ -33,16 +32,6 @@
 					-861219276
 				],
 				"default": 0
-			},
-			"image": {
-				"$id": "#root/items/image", 
-				"title": "Image", 
-				"type": "string",
-				"default": "",
-				"examples": [
-					"http://femga.com/images/samples/ui_textures_no_bg/blips/blip_ambient_bounty_hunter.png"
-				],
-				"pattern": "^.*$"
 			}
 		}
 	}

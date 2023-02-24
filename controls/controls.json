@@ -9,7 +9,8 @@
       "hash": "0x430593AA",
       "name": "INPUT_SNIPER_ZOOM_OUT_ONLY",
       "key": "[",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x7ABC6A66",
@@ -21,7 +22,8 @@
       "hash": "0xA5BDCD3C",
       "name": "INPUT_SNIPER_ZOOM_IN_ONLY",
       "key": "]",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x52D29063",
@@ -33,7 +35,8 @@
       "hash": "0xE6F612E4",
       "name": "INPUT_SELECT_QUICKSELECT_SIDEARMS_LEFT",
       "key": "BUTTON 1",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0xF311100C",
@@ -45,7 +48,8 @@
       "hash": "0x1CE6D9EB",
       "name": "INPUT_SELECT_QUICKSELECT_DUALWIELD",
       "key": "BUTTON 2",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0x6990BDDF",
@@ -63,7 +67,8 @@
       "hash": "0x4F49CC4C",
       "name": "INPUT_SELECT_QUICKSELECT_SIDEARMS_RIGHT",
       "key": "BUTTON 3",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0xAE69478F",
@@ -81,7 +86,8 @@
       "hash": "0x8F9F9E58",
       "name": "INPUT_SELECT_QUICKSELECT_UNARMED",
       "key": "BUTTON 4",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0x470DC190",
@@ -93,31 +99,36 @@
       "hash": "0xAB62E997",
       "name": "INPUT_SELECT_QUICKSELECT_MELEE_NO_UNARMED",
       "key": "BUTTON 5",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0xA1FDE2A6",
       "name": "INPUT_SELECT_QUICKSELECT_SECONDARY_LONGARM",
       "key": "BUTTON 6",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0xB03A913B",
       "name": "INPUT_SELECT_QUICKSELECT_THROWN",
       "key": "BUTTON 7",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0x42385422",
       "name": "INPUT_SELECT_QUICKSELECT_PRIMARY_LONGARM",
       "key": "BUTTON 8",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0x7065027D",
       "name": "INPUT_MOVE_LEFT_ONLY",
       "key": "A",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x877F1027",
@@ -159,7 +170,8 @@
       "hash": "0x4CC0E2FE",
       "name": "INPUT_OPEN_SATCHEL_MENU",
       "key": "B",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x5966D52A",
@@ -213,7 +225,8 @@
       "hash": "0x9959A6F0",
       "name": "INPUT_LOOK_BEHIND",
       "key": "C",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x81280569",
@@ -279,7 +292,8 @@
       "hash": "0xB4E465B4",
       "name": "INPUT_MOVE_RIGHT_ONLY",
       "key": "D",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xF1111E4A",
@@ -309,13 +323,15 @@
       "hash": "0x4AF4D473",
       "name": "INPUT_FRONTEND_DELETE",
       "key": "DELETE",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x05CA7C52",
       "name": "INPUT_FRONTEND_DOWN",
       "key": "DOWN ARROW",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x4403F97F",
@@ -507,7 +523,8 @@
       "hash": "0xCEFD9220",
       "name": "INPUT_ENTER",
       "key": "E",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xD51B784F",
@@ -585,7 +602,8 @@
       "hash": "0xC7B5340A",
       "name": "INPUT_FRONTEND_ACCEPT",
       "key": "ENTER",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xCDC4E4E9",
@@ -597,7 +615,8 @@
       "hash": "0x156F7119",
       "name": "INPUT_FRONTEND_CANCEL",
       "key": "ESC",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x308588E6",
@@ -681,7 +700,8 @@
       "hash": "0xB2F377E8",
       "name": "INPUT_MELEE_ATTACK",
       "key": "F",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xD2CC4644",
@@ -729,7 +749,8 @@
       "hash": "0x1F6D95E5",
       "name": "INPUT_SELECT_ITEM_WHEEL",
       "key": "F4",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x35957F6C",
@@ -741,7 +762,8 @@
       "hash": "0x3C0A40F2",
       "name": "INPUT_PHOTO_MODE",
       "key": "F6",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0x5415BE48",
@@ -753,7 +775,8 @@
       "hash": "0x760A9C6F",
       "name": "INPUT_INTERACT_OPTION1",
       "key": "G",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xA1ABB953",
@@ -771,7 +794,8 @@
       "hash": "0x24978A28",
       "name": "INPUT_WHISTLE",
       "key": "H",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x73A8FD83",
@@ -807,19 +831,22 @@
       "hash": "0xC1989F95",
       "name": "INPUT_QUICK_USE_ITEM",
       "key": "I",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xF3830D8E",
       "name": "INPUT_OPEN_JOURNAL",
       "key": "J",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x80F28E95",
       "name": "INPUT_PLAYER_MENU",
       "key": "L",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x580C4473",
@@ -831,7 +858,8 @@
       "hash": "0x8AAA0AD4",
       "name": "INPUT_PC_FREE_LOOK",
       "key": "LEFT ALT",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0xCF8A4ECA",
@@ -867,7 +895,8 @@
       "hash": "0xA65EBAB4",
       "name": "INPUT_FRONTEND_LEFT",
       "key": "LEFT ARROW",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xAD7FCC5B",
@@ -903,7 +932,8 @@
       "hash": "0xDB096B85",
       "name": "INPUT_DUCK",
       "key": "LEFT CONTROL",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x0B1BE2E8",
@@ -963,7 +993,8 @@
       "hash": "0x8FFC75D6",
       "name": "INPUT_SPRINT",
       "key": "LEFT SHIFT",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x639B9FC9",
@@ -1017,7 +1048,8 @@
       "hash": "0xE31C6A41",
       "name": "INPUT_MAP",
       "key": "M",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x07B8BEAF",
@@ -1029,7 +1061,8 @@
       "hash": "0x07CE1E61",
       "name": "INPUT_ATTACK",
       "key": "MOUSE LEFT CLICK",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x9D2AEA88",
@@ -1221,7 +1254,8 @@
       "hash": "0xF84FA74F",
       "name": "INPUT_AIM",
       "key": "MOUSE RIGHT CLICK",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xF8982F00",
@@ -1299,19 +1333,22 @@
       "hash": "0xCEE12B50",
       "name": "INPUT_SPECIAL_ABILITY",
       "key": "MOUSE SCROLL CLICK",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x8AAA0AD4",
       "name": "INPUT_PC_FREE_LOOK",
       "key": "MOUSE SCROLL CLICK",
-      "gameversion": 1311.12
+      "gameversion": 1311.12,
+      "commonuse": true
     },
     {
       "hash": "0x430593AA",
       "name": "INPUT_SNIPER_ZOOM_OUT_ONLY",
       "key": "MOUSE SCROLL DOWN",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x7ABC6A66",
@@ -1347,7 +1384,8 @@
       "hash": "0x3076E97C",
       "name": "INPUT_TOGGLE_WEAPON_SCOPE",
       "key": "MOUSE SCROLL UP",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x406ADFAE",
@@ -1377,7 +1415,8 @@
       "hash": "0xA5BDCD3C",
       "name": "INPUT_SNIPER_ZOOM_IN_ONLY",
       "key": "MOUSE SCROLL UP",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xEB4130DF",
@@ -1401,7 +1440,8 @@
       "hash": "0x4BC9DABB",
       "name": "INPUT_PUSH_TO_TALK",
       "key": "N",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x2CD5343E",
@@ -1425,13 +1465,15 @@
       "hash": "0xF1301666",
       "name": "INPUT_VEH_HEADLIGHT",
       "key": "O (when driving vehicle)",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xD82E0BD2",
       "name": "INPUT_FRONTEND_PAUSE",
       "key": "P",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x110AD1D2",
@@ -1443,7 +1485,8 @@
       "hash": "0x3C3DD371",
       "name": "INPUT_CREATOR_RT",
       "key": "PAGE DOWN",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x51104035",
@@ -1455,7 +1498,8 @@
       "hash": "0x446258B6",
       "name": "INPUT_CREATOR_LT",
       "key": "PAGE UP",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x6FED71BC",
@@ -1509,7 +1553,8 @@
       "hash": "0xDE794E3E",
       "name": "INPUT_COVER",
       "key": "Q",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xE885EF16",
@@ -1593,7 +1638,8 @@
       "hash": "0xE30CD707",
       "name": "INPUT_RELOAD",
       "key": "R",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xE3BF959B",
@@ -1653,7 +1699,8 @@
       "hash": "0xDEB34313",
       "name": "INPUT_FRONTEND_RIGHT",
       "key": "RIGHT ARROW",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x3224BC55",
@@ -1689,7 +1736,8 @@
       "hash": "0xD27782E3",
       "name": "INPUT_MOVE_DOWN_ONLY",
       "key": "S",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xFDA83190",
@@ -1755,7 +1803,8 @@
       "hash": "0xD9D0E1C0",
       "name": "INPUT_JUMP",
       "key": "SPACE",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xFBD7B3E6",
@@ -1827,7 +1876,8 @@
       "hash": "0xB238FE0B",
       "name": "INPUT_TOGGLE_HOLSTER",
       "key": "TAB (fast tapping)",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xAC4BD4F1",
@@ -1863,13 +1913,15 @@
       "hash": "0xD8F73058",
       "name": "INPUT_AIM_IN_AIR",
       "key": "U",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x6319DB71",
       "name": "INPUT_FRONTEND_UP",
       "key": "UP ARROW",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x8CFFE0A1",
@@ -1893,7 +1945,8 @@
       "hash": "0x7F8D09B8",
       "name": "INPUT_NEXT_CAMERA",
       "key": "V",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0xE72B43F4",
@@ -1911,7 +1964,8 @@
       "hash": "0x8FD015D8",
       "name": "INPUT_MOVE_UP_ONLY",
       "key": "W",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x699487BB",
@@ -1941,13 +1995,15 @@
       "hash": "0x8CC9CD42",
       "name": "INPUT_GAME_MENU_TAB_RIGHT_SECONDARY",
       "key": "X",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x26E9DC00",
       "name": "INPUT_GAME_MENU_TAB_LEFT_SECONDARY",
       "key": "Z",
-      "gameversion": 1207.8
+      "gameversion": 1207.8,
+      "commonuse": true
     },
     {
       "hash": "0x43CDA5B0",
@@ -3920,8 +3976,9 @@
     {
       "hash": "0xA8E3F467",
       "name": "INPUT_FEED_INTERACT",
-      "key": "",
-      "gameversion": ""
+      "key": "F1",
+      "gameversion": "",
+      "commonuse": true
     },
     {
       "hash": "0xA8F6DE66",

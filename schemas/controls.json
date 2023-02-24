@@ -54,6 +54,15 @@
 					1207.8
 				],
 				"default": 0.0
+			},
+            "commonuse": {
+				"$id": "#root/items/commonuse", 
+				"title": "CommonUse", 
+				"type": "boolean",
+				"default": false,
+				"examples": [
+					false
+				]
 			}
 		}
 	}

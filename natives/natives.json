@@ -388,8 +388,8 @@
 			"build": "1207"
 		},
 		"0x5F5B1B7E8E8F94C6": {
-			"name": "_0x5F5B1B7E8E8F94C6",
-			"comment": "",
+			"name": "_GET_COVER_POINT_STATE_FROM_PED",
+			"comment": "1 = In cover while crouched\n2 = In cover while standing\n3 = Not in cover",
 			"params": [
 				{
 					"type": "Ped",
@@ -962,8 +962,8 @@
 			"build": "1207"
 		},
 		"0x13F138225C202F66": {
-			"name": "_0x13F138225C202F66",
-			"comment": "NB_CUSTOM_CLIENT_ON_CREATE_COMPLETE: Setting vehicle transition enabled\n_SET_TRANSPORT_*",
+			"name": "_SET_TRANSPORT_PRIORITY_SEAT",
+			"comment": "",
 			"params": [
 				{
 					"type": "Entity",
@@ -971,7 +971,7 @@
 				},
 				{
 					"type": "int",
-					"name": "p1"
+					"name": "seatIndex"
 				}
 			],
 			"return_type": "void",
@@ -4263,11 +4263,11 @@
 		},
 		"0x0D7FD6A55FD63AEF": {
 			"name": "_0x0D7FD6A55FD63AEF",
-			"comment": "Related to audio events of some sort",
+			"comment": "speechEventType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/naSpeechEventType \np1 is possibly naSpeechAudibility, naSpeechType, or naSpeechEventTypeRequestPriority\nSKIP_* - START_*",
 			"params": [
 				{
 					"type": "int",
-					"name": "p0"
+					"name": "speechEventType"
 				},
 				{
 					"type": "int",
@@ -4283,11 +4283,11 @@
 		},
 		"0x660A8F876DF1D4F8": {
 			"name": "_0x660A8F876DF1D4F8",
-			"comment": "",
+			"comment": "speechEventType: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/naSpeechEventType \nSKIP_* - START_*",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "int",
+					"name": "speechEventType"
 				}
 			],
 			"return_type": "void",
@@ -5322,12 +5322,12 @@
 			"build": "1207"
 		},
 		"0x87E6302FC61208CC": {
-			"name": "_0x87E6302FC61208CC",
-			"comment": "",
+			"name": "_UNLOAD_SPEECH_CONTEXT",
+			"comment": "_UNLOAD_[A-C]* - USE_*",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "const char*",
+					"name": "speechContext"
 				}
 			],
 			"return_type": "void",
@@ -7863,8 +7863,8 @@
 					"name": "cam"
 				},
 				{
-					"type": "float*",
-					"name": "p1"
+					"type": "Any*",
+					"name": "args"
 				}
 			],
 			"return_type": "void",
@@ -9173,15 +9173,15 @@
 			"build": "1207"
 		},
 		"0x05AB44D906738426": {
-			"name": "_DISABLE_FIRST_PERSON_CAM_THIS_FRAME_2",
-			"comment": "Does the same as 0x9C473089A934C930",
+			"name": "_DISABLE_ON_FOOT_FIRST_PERSON_VIEW_THIS_UPDATE_2",
+			"comment": "Does the same as 0x9C473089A934C930 (DISABLE_ON_FOOT_FIRST_PERSON_VIEW_THIS_UPDATE)",
 			"params": [],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0x632BE8D84846FA56": {
 			"name": "_0x632BE8D84846FA56",
-			"comment": "",
+			"comment": "Zooms in the gameplay camera to the next zoom level?\nUSE_* - WAS_*",
 			"params": [],
 			"return_type": "void",
 			"build": "1207"
@@ -9942,15 +9942,15 @@
 			"build": "1207"
 		},
 		"0x986F7A51EE3E1F92": {
-			"name": "_0x986F7A51EE3E1F92",
-			"comment": "",
+			"name": "_REACTIVATE_PED_HEADSHOT_EXECUTE_SLOWCAM",
+			"comment": "Used to enable headshot kill replay when you headshot set ped.\nParams: p1 seems to be 0 or 1 in R* Scripts",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
+					"type": "int",
 					"name": "p1"
 				}
 			],
@@ -11914,14 +11914,14 @@
 	"COMPENDIUM": {
 		"0x725D52F21A5E9E22": {
 			"name": "_0x725D52F21A5E9E22",
-			"comment": "_COMPENDIUM_GET_*",
+			"comment": "Only used in R* SP Scripts, category = GANGS\n_COMPENDIUM_GET_*",
 			"params": [
 				{
 					"type": "Hash",
 					"name": "category"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "float",
 			"build": "1207"
 		},
 		"0x729D52F61A5A9E22": {
@@ -11938,14 +11938,14 @@
 		},
 		"0x729D52461AEA9E22": {
 			"name": "_0x729D52461AEA9E22",
-			"comment": "_COMPENDIUM_GET_*",
+			"comment": "Only used in R* SP Scripts, category = GANGS\n_COMPENDIUM_GET_NUM_OF_ENTRIES_IN_*",
 			"params": [
 				{
 					"type": "Hash",
 					"name": "category"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0x6C5E5D48E48B4C65": {
@@ -15926,7 +15926,7 @@
 		},
 		"0x2412D9C05BB09B97": {
 			"name": "GET_ENTITY_FORWARD_VECTOR",
-			"comment": "Gets the entity's forward vector.",
+			"comment": "Gets the entity's forward vector in XY(Z) eulers.",
 			"params": [
 				{
 					"type": "Entity",
@@ -15967,12 +15967,12 @@
 			"gta_jhash": "0x9E2F917C"
 		},
 		"0x935A30AA88FB1014": {
-			"name": "_0x935A30AA88FB1014",
-			"comment": "",
+			"name": "_GET_ENTITY_FORWARD_VECTOR_YX",
+			"comment": "Gets the entity's forward vector in YX(Z) eulers. Similar to GET_ENTITY_FORWARD_VECTOR",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Entity",
+					"name": "entity"
 				}
 			],
 			"return_type": "Vector3",
@@ -17190,7 +17190,7 @@
 				},
 				{
 					"type": "int",
-					"name": "taskFlag"
+					"name": "animType"
 				}
 			],
 			"return_type": "BOOL",
@@ -17199,19 +17199,19 @@
 			"gta_jhash": "0x0D130D34"
 		},
 		"0x0B7CB1300CBFE19C": {
-			"name": "_0x0B7CB1300CBFE19C",
-			"comment": "",
+			"name": "_IS_ENTITY_PLAYING_ANY_ANIM",
+			"comment": "Params: p1 (probably animType) = 1, 0",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Entity",
+					"name": "entity"
 				},
 				{
-					"type": "Any",
+					"type": "int",
 					"name": "p1"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0x86468ADFA0F6B861": {
@@ -17783,11 +17783,11 @@
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "Ped",
 			"build": "1207"
 		},
 		"0x0CCEFC6C2C95DA2A": {
@@ -22968,15 +22968,15 @@
 			"build": "1207"
 		},
 		"0x8D913E493BAFE0A3": {
-			"name": "_0x8D913E493BAFE0A3",
+			"name": "_IS_HERD_VALID",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "ScrHandle",
+					"name": "herdHandle"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xCB4EF7EDAE2E16F1": {
@@ -27751,28 +27751,28 @@
 			"build": "1207"
 		},
 		"0xC2B8164C3BE871A4": {
-			"name": "_0xC2B8164C3BE871A4",
+			"name": "_PEDSHOT_FINISH_CLEANUP_DATA",
 			"comment": "",
 			"params": [],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0x3E2FDDBE435A8787": {
-			"name": "_0x3E2FDDBE435A8787",
+			"name": "_PEDSHOT_PREVIOUS_PERSONA_PHOTO_DATA_CLEANUP",
 			"comment": "",
 			"params": [],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0x55285F885F662169": {
-			"name": "_0x55285F885F662169",
+			"name": "_PEDSHOT_INIT_CLEANUP_DATA",
 			"comment": "",
 			"params": [],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0xD9C24F53631F2372": {
-			"name": "_0xD9C24F53631F2372",
+			"name": "_PEDSHOT_GENERATE_PERSONA_PHOTO",
 			"comment": "",
 			"params": [
 				{
@@ -27792,7 +27792,7 @@
 			"build": "1207"
 		},
 		"0x196D3ACBEBA4A44B": {
-			"name": "_0x196D3ACBEBA4A44B",
+			"name": "_PEDSHOT_SET_PERSONA_PHOTO_TYPE",
 			"comment": "",
 			"params": [
 				{
@@ -28143,56 +28143,56 @@
 			"build": "1207"
 		},
 		"0xE8A8378BF651079C": {
-			"name": "_0xE8A8378BF651079C",
+			"name": "_GET_ENTITY_MASK_LAYERS",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Entity",
+					"name": "entity"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "float*",
+					"name": "layer0"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "float*",
+					"name": "layer1"
 				},
 				{
-					"type": "Any",
-					"name": "p3"
+					"type": "float*",
+					"name": "layer2"
 				},
 				{
-					"type": "Any",
-					"name": "p4"
+					"type": "float*",
+					"name": "layer3"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xE92012611461A42A": {
-			"name": "_0xE92012611461A42A",
+			"name": "_SET_ENTITY_MASK_LAYERS",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Entity",
+					"name": "entity"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "float*",
+					"name": "layer0"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "float*",
+					"name": "layer1"
 				},
 				{
-					"type": "Any",
-					"name": "p3"
+					"type": "float*",
+					"name": "layer2"
 				},
 				{
-					"type": "Any",
-					"name": "p4"
+					"type": "float*",
+					"name": "layer3"
 				}
 			],
 			"return_type": "void",
@@ -31674,7 +31674,7 @@
 			"build": "1207"
 		}
 	},
-	"_NAMESPACE30": {
+	"INTERACTION": {
 		"0xF12E4CCAF249DC10": {
 			"name": "SET_MOUSE_CURSOR_THIS_FRAME",
 			"comment": "Shows the cursor on screen for one frame.\n\nOld name: _SET_MOUSE_CURSOR_ACTIVE_THIS_FRAME",
@@ -31699,28 +31699,28 @@
 			"gta_jhash": ""
 		},
 		"0x0546B117BB17548B": {
-			"name": "_0x0546B117BB17548B",
+			"name": "_SET_ALLOW_FIRST_PERSON_MOUSE_CAMERA_MOVEMENT",
 			"comment": "Allows camera to be moved if middle mouse button is held while in first person\nMust be called every frame\n_SET*",
 			"params": [],
 			"return_type": "void",
 			"build": "1232"
 		},
 		"0x2B8B605F2A9E64BF": {
-			"name": "_0x2B8B605F2A9E64BF",
+			"name": "_POINTER_IS_BEING_MOVED",
 			"comment": "Returns true if player is moving mouse while cursor is active\n_PI* - _PO*",
 			"params": [],
 			"return_type": "BOOL",
 			"build": "1311"
 		},
 		"0x61CAE9D1FD055E44": {
-			"name": "_0x61CAE9D1FD055E44",
+			"name": "_POINTER_IS_LEFT_BUTTON_HELD",
 			"comment": "Returns true if player is holding LMB while cursor is active\n_PI* - _PO*",
 			"params": [],
 			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xF7F51A57349739F2": {
-			"name": "_0xF7F51A57349739F2",
+			"name": "_POINTER_IS_LEFT_BUTTON_JUST_RELEASED",
 			"comment": "Returns true if player releases LMB if cursor is active\n_PI* - _PO*",
 			"params": [],
 			"return_type": "BOOL",
@@ -32851,7 +32851,7 @@
 		},
 		"0x80D78BDC9D88EF07": {
 			"name": "_INVENTORY_CREATE_ITEM_COLLECTION",
-			"comment": "filterName (collections): \"ALL\", \"ALL WEAPONS\", \"ALL HORSES\", \"ALL COACHES\"\nslotId: -1591664384\np3: outCollectionSize (?)\nReturns collectionId",
+			"comment": "filterName (collections): \"ALL\", \"ALL SATCHEL\", \"ALL HORSES\", \"ALL COACHES\", \"ALL MOUNTS\", \"ALL CLOTHING\", \"ALL WEAPONS\", \"ALL SATCHEL EXCLUDING CLOTHING\", \"ALL EXCLUDING CLOTHING\"\nslotId: -1591664384\np3: outCollectionSize (?)\nReturns collectionId",
 			"params": [
 				{
 					"type": "int",
@@ -33502,7 +33502,7 @@
 			"build": "1207"
 		},
 		"0x597F571DDEE3FFAC": {
-			"name": "_INVENTORY_ENABLE_MISSION_INVENTORY",
+			"name": "_SET_USE_MISSION_INVENTORY",
 			"comment": "This native has no functionality.",
 			"params": [
 				{
@@ -33651,7 +33651,7 @@
 			"build": "1207"
 		},
 		"0xFD41D1D4350F6413": {
-			"name": "_INVENTORY_HANDLE_ITEM_PROMPT_INFO_REQUEST",
+			"name": "_SET_ITEM_PROMPT_INFO_REQUEST",
 			"comment": "",
 			"params": [
 				{
@@ -33670,7 +33670,7 @@
 			"build": "1207"
 		},
 		"0xF666EF30F4F0AC4E": {
-			"name": "_INVENTORY_SET_CARRIABLE_CARRY_ACTION_PROMPT_OVERRIDE",
+			"name": "_SET_CARRIABLE_CARRY_ACTION_PROMPT_OVERRIDE",
 			"comment": "",
 			"params": [
 				{
@@ -34748,12 +34748,12 @@
 					"name": "p0"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "int",
+					"name": "index"
 				},
 				{
 					"type": "Any",
-					"name": "p2"
+					"name": "menuKey"
 				}
 			],
 			"return_type": "BOOL",
@@ -36102,7 +36102,7 @@
 			"build": "1207"
 		},
 		"0xECE3C34B270428D5": {
-			"name": "_0xECE3C34B270428D5",
+			"name": "_ARE_ANY_LAW_PEDS_INVESTIGATING",
 			"comment": "Only used in rcm_homerob00 R* Script",
 			"params": [],
 			"return_type": "BOOL",
@@ -36509,8 +36509,8 @@
 			"build": "1207"
 		},
 		"0x717DA2281DF90855": {
-			"name": "_0x717DA2281DF90855",
-			"comment": "",
+			"name": "_GET_TIME_SINCE_LAST_SEEN_BY_LAW",
+			"comment": "Returns the amount of time (probably in game minutes) since last seen by the law / left the wanted radius",
 			"params": [
 				{
 					"type": "Player",
@@ -38117,7 +38117,7 @@
 					"name": "p1"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xA1B4052C2A3DCC1E": {
@@ -41912,7 +41912,7 @@
 		},
 		"0x6C4DBF553885F9EB": {
 			"name": "_GET_STRING_FROM_VECTOR",
-			"comment": "",
+			"comment": "Returns a string in the following format: <<%.4f,%.4f,%.4f>>",
 			"params": [
 				{
 					"type": "float",
@@ -42995,15 +42995,15 @@
 			"build": "1207"
 		},
 		"0xF18AF483DF70BBDE": {
-			"name": "_0xF18AF483DF70BBDE",
+			"name": "_GET_VOLUME_FROM_INDEXED_ITEM",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "ScrHandle",
+					"name": "item"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "Volume",
 			"build": "1207"
 		},
 		"0xEE04C0AFD4EFAF0E": {
@@ -49342,7 +49342,7 @@
 		},
 		"0x6CEE2E30021DAEC6": {
 			"name": "_0x6CEE2E30021DAEC6",
-			"comment": "",
+			"comment": "_NETWORK_SPAWN_CONFIG_*",
 			"params": [],
 			"return_type": "void",
 			"build": "1207"
@@ -49515,11 +49515,11 @@
 		},
 		"0x5D3C528B7A7DF836": {
 			"name": "_0x5D3C528B7A7DF836",
-			"comment": "",
+			"comment": "_NETWORK_SPAWN_CONFIG_*",
 			"params": [
 				{
 					"type": "Hash",
-					"name": "p0"
+					"name": "nsctf"
 				}
 			],
 			"return_type": "void",
@@ -50819,7 +50819,7 @@
 			"build": "1207"
 		},
 		"0x356F9FB0698C1FEB": {
-			"name": "_0x356F9FB0698C1FEB",
+			"name": "_REQUEST_PEDSHOT_TEXTURE_LOCAL_BACKUP_DOWNLOAD",
 			"comment": "Only used in R* SP Scripts",
 			"params": [
 				{
@@ -50835,7 +50835,7 @@
 			"build": "1207"
 		},
 		"0xCAF4CA2F87779F8F": {
-			"name": "_0xCAF4CA2F87779F8F",
+			"name": "_REQUEST_PEDSHOT_TEXTURE_LOCAL_DOWNLOAD",
 			"comment": "Only used in R* SP Script map_app_event_handler",
 			"params": [
 				{
@@ -50851,7 +50851,7 @@
 			"build": "1207"
 		},
 		"0xB5C4B18B12A2AF23": {
-			"name": "_REQUEST_PEDSHOT_TEXTURE_DOWNLOAD",
+			"name": "_REQUEST_PEDSHOT_TEXTURE_MULTIPLAYER_DOWNLOAD",
 			"comment": "",
 			"params": [
 				{
@@ -55132,7 +55132,7 @@
 			"params": [
 				{
 					"type": "int",
-					"name": "p0"
+					"name": "control"
 				},
 				{
 					"type": "Hash",
@@ -55143,15 +55143,15 @@
 			"build": "1207"
 		},
 		"0xDDCEB0F26C89C00F": {
-			"name": "_0xDDCEB0F26C89C00F",
-			"comment": "",
+			"name": "_GET_CURRENT_CONTROL_CONTEXT",
+			"comment": "Gets the current control context. See: _SET_CONTROL_CONTEXT",
 			"params": [
 				{
 					"type": "int",
-					"name": "p0"
+					"name": "control"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "Hash",
 			"build": "1207"
 		},
 		"0xBC0884BC590951C7": {
@@ -57269,115 +57269,115 @@
 		},
 		"0x348F211CA2404039": {
 			"name": "NAVMESH_REQUEST_PATH",
-			"comment": "",
+			"comment": "Starts a nav mesh query for a path between coordinates with a given ped and returns a handle to be validated by _NAVMESH_REQUESTED_QUERY_STATUS and then _NAVMESH_REQUESTED_PATH_WAYPOINTS_FOUND\n\nOnly bit flag values used in scripts are 0, 23, and 29. 23 is used with dogs and horses. 29 with legendary animals.",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "float",
+					"name": "x1"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "float",
+					"name": "y1"
 				},
 				{
-					"type": "Any",
-					"name": "p3"
+					"type": "float",
+					"name": "z1"
 				},
 				{
-					"type": "Any",
-					"name": "p4"
+					"type": "float",
+					"name": "x2"
 				},
 				{
-					"type": "Any",
-					"name": "p5"
+					"type": "float",
+					"name": "y2"
 				},
 				{
-					"type": "Any",
-					"name": "p6"
+					"type": "float",
+					"name": "z2"
 				},
 				{
-					"type": "Any",
-					"name": "p7"
+					"type": "int",
+					"name": "bitFlag"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0x661BB1E1FF77742D": {
-			"name": "_0x661BB1E1FF77742D",
-			"comment": "",
+			"name": "_NAVMESH_CLEAR_REQUESTED_PATH",
+			"comment": "Called in scripts after finished with requested pathes. Immediately resets all values connected to the path handle except query status, which changes from 1 to 2 before eventually becoming fully invalidated to 0.",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "int",
+					"name": "path"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0x3A0F82F6EE2291C8": {
-			"name": "_NAVMESH_QUERY_STATUS",
-			"comment": "Returns eNavMeshQueryStatus\nenum eNavMeshQueryStatus\n{\n\tQS_NOT_FOUND,\n\tQS_COMPLETE,\n\tQS_PENDING\n};",
+			"name": "_NAVMESH_REQUESTED_QUERY_STATUS",
+			"comment": "Returns eNavMeshQueryStatus\nenum eNavMeshQueryStatus\n{\n\tQS_NOT_FOUND,\n\tQS_COMPLETE,\n\tQS_PENDING\n};\n\nIt appears that the pending state of 2 is at least also used when cleaning up a request (_NAVMESH_CLEAR_REQUESTED_PATH) or if a request never completes. Eventually queries are invalidated and return 0.\n\nOld name: _NAVMESH_QUERY_STATUS",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "int",
+					"name": "path"
 				}
 			],
 			"return_type": "int",
 			"build": "1207"
 		},
 		"0x8800776E410EB669": {
-			"name": "_0x8800776E410EB669",
-			"comment": "",
+			"name": "_NAVMESH_REQUESTED_PATH_WAYPOINTS_FOUND",
+			"comment": "Returns true if a path of waypoints was found. Waypoints can be retrieved with _NAVMESH_REQUESTED_PATH_NUM_WAYPOINTS and _NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "int",
+					"name": "path"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xF61CFEDEAB627BFA": {
-			"name": "_0xF61CFEDEAB627BFA",
-			"comment": "",
+			"name": "_NAVMESH_REQUESTED_PATH_WAYPOINTS_TERRAIN",
+			"comment": "Returns a bit flag for seemingly terrain within the waypoints in the path. Checked against bit value 2 to match water in the path, seems to always contain at least 1 though regardless of location/ped.",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "int",
+					"name": "path"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0xD470725E0703D22F": {
-			"name": "_0xD470725E0703D22F",
-			"comment": "",
+			"name": "_NAVMESH_REQUESTED_PATH_NUM_WAYPOINTS",
+			"comment": "Returns the number of waypoints for a requested path (NAVMESH_REQUEST_PATH) if the query is completed (_NAVMESH_REQUESTED_QUERY_STATUS). For use with _NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "int",
+					"name": "path"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0x430F8319AE56C8A9": {
-			"name": "_0x430F8319AE56C8A9",
-			"comment": "",
+			"name": "_NAVMESH_REQUESTED_PATH_WAYPOINT_BY_INDEX",
+			"comment": "Returns a vector3 waypoint at the specified index for a path. Use _NAVMESH_REQUESTED_PATH_NUM_WAYPOINTS to get available indexes.",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "int",
+					"name": "path"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "int",
+					"name": "waypointIndex"
 				}
 			],
 			"return_type": "Vector3",
@@ -59195,11 +59195,11 @@
 		},
 		"0xBCC76708E5677E1D": {
 			"name": "_0xBCC76708E5677E1D",
-			"comment": "",
+			"comment": "Set to false for player horse in scripts and seems it's only true when releasing/changing a player horse? Cannot determine what effect it has, but it doesn't seem to affect _GET_HORSE_TAMING_STATE",
 			"params": [
 				{
 					"type": "Ped",
-					"name": "ped"
+					"name": "horse"
 				},
 				{
 					"type": "BOOL",
@@ -60019,7 +60019,7 @@
 			"build": "1207"
 		},
 		"0xDC9273D95976BA22": {
-			"name": "_0xDC9273D95976BA22",
+			"name": "_GET_ACCURACY_AGAINST_LOCAL_PLAYER_MODIFIER",
 			"comment": "",
 			"params": [
 				{
@@ -61115,7 +61115,7 @@
 			"gta_jhash": "0x02C2A6C3"
 		},
 		"0x7583A9D35248B83F": {
-			"name": "_0x7583A9D35248B83F",
+			"name": "_IS_PED_INVESTIGATING",
 			"comment": "_IS_PED_IN*",
 			"params": [
 				{
@@ -61293,7 +61293,7 @@
 			"build": "1207"
 		},
 		"0x06FA94C835787C64": {
-			"name": "_0x06FA94C835787C64",
+			"name": "_PED_WAS_KILLED_BY_HEADSHOT",
 			"comment": "",
 			"params": [
 				{
@@ -61538,7 +61538,7 @@
 		},
 		"0x4D0D2E3D8BC000EB": {
 			"name": "_GET_PED_REGISTER_PROP",
-			"comment": "Params: p1 = p_banjo01x_XH_R_HAND00, mp006_p_dblcello01x_XH_R_HAND00, p_fiddle01x_PH_L_HAND, p_guitar01x_XH_R_HAND00, mp006_p_mnshn_washboard01x_XH_R_HAND00, p_bottleBeer01x_PH_R_HAND",
+			"comment": "Gets a registered/attached prop entity for a particular ped. Second parameter will detach the prop entity from the ped if true. Props primarily appear to come from scenarios, such as a broom or hay bale.\n\nKnown props: https://pastebin.com/ap2NEJqB",
 			"params": [
 				{
 					"type": "Ped",
@@ -61546,11 +61546,11 @@
 				},
 				{
 					"type": "const char*",
-					"name": "p1"
+					"name": "propName"
 				},
 				{
 					"type": "BOOL",
-					"name": "p2"
+					"name": "detachProp"
 				}
 			],
 			"return_type": "Entity",
@@ -62373,7 +62373,7 @@
 			"gta_jhash": "0x836D9795"
 		},
 		"0x917760CFE7A0E0F1": {
-			"name": "_0x917760CFE7A0E0F1",
+			"name": "_IS_PED_LEADING_ANY_GROUP",
 			"comment": "_IS_PED_L* - _IS_PED_M*",
 			"params": [
 				{
@@ -63253,8 +63253,8 @@
 			"build": "1207"
 		},
 		"0xB8B6430EAD2D2437": {
-			"name": "_0xB8B6430EAD2D2437",
-			"comment": "Hashes: STANDARD_PED_AGRO_GUARD, BOUNTY_HUNTER, PLAYER_HORSE\n_SET_PED_P* - _SET_PED_R*",
+			"name": "_SET_PED_PERSONALITY",
+			"comment": "Hashes: STANDARD_PED_AGRO_GUARD, BOUNTY_HUNTER, PLAYER_HORSE, LAW_POLICE, GUARD_DOG, ATTACK_DOG\nPersonalities can also be found in common:/data/ai/interactionpersonalities",
 			"params": [
 				{
 					"type": "Ped",
@@ -63262,7 +63262,7 @@
 				},
 				{
 					"type": "Hash",
-					"name": "p1"
+					"name": "personality"
 				}
 			],
 			"return_type": "void",
@@ -63341,8 +63341,8 @@
 			"build": "1207"
 		},
 		"0x20C5459379D75C1C": {
-			"name": "_0x20C5459379D75C1C",
-			"comment": "_SET_PED_IN*",
+			"name": "_SET_PED_INTERACTION_POSITIVE_RESPONSE",
+			"comment": "",
 			"params": [
 				{
 					"type": "Ped",
@@ -63350,7 +63350,7 @@
 				},
 				{
 					"type": "const char*",
-					"name": "p1"
+					"name": "speech"
 				}
 			],
 			"return_type": "void",
@@ -63373,8 +63373,8 @@
 			"build": "1207"
 		},
 		"0xA3C53CDE922BC78B": {
-			"name": "_0xA3C53CDE922BC78B",
-			"comment": "_SET_PED_IN*",
+			"name": "_SET_PED_INTERACTION_NEGATIVE_RESPONSE",
+			"comment": "",
 			"params": [
 				{
 					"type": "Ped",
@@ -63382,7 +63382,7 @@
 				},
 				{
 					"type": "const char*",
-					"name": "p1"
+					"name": "speech"
 				}
 			],
 			"return_type": "void",
@@ -63841,7 +63841,7 @@
 		},
 		"0xDC88D06719070C39": {
 			"name": "_0xDC88D06719070C39",
-			"comment": "_IS_PED_IN_* (near water?)",
+			"comment": "_IS_PED_IN_* (near water?)\nReturns true if ped is swimming in water",
 			"params": [
 				{
 					"type": "Ped",
@@ -64503,7 +64503,7 @@
 				},
 				{
 					"type": "int",
-					"name": "flag"
+					"name": "boneId"
 				},
 				{
 					"type": "float",
@@ -67182,7 +67182,7 @@
 		},
 		"0x1913FE4CBF41C463": {
 			"name": "SET_PED_CONFIG_FLAG",
-			"comment": "flagId: https://alloc8or.re/rdr3/doc/enums/ePedScriptConfigFlags.txt\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_CONFIG_FLAGS",
+			"comment": "flagId: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedScriptConfigFlags\nhttps://alloc8or.re/rdr3/doc/enums/ePedScriptConfigFlags.txt\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_CONFIG_FLAGS",
 			"params": [
 				{
 					"type": "Ped",
@@ -67204,7 +67204,7 @@
 		},
 		"0xC1E8A365BF3B29F2": {
 			"name": "SET_PED_RESET_FLAG",
-			"comment": "Needs to be called every frame\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_RESET_FLAGS",
+			"comment": "Needs to be called every frame\n\nflagid:https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedScriptResetFlags\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/CPED_RESET_FLAGS",
 			"params": [
 				{
 					"type": "Ped",
@@ -67491,7 +67491,7 @@
 			"gta_jhash": "0xFDDB042E"
 		},
 		"0x078076AB50FB117F": {
-			"name": "_0x078076AB50FB117F",
+			"name": "_IS_PED_IN_POINT",
 			"comment": "If returned true: There are enemy peds near friendly turn in ped. Going to aggro.\nIf returned false: Moving back to idle as there aren't any remaining enemy peds near ped\n_IS_PED_IN_*",
 			"params": [
 				{
@@ -67512,7 +67512,7 @@
 				},
 				{
 					"type": "float",
-					"name": "p4"
+					"name": "radius"
 				},
 				{
 					"type": "BOOL",
@@ -68891,7 +68891,7 @@
 			"build": "1207"
 		},
 		"0x118D476A6F1A13F1": {
-			"name": "_IS_METAPED_FISH",
+			"name": "_IS_META_PED_FISH",
 			"comment": "Returns true if given ped is a fish.\n_IS_ME* - _IS_MO*",
 			"params": [
 				{
@@ -71872,8 +71872,8 @@
 			"build": "1207"
 		},
 		"0x5653AB26C82938CF": {
-			"name": "_SET_PED_FACE_FEATURE",
-			"comment": "Note: You have to update the ped's variation (using 0xCC8CA3E88256E58F) after calling this native\n\nindex = Ped expression ID's / face features\nList of face features: https://pastebin.com/9jb88FXW\nvalue: -1.0 to 1.0\n\nThis native also allows you to change a horse's gender.",
+			"name": "_SET_CHAR_EXPRESSION",
+			"comment": "Sets MetaPedExpression at index specified. Morphs components, such as changing body size or facial features.\n\nNote: You have to update the ped's variation (using 0xCC8CA3E88256E58F) after calling this native\n\nindex = MetaPedExpression IDs\nList of face features: https://pastebin.com/9jb88FXW\nFull list of MetaPedExpressions: https://pastebin.com/Ld76cAn7\nvalue: -1.0 to 1.0 (values beyond this likely won't sync to other clients)\n\nThis native also allows you to change a horse's gender.\n\nOld name: _SET_PED_FACE_FEATURE",
 			"params": [
 				{
 					"type": "Ped",
@@ -71892,8 +71892,8 @@
 			"build": "1207"
 		},
 		"0xFD1BA1EEF7985BB8": {
-			"name": "_GET_PED_FACE_FEATURE",
-			"comment": "",
+			"name": "_GET_CHAR_EXPRESSION",
+			"comment": "Gets MetaPedExpression at index specified\n\nFor index, see: _SET_CHAR_EXPRESSION\n\nOld name: _GET_PED_FACE_FEATURE",
 			"params": [
 				{
 					"type": "Ped",
@@ -72060,7 +72060,7 @@
 			"build": "1207"
 		},
 		"0xFB4891BD7578CDC1": {
-			"name": "_IS_METAPED_USING_COMPONENT",
+			"name": "_IS_META_PED_USING_COMPONENT",
 			"comment": "",
 			"params": [
 				{
@@ -72476,7 +72476,7 @@
 			"build": "1207"
 		},
 		"0xC0E880B7A441164D": {
-			"name": "_DOES_METAPED_OUTFIT_EXIST_FOR_PED_MODEL",
+			"name": "_DOES_META_PED_OUTFIT_EXIST_FOR_PED_MODEL",
 			"comment": "",
 			"params": [
 				{
@@ -72492,7 +72492,7 @@
 			"build": "1207"
 		},
 		"0x4FF3C2B4E6A196C1": {
-			"name": "_DOES_METAPED_SUBOUTFIT_EXIST_FOR_PED_MODEL",
+			"name": "_DOES_META_PED_SUBOUTFIT_EXIST_FOR_PED_MODEL",
 			"comment": "",
 			"params": [
 				{
@@ -72660,39 +72660,39 @@
 			"build": "1207"
 		},
 		"0x4EFC1F8FF1AD94DE": {
-			"name": "_0x4EFC1F8FF1AD94DE",
+			"name": "_SET_TEXTURE_OUTFIT_TINTS",
 			"comment": "Used in script function METAPED_CLOTHING__XML__APPLY_OUTFIT_TINTS_TO_PED",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "Hash",
+					"name": "componentCategory"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "Hash",
+					"name": "palette"
 				},
 				{
-					"type": "Any",
-					"name": "p3"
+					"type": "int",
+					"name": "tint0"
 				},
 				{
-					"type": "Any",
-					"name": "p4"
+					"type": "int",
+					"name": "tint1"
 				},
 				{
-					"type": "Any",
-					"name": "p5"
+					"type": "int",
+					"name": "tint2"
 				}
 			],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0xF97C34C33487D569": {
-			"name": "_REQUEST_METAPED_PED",
+			"name": "_REQUEST_META_PED",
 			"comment": "Returns requestId\nParams: p1 = 1 in R* Scripts (Used in SP only)",
 			"params": [
 				{
@@ -72708,7 +72708,7 @@
 			"build": "1207"
 		},
 		"0xC0940AC858C1E126": {
-			"name": "_HAS_METAPED_PED_REQUEST_LOADED",
+			"name": "_HAS_META_PED_REQUEST_LOADED",
 			"comment": "",
 			"params": [
 				{
@@ -72720,7 +72720,7 @@
 			"build": "1207"
 		},
 		"0x43E4DA469541A9C9": {
-			"name": "_IS_METAPED_PED_REQUEST_VALID",
+			"name": "_IS_META_PED_REQUEST_VALID",
 			"comment": "",
 			"params": [
 				{
@@ -72732,7 +72732,7 @@
 			"build": "1207"
 		},
 		"0x0BCD4091C8EABA42": {
-			"name": "_CREATE_METAPED_PED",
+			"name": "_CREATE_META_PED",
 			"comment": "Only used in SP scripts, for example odriscolls1: BOOLS: true, true, true, false, false",
 			"params": [
 				{
@@ -72780,7 +72780,7 @@
 			"build": "1207"
 		},
 		"0x3972F78A78B5D9DF": {
-			"name": "_RELEASE_METAPED_PED_REQUEST",
+			"name": "_RELEASE_META_PED_REQUEST",
 			"comment": "",
 			"params": [
 				{
@@ -72792,7 +72792,7 @@
 			"build": "1207"
 		},
 		"0x13154A76CE0CF9AB": {
-			"name": "_REQUEST_METAPED_OUTFIT",
+			"name": "_REQUEST_META_PED_OUTFIT",
 			"comment": "https://github.com/femga/rdr3_discoveries/blob/master/clothes/metaped_outfits.lua\nReturns requestId, to be used with 0x74F512E29CB717E2",
 			"params": [
 				{
@@ -72844,7 +72844,7 @@
 			"build": "1207"
 		},
 		"0x4592B8B9B0EF5F48": {
-			"name": "_RELEASE_METAPED_OUTFIT_REQUEST",
+			"name": "_RELEASE_META_PED_OUTFIT_REQUEST",
 			"comment": "",
 			"params": [
 				{
@@ -72884,7 +72884,7 @@
 			"build": "1207"
 		},
 		"0x91FE941F9FCFB702": {
-			"name": "_REQUEST_METAPED_ASSET_BUNDLE",
+			"name": "_REQUEST_META_PED_ASSET_BUNDLE",
 			"comment": "Returns requestId\nParams: p1 = 1 in R* Scripts",
 			"params": [
 				{
@@ -72900,7 +72900,7 @@
 			"build": "1207"
 		},
 		"0xF6D9E1F3560CBF8E": {
-			"name": "_REQUEST_METAPED_COMPONENT",
+			"name": "_REQUEST_META_PED_COMPONENT",
 			"comment": "",
 			"params": [
 				{
@@ -72928,7 +72928,7 @@
 			"build": "1207"
 		},
 		"0x13E7320C762F0477": {
-			"name": "_RELEASE_METAPED_ASSET_REQUEST",
+			"name": "_RELEASE_META_PED_ASSET_REQUEST",
 			"comment": "",
 			"params": [
 				{
@@ -72940,7 +72940,7 @@
 			"build": "1207"
 		},
 		"0xB0B2C6D170B0E8E5": {
-			"name": "_HAS_METAPED_ASSET_LOADED",
+			"name": "_HAS_META_PED_ASSET_LOADED",
 			"comment": "",
 			"params": [
 				{
@@ -72952,7 +72952,7 @@
 			"build": "1207"
 		},
 		"0x93FFD92F05EC32FD": {
-			"name": "_IS_METAPED_ASSET_VALID",
+			"name": "_IS_META_PED_ASSET_VALID",
 			"comment": "",
 			"params": [
 				{
@@ -72964,7 +72964,7 @@
 			"build": "1207"
 		},
 		"0x9641A9A20310F6B8": {
-			"name": "_CREATE_METAPED_ASSET",
+			"name": "_CREATE_META_PED_ASSET",
 			"comment": "Creates prop from metaped asset bundle\nhttps://github.com/femga/rdr3_discoveries/blob/master/objects/metaped_asset_bundles_list.lua\nCreates a pickup-able metaped component. asset doesn't seems to be related to component hashes. Hash example : 0xD20354AB (https ://i.imgur.com/dzHkcDb.png)",
 			"params": [
 				{
@@ -73012,7 +73012,7 @@
 			"build": "1207"
 		},
 		"0x610438375E5D1801": {
-			"name": "_HAS_METAPED_OUTFIT_LOADED",
+			"name": "_HAS_META_PED_OUTFIT_LOADED",
 			"comment": "",
 			"params": [
 				{
@@ -73024,7 +73024,7 @@
 			"build": "1207"
 		},
 		"0xB25E57FC8E37114D": {
-			"name": "_IS_METAPED_OUTFIT_REQUEST_VALID",
+			"name": "_IS_META_PED_OUTFIT_REQUEST_VALID",
 			"comment": "",
 			"params": [
 				{
@@ -73036,7 +73036,7 @@
 			"build": "1207"
 		},
 		"0xEAF682A14F8E5F53": {
-			"name": "_CREATE_METAPED_OUTFIT_PED",
+			"name": "_CREATE_META_PED_OUTFIT_PED",
 			"comment": "Creates metaped from ped outfit requestId. See _REQUEST_METAPED_OUTFIT",
 			"params": [
 				{
@@ -73080,7 +73080,7 @@
 			"build": "1207"
 		},
 		"0x74F512E29CB717E2": {
-			"name": "_APPLY_PED_METAPED_OUTFIT",
+			"name": "_APPLY_PED_META_PED_OUTFIT",
 			"comment": "https://github.com/femga/rdr3_discoveries/blob/master/clothes/metaped_outfits.lua",
 			"params": [
 				{
@@ -73104,7 +73104,7 @@
 			"build": "1207"
 		},
 		"0x314C5465195F3B30": {
-			"name": "_SET_METAPED_WEARINESS",
+			"name": "_SET_META_PED_WEARINESS",
 			"comment": "Sets ped eye redness, weariness: 0.f to 1.f",
 			"params": [
 				{
@@ -73288,15 +73288,15 @@
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
+					"type": "Hash",
 					"name": "p1"
 				},
 				{
-					"type": "Any",
+					"type": "float",
 					"name": "p2"
 				}
 			],
@@ -73308,24 +73308,24 @@
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
+					"type": "Hash",
 					"name": "p1"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "float",
+					"name": "r"
 				},
 				{
-					"type": "Any",
-					"name": "p3"
+					"type": "float",
+					"name": "g"
 				},
 				{
-					"type": "Any",
-					"name": "p4"
+					"type": "float",
+					"name": "b"
 				}
 			],
 			"return_type": "void",
@@ -74916,7 +74916,7 @@
 			"build": "1207"
 		},
 		"0x77BA37622E22023B": {
-			"name": "_GET_SHOP_PED_COMPONENT_AT_INDEX",
+			"name": "_GET_SHOP_ITEM_COMPONENT_AT_INDEX",
 			"comment": "",
 			"params": [
 				{
@@ -74944,51 +74944,51 @@
 			"build": "1207"
 		},
 		"0xFFCC2DB2D9953401": {
-			"name": "_0xFFCC2DB2D9953401",
-			"comment": "",
+			"name": "_GET_SHOP_ITEM_NUM_WEARABLE_STATES",
+			"comment": "Returns the number of wearable states available for a shop item / component. p2 seems to be true in scripts.\n\nFor use with 0x6243635AF2F1B826 (_GET_SHOP_ITEM_AVAILABLE_WEARABLE_STATE_BY_INDEX)",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Hash",
+					"name": "componentHash"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "BOOL",
+					"name": "isMpFemale"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p2"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "int",
 			"build": "1207"
 		},
 		"0x6243635AF2F1B826": {
-			"name": "_0x6243635AF2F1B826",
-			"comment": "",
+			"name": "_GET_SHOP_ITEM_WEARABLE_STATE_BY_INDEX",
+			"comment": "Gets an available wearable state by index for a shop item / component - it does not retreive what the current state is. p3 seems to be true in scripts.\n\nUse 0xFFCC2DB2D9953401 (_GET_SHOP_ITEM_NUM_WEARABLE_STATES) to get the number of available wearable states",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Hash",
+					"name": "componentHash"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "int",
+					"name": "wearableStateIndex"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "BOOL",
+					"name": "isMpFemale"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p3"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "Hash",
 			"build": "1207"
 		},
 		"0x5FF9A878C3D115B8": {
-			"name": "_GET_SHOP_PED_COMPONENT_CATEGORY",
+			"name": "_GET_SHOP_ITEM_COMPONENT_CATEGORY",
 			"comment": "",
 			"params": [
 				{
@@ -75032,7 +75032,7 @@
 			"build": "1207"
 		},
 		"0x63342C50EC115CE8": {
-			"name": "_GET_SHOP_PED_BASE_LAYERS",
+			"name": "_GET_SHOP_ITEM_BASE_LAYERS",
 			"comment": "",
 			"params": [
 				{
@@ -75108,7 +75108,7 @@
 			"build": "1207"
 		},
 		"0x7E02E4218D916B94": {
-			"name": "_GET_SHOP_PED_HAT_COMPONENT",
+			"name": "_GET_SHOP_ITEM_HAT_COMPONENT",
 			"comment": "",
 			"params": [
 				{
@@ -75192,32 +75192,32 @@
 			"build": "1207"
 		},
 		"0xC2745D9261664901": {
-			"name": "_0xC2745D9261664901",
+			"name": "_SET_PED_PROMPT_NAME_FROM_GXT_ENTRY_2",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "Hash",
+					"name": "gxtEntryHash"
 				}
 			],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0x19B14E04B009E28B": {
-			"name": "_0x19B14E04B009E28B",
+			"name": "_SET_PED_PROMPT_NAME_2",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "const char*",
+					"name": "name"
 				}
 			],
 			"return_type": "void",
@@ -76876,7 +76876,7 @@
 			"build": "1207"
 		},
 		"0x7A54D82227A139DB": {
-			"name": "_0x7A54D82227A139DB",
+			"name": "_ROPE_CHANGE_VISIBILITY",
 			"comment": "",
 			"params": [
 				{
@@ -76884,8 +76884,8 @@
 					"name": "ropeId"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "BOOL",
+					"name": "visible"
 				}
 			],
 			"return_type": "void",
@@ -78870,10 +78870,10 @@
 			"build": "1207"
 		},
 		"0xA82964B9D8D6A983": {
-			"name": "_0xA82964B9D8D6A983",
-			"comment": "",
+			"name": "_GET_WANTED_LEVEL_MULTIPLIER",
+			"comment": "Returns -1.0f if no multiplier has been set",
 			"params": [],
-			"return_type": "Any",
+			"return_type": "float",
 			"build": "1207"
 		},
 		"0xD7FA719CB54866C2": {
@@ -79610,7 +79610,7 @@
 		},
 		"0xAC22AA6DF4D1C1DE": {
 			"name": "_ADD_PLAYER_AS_FOLLOW_TARGET",
-			"comment": "Used in script function: NET_AUTO_FOLLOW_UPDATE_LEADER_VALUES",
+			"comment": "Used in script function: NET_AUTO_FOLLOW_UPDATE_LEADER_VALUES\nfollowMode:\nHORSEFOLLOWMODE_AUTO = 0,\nHORSEFOLLOWMODE_SIDE_ONLY,\nHORSEFOLLOWMODE_BEHIND_ONLY,\nHORSEFOLLOWMODE_BEHIND_AND_SIDE,\nHORSEFOLLOWMODE_BEHIND_CLOSE\nfollowPriority:\nHORSEFOLLOWPRIORITY_STEER_ASSIST = 0,\nHORSEFOLLOWPRIORITY_AMBIENT,\nHORSEFOLLOWPRIORITY_NORMAL,\nHORSEFOLLOWPRIORITY_HIGH",
 			"params": [
 				{
 					"type": "Player",
@@ -80169,24 +80169,24 @@
 			"gta_jhash": "0x39AA9FC8"
 		},
 		"0x39BED552DB46FFA9": {
-			"name": "_0x39BED552DB46FFA9",
-			"comment": "",
+			"name": "_SET_PLAYER_MOOD",
+			"comment": "mood: https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePedMood",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Player",
+					"name": "player"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "int",
+					"name": "mood"
 				}
 			],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0x054473164C012699": {
-			"name": "_0x054473164C012699",
-			"comment": "",
+			"name": "_GET_PLAYER_MOOD",
+			"comment": "See _SET_PLAYER_MOOD",
 			"params": [
 				{
 					"type": "Player",
@@ -81101,16 +81101,16 @@
 			"build": "1207"
 		},
 		"0x00BA333DA05ADC23": {
-			"name": "_0x00BA333DA05ADC23",
-			"comment": "",
+			"name": "_SET_SPECIAL_ABILITY_TYPE",
+			"comment": "SPECIAL_ABILITY_NONE = -1,\nSPECIAL_ABILITY_CAR_SLOWDOWN,\nSPECIAL_ABILITY_RAGE,\nSPECIAL_ABILITY_BULLET_TIME,\nSPECIAL_ABILITY_SNAPSHOT,\nSPECIAL_ABILITY_INSULT,\nSPECIAL_ABILITY_DEADEYE,\nSPECIAL_ABILITY_REVIVE",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Player",
+					"name": "player"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "int",
+					"name": "type"
 				}
 			],
 			"return_type": "void",
@@ -81397,15 +81397,15 @@
 			"build": "1207"
 		},
 		"0xE022CC1B545F1D9F": {
-			"name": "_0xE022CC1B545F1D9F",
-			"comment": "",
+			"name": "_IS_SECONDARY_SPECIAL_ABILITY_ENABLED",
+			"comment": "Returns true if eagle eye is enabled for the player",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Player",
+					"name": "player"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0x1710BC33CFB83634": {
@@ -82314,15 +82314,15 @@
 				},
 				{
 					"type": "float",
-					"name": "amount"
+					"name": "speed"
 				},
 				{
 					"type": "int",
-					"name": "gaitType"
+					"name": "duration"
 				},
 				{
 					"type": "float",
-					"name": "speed"
+					"name": "heading"
 				},
 				{
 					"type": "BOOL",
@@ -83699,32 +83699,32 @@
 			"build": "1207"
 		},
 		"0xC6366A585659D15C": {
-			"name": "_0xC6366A585659D15C",
+			"name": "_SET_PLAYER_INTERACTION_POSITIVE_RESPONSE",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Player",
+					"name": "player"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "const char*",
+					"name": "speech"
 				}
 			],
 			"return_type": "void",
 			"build": "1207"
 		},
 		"0x98CD760DE43B612E": {
-			"name": "_0x98CD760DE43B612E",
+			"name": "_SET_PLAYER_INTERACTION_NEGATIVE_RESPONSE",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Player",
+					"name": "player"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "const char*",
+					"name": "speech"
 				}
 			],
 			"return_type": "void",
@@ -83996,7 +83996,7 @@
 		},
 		"0x9F9A829C6751F3C7": {
 			"name": "_SET_PLAYER_RESET_FLAG",
-			"comment": "https://github.com/femga/rdr3_discoveries/tree/master/AI/PLAYER_RESET_FLAGS",
+			"comment": "https://github.com/Halen84/RDR3-Native-Flags-And-Enums/tree/main/ePlayerResetFlags\nhttps://github.com/femga/rdr3_discoveries/tree/master/AI/PLAYER_RESET_FLAGS",
 			"params": [
 				{
 					"type": "Player",
@@ -84355,7 +84355,7 @@
 			"build": "1207"
 		},
 		"0xDC68829BB3F37023": {
-			"name": "_0xDC68829BB3F37023",
+			"name": "_SET_SHOW_INFO_CARD",
 			"comment": "",
 			"params": [
 				{
@@ -85796,7 +85796,7 @@
 			"build": "1207"
 		},
 		"0xACA7FB30269096D4": {
-			"name": "_CREATE_PROP_SET_4",
+			"name": "_CREATE_PROP_SET_INSTANCE_ATTACHED_TO_ENTITY_2",
 			"comment": "Same as CREATE_PROP_SET_INSTANCE_ATTACHED_TO_ENTITY",
 			"params": [
 				{
@@ -86437,19 +86437,19 @@
 			"build": "1207"
 		},
 		"0x72B2E00C9BAC6789": {
-			"name": "_0x72B2E00C9BAC6789",
+			"name": "_IS_PLAYER_BIT_SET_AT_INDEX",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Any*",
+					"name": "value"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "int",
+					"name": "bitIndex"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0x179A6F0EE2E79026": {
@@ -89524,8 +89524,8 @@
 			"build": "1207"
 		},
 		"0x90E9A5DADBABC918": {
-			"name": "_0x90E9A5DADBABC918",
-			"comment": "",
+			"name": "_STAT_ADD_ANIMAL_SAMPLE_TARGET",
+			"comment": "Related to animal tagging",
 			"params": [
 				{
 					"type": "Hash",
@@ -104554,20 +104554,20 @@
 			"gta_jhash": "0xA79BE783"
 		},
 		"0x099D4A855D53B03B": {
-			"name": "_0x099D4A855D53B03B",
+			"name": "_SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT_2",
 			"comment": "",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "const char*",
+					"name": "signalName"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "float",
+					"name": "value"
 				}
 			],
 			"return_type": "void",
@@ -107188,15 +107188,15 @@
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "shopType"
 				},
 				{
 					"type": "Any",
-					"name": "p1"
+					"name": "shopRegion"
 				},
 				{
 					"type": "Any",
-					"name": "p2"
+					"name": "region"
 				},
 				{
 					"type": "Any",
@@ -107231,12 +107231,12 @@
 			"build": "1207"
 		},
 		"0xCA9E42F437625A85": {
-			"name": "_0xCA9E42F437625A85",
+			"name": "_TELEMETRY_SET_SHOP_FOR_TRANSACTION",
 			"comment": "",
 			"params": [
 				{
 					"type": "int",
-					"name": "p0"
+					"name": "transactionId"
 				},
 				{
 					"type": "Hash",
@@ -107299,8 +107299,8 @@
 					"name": "p3"
 				},
 				{
-					"type": "Any",
-					"name": "p4"
+					"type": "int",
+					"name": "centSalePrice"
 				}
 			],
 			"return_type": "void",
@@ -107331,7 +107331,7 @@
 			"build": "1207"
 		},
 		"0x32D5898C4898CD95": {
-			"name": "_0x32D5898C4898CD95",
+			"name": "_CLEAR_TELEMETRY_SHOP_UI",
 			"comment": "",
 			"params": [],
 			"return_type": "void",
@@ -107443,7 +107443,7 @@
 				},
 				{
 					"type": "Any",
-					"name": "p3"
+					"name": "quantity"
 				}
 			],
 			"return_type": "void",
@@ -107455,7 +107455,7 @@
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "transactionId"
 				},
 				{
 					"type": "Any",
@@ -107474,11 +107474,11 @@
 					"name": "p4"
 				},
 				{
-					"type": "Any",
-					"name": "p5"
+					"type": "Hash",
+					"name": "slotId"
 				},
 				{
-					"type": "Any",
+					"type": "Hash",
 					"name": "p6"
 				},
 				{
@@ -107486,7 +107486,7 @@
 					"name": "p7"
 				},
 				{
-					"type": "Any",
+					"type": "BOOL",
 					"name": "p8"
 				}
 			],
@@ -107551,7 +107551,7 @@
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "transactionId"
 				},
 				{
 					"type": "Any",
@@ -107598,8 +107598,8 @@
 			"build": "1207"
 		},
 		"0x6571E4327390EC0B": {
-			"name": "_0x6571E4327390EC0B",
-			"comment": "",
+			"name": "_TELEMETRY_MISSION_FAILED_TO_LAUNCH",
+			"comment": "_TELEMETRY_C* - _TELEMETRY_G*",
 			"params": [
 				{
 					"type": "Any",
@@ -107610,20 +107610,20 @@
 					"name": "p1"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "float",
+					"name": "x"
 				},
 				{
-					"type": "Any",
-					"name": "p3"
+					"type": "float",
+					"name": "y"
 				},
 				{
-					"type": "Any",
-					"name": "p4"
+					"type": "float",
+					"name": "z"
 				},
 				{
-					"type": "Any",
-					"name": "p5"
+					"type": "int",
+					"name": "reason"
 				}
 			],
 			"return_type": "void",
@@ -107718,8 +107718,8 @@
 			"build": "1207"
 		},
 		"0x7E002A36AEFCFB55": {
-			"name": "_0x7E002A36AEFCFB55",
-			"comment": "",
+			"name": "_TELEMETRY_RPG_GLOBAL_CALCULATE_ATTRIBUTE_CORE_DELTA",
+			"comment": "Creation of the metric is related to attribute filling, i. e. at camp fires, when the ped is resting.\n_TELEMETRY_C* - _TELEMETRY_P*",
 			"params": [],
 			"return_type": "void",
 			"build": "1207"
@@ -107857,7 +107857,7 @@
 			"build": "1207"
 		},
 		"0x2C24AF8EEEEF8A55": {
-			"name": "_0x2C24AF8EEEEF8A55",
+			"name": "_TELEMETRY_EMOTE_ADD_CATEGORY_TO_SAVE",
 			"comment": "",
 			"params": [
 				{
@@ -107869,8 +107869,8 @@
 					"name": "p1"
 				},
 				{
-					"type": "Any",
-					"name": "p2"
+					"type": "Hash",
+					"name": "emote"
 				}
 			],
 			"return_type": "void",
@@ -107945,8 +107945,8 @@
 			"build": "1207"
 		},
 		"0x80A02D9F948A8BCA": {
-			"name": "_0x80A02D9F948A8BCA",
-			"comment": "",
+			"name": "_TELEMETRY_TRIGGER_TRANSACTION_REQUEST",
+			"comment": "Returns false when transaction request is failing",
 			"params": [
 				{
 					"type": "Any*",
@@ -107954,14 +107954,14 @@
 				},
 				{
 					"type": "Any*",
-					"name": "telemetryId"
+					"name": "transactionId"
 				}
 			],
 			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xF184B3ECE36219CF": {
-			"name": "_0xF184B3ECE36219CF",
+			"name": "_TRY_GET_TELEMETRY_ID_FROM_TRANSACTION_ID",
 			"comment": "",
 			"params": [
 				{
@@ -107970,7 +107970,7 @@
 				},
 				{
 					"type": "Any*",
-					"name": "telemetryId"
+					"name": "requestId"
 				}
 			],
 			"return_type": "BOOL",
@@ -108006,31 +108006,31 @@
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "transactionId"
 				},
 				{
 					"type": "Any",
-					"name": "p1"
+					"name": "bountyAmount"
+				},
+				{
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
 					"type": "Any",
-					"name": "p2"
+					"name": "completionType"
 				},
 				{
 					"type": "Any",
-					"name": "p3"
+					"name": "jailTimeServed"
 				},
 				{
 					"type": "Any",
-					"name": "p4"
+					"name": "jailTimeLeft"
 				},
 				{
 					"type": "Any",
-					"name": "p5"
-				},
-				{
-					"type": "Any",
-					"name": "p6"
+					"name": "posseRole"
 				}
 			],
 			"return_type": "void",
@@ -108046,7 +108046,7 @@
 				},
 				{
 					"type": "Any",
-					"name": "p1"
+					"name": "transactionId"
 				}
 			],
 			"return_type": "void",
@@ -108062,7 +108062,7 @@
 				},
 				{
 					"type": "Any",
-					"name": "p1"
+					"name": "transactionId"
 				}
 			],
 			"return_type": "void",
@@ -108074,15 +108074,15 @@
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "transactionId"
 				},
 				{
 					"type": "Any",
-					"name": "p1"
+					"name": "collectible"
 				},
 				{
 					"type": "Any",
-					"name": "p2"
+					"name": "category"
 				},
 				{
 					"type": "Any",
@@ -108323,12 +108323,12 @@
 			"build": "1232"
 		},
 		"0x37AA282163B0D2C4": {
-			"name": "_0x37AA282163B0D2C4",
+			"name": "_TELEMETRY_HUB_OFFERS",
 			"comment": "",
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "couponItem"
 				},
 				{
 					"type": "Any",
@@ -108344,11 +108344,11 @@
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "transactionId"
 				},
 				{
 					"type": "Any",
-					"name": "p1"
+					"name": "animal"
 				},
 				{
 					"type": "Any",
@@ -108356,7 +108356,7 @@
 				},
 				{
 					"type": "Any",
-					"name": "p3"
+					"name": "bSampled"
 				},
 				{
 					"type": "BOOL",
@@ -108372,7 +108372,7 @@
 			"params": [
 				{
 					"type": "Any",
-					"name": "p0"
+					"name": "transactionId"
 				},
 				{
 					"type": "Any",
@@ -113965,7 +113965,7 @@
 			"build": "1207"
 		},
 		"0xBA958F68031DDBFC": {
-			"name": "_GET_STATION_COORS_FROM_TRAIN_STATION_DATA",
+			"name": "_GET_STATION_COORDS_FROM_TRAIN_STATION_DATA",
 			"comment": "Returns Coords of vStation\np0 - NET_TRAIN_MANAGER_GET_TRAIN_STATION_DATA\n_GET_P* - _GET_T*",
 			"params": [
 				{
@@ -120931,8 +120931,8 @@
 			"build": "1207"
 		},
 		"0x2387D6E9C6B478AA": {
-			"name": "_0x2387D6E9C6B478AA",
-			"comment": "Returns true if ped is holstering/unholstering a weapon",
+			"name": "_IS_WEAPON_HOLSTER_STATE_CHANGING",
+			"comment": "Returns true if the ped is currently holstering or unholstering a weapon",
 			"params": [
 				{
 					"type": "Ped",
@@ -121024,18 +121024,18 @@
 		},
 		"0x07E1C35F0078C3F9": {
 			"name": "_0x07E1C35F0078C3F9",
-			"comment": "",
+			"comment": "Seems to return true if the passed weapon is some sort of non-lethal melee weapon.\nWeapon must currently be held/equipped by the ped.",
 			"params": [
 				{
-					"type": "Any",
-					"name": "p0"
+					"type": "Ped",
+					"name": "ped"
 				},
 				{
-					"type": "Any",
-					"name": "p1"
+					"type": "Hash",
+					"name": "weapon"
 				}
 			],
-			"return_type": "Any",
+			"return_type": "BOOL",
 			"build": "1207"
 		},
 		"0xB80CA294F2F26749": {
